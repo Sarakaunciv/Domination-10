@@ -1,0 +1,14 @@
+
+[
+	{
+		"name": "Domination 10",
+		"cost": 100,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": ["Limited to [1] per Civilization",
+		    "[+900]% Strength <when at war> <for [Human player]>",
+		    "[1] Movement <for [All] units> <for [Human player]>", "[3] Sight <for [All] units> <for [Human player]>"]
+			
+		    "requiredTech": "Agriculture"
+	},
+]
