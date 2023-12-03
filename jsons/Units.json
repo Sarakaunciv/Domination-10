@@ -84,7 +84,7 @@
 		"cost": 80
 		"requiredResource": "Iron",
 		"requiredTech": "Iron Working",
-        "obsoleteTech": "Gunpowder",
+        "obsoleteTech": "Steel",
 		"upgradesTo": "Longswordsman",
 		"attackSound": "metalhit"
 	},
@@ -243,7 +243,7 @@
 		"movement": 3,
 		"strength": 110,
 		"cost": 120,
-		"requiredTech": "Metal Casting",
+		"requiredTech": "Steel",
         "obsoleteTech": "Metallurgy",
 		"upgradesTo": "Musketman",
 		"requiredResource": "Iron",
@@ -270,7 +270,6 @@
 		"unitType": "Mounted",
 		"movement": 10,
 		"strength": 95,
-		"rangedStrength": 21,
 		"cost": 110,
 		"requiredResource": "Horses",
 		"requiredTech": "Chivalry",
