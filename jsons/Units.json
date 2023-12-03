@@ -21,7 +21,7 @@
 		"strength": 16,
 		"rangedStrength": 36,
 		"cost": 40,
-		"requiredTech": "Agriculture",
+		"requiredTech": "Archery",
         "obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
