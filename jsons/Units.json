@@ -318,7 +318,7 @@
 		"movement": 3,
 		"strength": 180,
 		"cost": 300,
-		"requiredTech": "Combine Arms",
+		"requiredTech": "Combined Arms",
         "obsoleteTech": "Computers",
 		"uniques": ["[+50]% Strength <vs [Armored] units> <when attacking>"],
 		"upgradesTo": "Helicopter Gunship",
@@ -332,10 +332,9 @@
 		"movement": 20,
 		"strength": 210,
 		"cost": 420,
-		"requiredTech": "Combine Arms",
-        "obsoleteTech": "Computers",
+		"requiredTech": "Computers",
 		"uniques": ["[+100]% Strength <vs [Armored] units> <when attacking>", "Can move after attacking",
-			"No defensive terrain bonus", "All tiles cost [1] movement", "Ignores Zone of Control", "Unable to capture cities"],
+			"No defensive terrain bonus", "All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities"],
 		"attackSound": "shot"
 	},
 	{
@@ -377,7 +376,7 @@
 		"strength": 210,
 		"cost": 350,
 		"requiredTech": "Combustion",
-		"obsoleteTech": "Combine Arms",
+		"obsoleteTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"upgradesTo": "Tank",
 		"uniques": ["Can move after attacking",
@@ -392,7 +391,7 @@
 		"movement": 10,
 		"strength": 265,
 		"cost": 380,
-		"requiredTech": "Combine Arms",
+		"requiredTech": "Combined Arms",
 		"obsoleteTech": "Lasers",
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
@@ -474,7 +473,7 @@
 		"replaces": "Great General",
 		"uniques": ["Empire enters a [50]-turn Golden Age <by consuming this unit>",
 			"[+50]% Strength bonus for [Military] units within [2] tiles",
-			"Can instantly construct a [Citadel] improvement <>",
+			"Can instantly construct a [Citadel] improvement",
 			"Great Person - [War]",
 			"Unbuildable",
 			"Uncapturable"],
@@ -491,7 +490,7 @@
 		"cost": 1200,
 		"sight": 8
 		"requiredTech": "Nuclear Fusion",
-		"requiredResource": "[3] Uranium",
+		"requiredResource": "Uranium [3]",
 		"uniques": ["Nuclear weapon of Strength [3]",
 		"Blast radius [3]"],
 		"attackSound": "nuke"
@@ -507,7 +506,7 @@
 		"cost": 1600,
 		"sight": 20
 		"requiredTech": "Nuclear Fusion",
-		"requiredResource": "[10] Uranium",
+		"requiredResource": "Uranium [10]",
 		"uniques": ["Nuclear weapon of Strength [7]",
 		"Blast radius [6]"],
 		"attackSound": "nuke"
