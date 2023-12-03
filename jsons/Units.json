@@ -6,7 +6,6 @@
 		"replaces": "Warrior",
 		"movement": 2
 		"strength": 32,
-		"rangedStrength": 14,
 		"cost": 30,
         "obsoleteTech": "Metal Casting",
 		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
@@ -25,7 +24,6 @@
 		"requiredTech": "Agriculture",
         "obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
-		"promotions": ["Slinger Withdraw"],
 		"attackSound": "arrow"
 	},
 	{
@@ -56,8 +54,7 @@
         "obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+80]% Strength <vs [Mounted] units>"],
-		"promotions":  ["[Persian Immortal] ability", "Cover I", "Pictish Courage"],
-		"attackSound": "metalhit"
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Massive Catapult",
@@ -72,7 +69,9 @@
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
-		"uniques": ["[+100]% Strength <vs cities> <when attacking>",],
+		"uniques": ["[+100]% Strength <vs cities> <when attacking>",
+			"Must set up to ranged attack",
+			"No defensive terrain bonus"],
 		"attackSound": "throw"
 	},
 	{
@@ -104,7 +103,6 @@
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
 			"[-50]% Strength <vs cities> <when attacking>"],
-		"promotions": ["Great Generals II"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -199,7 +197,7 @@
 		"uniques": ["[+150]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack"],
-		"attackSound": "throw"
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Large Advance Cannon",
@@ -218,7 +216,7 @@
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
 			"[+2] Sight"],
-		"attackSound": "throw"
+		"attackSound": "artillery"
 	},
 	{
 		"name": "Explosive Flying Cannon",
@@ -233,8 +231,9 @@
 		"requiredTech": "Rocketry",
 		"uniques": ["[+300]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
-			"[+3] Sight"],
-		"attackSound": "throw"
+			"[+3] Sight",
+		"consumes [3] [Uranium]"],
+		"attackSound": "Artillery"
 	},
 	{
 		"name": "Silver Sharpener",
@@ -277,7 +276,9 @@
 		"requiredTech": "Chivalry",
         "obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
-		"uniques": ["Can move after attacking"],
+		"uniques": ["Can move after attacking",
+			"No defensive terrain bonus",
+			"[-50]% Strength <vs cities> <when attacking>"],
 		"attackSound": "arrow"
 	},
 	{
@@ -322,7 +323,7 @@
         "obsoleteTech": "Computers",
 		"uniques": ["[+50]% Strength <vs [Armored] units> <when attacking>"],
 		"upgradesTo": "Helicopter Gunship",
-		"attackSound": "shot"
+		"attackSound": "Artillery"
 	},
 	{
 		"name": "Floating Flame",
@@ -334,8 +335,9 @@
 		"cost": 420,
 		"requiredTech": "Computers",
 		"uniques": ["[+100]% Strength <vs [Armored] units> <when attacking>", "Can move after attacking",
-			"No defensive terrain bonus", "All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities"],
-		"attackSound": "shot"
+			"No defensive terrain bonus", "All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities",
+		"consumes [1] [Aluminum]"],
+		"attackSound": "shipguns"
 	},
 	{
 		"name": "The Gun",
@@ -365,7 +367,7 @@
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
 			"[-50]% Strength <vs cities> <when attacking>"],
-		"attackSound": "horse"
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Barricade",
@@ -427,7 +429,7 @@
 		"requiredResource": "Uranium",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus"],
-		"attackSound": "tankshot"
+		"attackSound": "gdrAttack"
 	},
 	{
 		"name": "Star Marked Infantry",
@@ -505,7 +507,7 @@
 		"range": 42,
 		"cost": 1600,
 		"sight": 20
-		"requiredTech": "Nuclear Fusion",
+		"requiredTech": "Future Tech",
 		"uniques": ["Nuclear weapon of Strength [7]",
 		"Blast radius [6]",
 		"Consumes [10] [Uranium]"],
