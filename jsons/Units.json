@@ -490,7 +490,7 @@
 		"cost": 1200,
 		"sight": 8
 		"requiredTech": "Nuclear Fusion",
-		"requiredResource": "Uranium [3]",
+		"consumes [3] [Uranium]",
 		"uniques": ["Nuclear weapon of Strength [3]",
 		"Blast radius [3]"],
 		"attackSound": "nuke"
@@ -506,7 +506,7 @@
 		"cost": 1600,
 		"sight": 20
 		"requiredTech": "Nuclear Fusion",
-		"requiredResource": "Uranium [10]",
+		"consumes [10] [Uranium]",
 		"uniques": ["Nuclear weapon of Strength [7]",
 		"Blast radius [6]"],
 		"attackSound": "nuke"
