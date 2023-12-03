@@ -22,8 +22,13 @@
 		"uniqueName": "The Great Ventus",
 		"uniqueText": "The Nation of great millitary",
 		"uniques": ["[Great General] is earned [300]% faster",
-			"[+5 Production] from every [Strategic resource]", "[+5 Happiness] from every [Strategic resource]", "[-100]% maintenance costs <for [Land] units>",
-			"Earn [300]% of killed [Military] unit's [Strength] as [Gold]","Earn [300]% of killed [Military] unit's [Strength] as [Science]", "[-100]% maintenance on road & railroads", "Cities are razed [5] times as fast"],
+			"[+5 Production] from every [Strategic resource]",
+			"[+5 Happiness] from every [Strategic resource]",
+			"[-100]% maintenance costs <for [Land] units>",
+			"Earn [300]% of killed [Military] unit's [Strength] as [Gold]",
+			"Earn [300]% of killed [Military] unit's [Strength] as [Science]",
+			"[-100]% maintenance on road & railroads",
+			"Cities are razed [5] times as fast"],
 		"cities": ["Ventapical","Evade","Tropical","Mint","Rainary","Ally","Quint"],
 		"spyNames": ["Spices"]
 	}
