@@ -29,8 +29,7 @@
 			"Earn [1000]% of killed [Military] unit's [Strength] as [Science]",
 			"[-100]% maintenance on road & railroads",
 			"Cities are razed [10] times as fast",
-		 "[-300]% XP gained from combat",
-			"All newly-trained [Millitary] units [in all cities] receive the [March] promotion"],
+		 "[50] XP gained from combat"],
 		"cities": ["Ventapical","Evade","Tropical","Mint","Rainary","Ally","Quint"],
 		"spyNames": ["Spices"]
 	}
