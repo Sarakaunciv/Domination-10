@@ -492,7 +492,7 @@
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Nuclear weapon of Strength [3]",
 		"Blast radius [3]",
-		"consumes [3] [Uranium]",],
+		"Consumes [3] [Uranium]",],
 		"attackSound": "nuke"
 	},
 	{
@@ -508,7 +508,7 @@
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Nuclear weapon of Strength [7]",
 		"Blast radius [6]",
-		"consumes [10] [Uranium]"],
+		"Consumes [10] [Uranium]"],
 		"attackSound": "nuke"
 	},
 ]
