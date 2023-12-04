@@ -5,7 +5,7 @@
 		"uniqueTo": "Ventus",
 		"cost": 10,
 		"maintenance": 0,
-		"uniques": ["[+1000 Production] [in this city]]
+		"uniques": ["[+1000 Production] [in this city]"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -14,7 +14,7 @@
 		"uniqueTo": "Ventus",
 		"cost": 10,
 		"maintenance": 0,
-		"uniques": ["[+1000 Happiness] [in this city]]
+		"uniques": ["[+1000 Happiness] [in this city]"]
 			
 		    "requiredTech": "Agriculture"
 	},
