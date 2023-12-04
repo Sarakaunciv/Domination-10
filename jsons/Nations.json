@@ -21,7 +21,7 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "The Great Ventus",
 		"uniqueText": "The Nation of great millitary",
-		"uniques":"[+25 Production] from every [Strategic resource]",
+		"uniques": ["[+25 Production] from every [Strategic resource]",
 			"[+25 Happiness] from every [Strategic resource]",
 			"[-100]% maintenance costs <for [All] units>",
 			"Earn [1000]% of killed [Military] unit's [Strength] as [Gold]",
