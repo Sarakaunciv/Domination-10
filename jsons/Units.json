@@ -7,7 +7,7 @@
 		"movement": 2
 		"strength": 32,
 		"cost": 30,
-        "obsoleteTech": "Metal Casting",
+        "obsoleteTech": "Iron Working",
 		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
@@ -71,7 +71,8 @@
 		"upgradesTo": "Trebuchet",
 		"uniques": ["[+100]% Strength <vs cities> <when attacking>",
 			"Must set up to ranged attack",
-			"No defensive terrain bonus"],
+			"No defensive terrain bonus",
+			"[+2] Sight"],
 		"attackSound": "throw"
 	},
 	{
@@ -79,12 +80,13 @@
 		"unitType": "Sword",
 		"uniqueTo": "Ventus",
 		"replaces": "Swordsman",
-		"movement": 2,
+		"movement": 3,
 		"strength": 85,
 		"cost": 80
 		"requiredResource": "Iron",
 		"requiredTech": "Iron Working",
         "obsoleteTech": "Steel",
+		"uniques": ["[1] additional attacks per turn"]
 		"upgradesTo": "Longswordsman",
 		"attackSound": "metalhit"
 	},
@@ -123,10 +125,11 @@
 		"name": "Hard Crossbow",
 		"unitType": "Archery",
 		"uniqueTo": "Ventus",
-		"movement": 2,
+		"movement": 3,
 		"strength": 30,
 		"rangedStrength": 95,
 		"replaces": "Crossbowman",
+		"uniques": ["[1] additional attacks per turn"]
 		"cost": 120,
 		"requiredTech": "Machinery",
         "obsoleteTech": "Industrialization",
@@ -137,12 +140,13 @@
 		"name": "Sharp Shooter",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Ventus",
-		"movement": 3,
+		"movement": 4,
 		"strength": 110,
 		"rangedStrength": 180,
 		"range": 4,
 		"replaces": "Gatling Gun",
 		"cost": 250,
+		"uniques": ["[2] additional attacks per turn"]
 		"requiredTech": "Industrialization",
         "obsoleteTech": "Ballistics",
 		"upgradesTo": "Machine Gun",
@@ -152,12 +156,13 @@
 		"name": "Long Ranged Shooter",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Ventus",
-		"movement": 3,
+		"movement": 6,
 		"strength": 170,
 		"rangedStrength": 220,
 		"range": 6,
 		"replaces": "Machine Gun",
 		"cost": 350,
+		"uniques": ["[4] additional attacks per turn"]
 		"requiredTech": "Ballistics",
         "obsoleteTech": "Mobile Tactics",
 		"upgradesTo": "Mechanized Infantry",
@@ -168,7 +173,7 @@
 		"unitType": "Siege",
 		"replaces": "Trebuchet",
 		"uniqueTo": "Ventus",
-		"movement": 2,
+		"movement": 3,
 		"strength": 30,
 		"rangedStrength": 60,
 		"range": 6,
@@ -179,7 +184,8 @@
 		"uniques": ["[+120]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
-			"[+2] Sight"],
+			"[+4] Sight",
+			"[1] additional attacks per turn"],
 		"attackSound": "throw"
 	},
 	{
@@ -187,7 +193,8 @@
 		"unitType": "Siege",
 		"replaces": "Cannon",
 		"uniqueTo": "Ventus",
-		"movement": 2,
+		"movement": 4,
+		"range": 3,
 		"strength": 75,
 		"rangedStrength": 90,
 		"cost": 180,
@@ -196,7 +203,9 @@
 		"upgradesTo": "Artillery",
 		"uniques": ["[+150]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
-			"Must set up to ranged attack"],
+			"Must set up to ranged attack",
+			"[+1] Sight",
+			"[2] additional attacks per turn",
 		"attackSound": "cannon"
 	},
 	{
@@ -204,7 +213,8 @@
 		"unitType": "Siege",
 		"replaces": "Artillery",
 		"uniqueTo": "Ventus",
-		"movement": 2,
+		"movement": 5,
+		"range": 4,
 		"strength": 90,
 		"rangedStrength": 110,
 		"range": 4,
@@ -215,7 +225,8 @@
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
-			"[+2] Sight"],
+			"[+2] Sight",
+			"[3] additional attacks per turn"],
 		"attackSound": "artillery"
 	},
 	{
@@ -223,7 +234,7 @@
 		"unitType": "Siege",
 		"replaces": "Rocket Artillery",
 		"uniqueTo": "Ventus",
-		"movement": 5,
+		"movement": 7,
 		"strength": 130,
 		"rangedStrength": 150,
 		"range": 7,
@@ -232,20 +243,22 @@
 		"requiredResource": "Aluminum",
 		"uniques": ["[+300]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
-			"[+3] Sight"],
-		"attackSound": "Artillery"
+			"[+5] Sight",
+			"[5] additional attacks per turn"],
+		"attackSound": "missile"
 	},
 	{
 		"name": "Silver Sharpener",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Ventus",
 		"unitType": "Sword",
-		"movement": 3,
+		"movement": 4,
 		"strength": 110,
 		"cost": 120,
 		"requiredTech": "Steel",
-        "obsoleteTech": "Metallurgy",
+        "obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
+		"uniques": ["[2] additional attacks per turn"]
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
@@ -259,7 +272,8 @@
 		"cost": 85,
 		"requiredTech": "Civil Service",
         "obsoleteTech": "Metallurgy",
-		"uniques": ["[+120]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+120]% Strength <vs [Mounted] units>",
+			"[1] additional attacks per turn"],
 		"upgradesTo": "Lancer",
 		"attackSound": "nonmetalhit"
 	},
@@ -277,7 +291,8 @@
 		"upgradesTo": "Cavalry",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
-			"[-50]% Strength <vs cities> <when attacking>"],
+			"[-50]% Strength <vs cities> <when attacking>",
+			"[1] additional attacks per turn"],
 		"attackSound": "arrow"
 	},
 	{
@@ -285,11 +300,12 @@
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
 		"uniqueTo": "Ventus",
-		"movement": 3,
+		"movement": 5,
 		"strength": 145,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
         "obsoleteTech": "Rifling",
+		"uniques": ["[3] additional attacks per turn"]
 		"upgradesTo": "Rifleman",
 		"attackSound": "shot"
 	},
@@ -306,7 +322,8 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
-			"[-50]% Strength <vs cities> <when attacking>"],
+			"[-50]% Strength <vs cities> <when attacking>",
+			"[3] additional attacks per turn"],
 		"upgradesTo": "Anti-Tank Gun",
 		"attackSound": "metalhit"
 	},
@@ -315,12 +332,13 @@
 		"unitType": "Gunpowder",
 		"replaces": "Anti-Tank Gun",
 		"uniqueTo": "Ventus",
-		"movement": 3,
+		"movement": 6,
 		"strength": 180,
 		"cost": 300,
 		"requiredTech": "Combined Arms",
         "obsoleteTech": "Computers",
-		"uniques": ["[+50]% Strength <vs [Armored] units> <when attacking>"],
+		"uniques": ["[+50]% Strength <vs [Armored] units> <when attacking>",
+			"[4] additional attacks per turn"],
 		"upgradesTo": "Helicopter Gunship",
 		"attackSound": "Artillery"
 	},
@@ -334,8 +352,15 @@
 		"cost": 420,
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
-		"uniques": ["[+100]% Strength <vs [Armored] units> <when attacking>", "Can move after attacking",
-			"No defensive terrain bonus", "All tiles cost 1 movement", "Ignores Zone of Control","Unable to capture cities"],
+		"uniques": ["[+100]% Strength <vs [Armored] units> <when attacking>",
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"All tiles cost 1 movement",
+			"Ignores Zone of Control","Unable to capture cities",
+			"[6] additional attacks per turn",
+			"[+4] Sight",
+			"Can see over obstacles",
+			"May travel on Water tiles without embarking"],
 		"attackSound": "shipguns"
 	},
 	{
@@ -343,11 +368,12 @@
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
 		"uniqueTo": "Ventus",
-		"movement": 3,
+		"movement": 6,
 		"strength": 185,
 		"cost": 200,
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
+		"uniques": ["[4] additional attacks per turn"]
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
 	},
@@ -365,7 +391,8 @@
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
-			"[-50]% Strength <vs cities> <when attacking>"],
+			"[-50]% Strength <vs cities> <when attacking>",
+			"[2] additional attacks per turn"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -381,7 +408,8 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Tank",
 		"uniques": ["Can move after attacking",
-			"No defensive terrain bonus"],
+			"No defensive terrain bonus",
+			"[3] additional attacks per turn"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -397,7 +425,8 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
 		"uniques": ["Can move after attacking",
-			"No defensive terrain bonus"],
+			"No defensive terrain bonus",
+			"[4] additional attacks per turn"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -413,7 +442,8 @@
 		"requiredResource": "Aluminum",
 		"upgradesTo": "Giant Death Robot",
 		"uniques": ["Can move after attacking",
-			"No defensive terrain bonus"],
+			"No defensive terrain bonus",
+			"[5] additional attacks per turn"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -427,7 +457,8 @@
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
 		"uniques": ["Can move after attacking",
-			"No defensive terrain bonus"],
+			"No defensive terrain bonus",
+			"[7] additional attacks per turn"],
 		"attackSound": "gdrAttack"
 	},
 	{
@@ -435,9 +466,10 @@
 		"unitType": "Gunpowder",
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Ventus",
-		"movement": 3,
+		"movement": 7,
 		"strength": 200,
 		"cost": 320,
+		"uniques": ["[5] additional attacks per turn"]
 		"requiredTech": "Replaceable Parts",
 		"obsoleteTech": "Plastics",
 		"upgradesTo": "Infantry",
@@ -451,6 +483,7 @@
 		"movement": 4,
 		"strength": 260,
 		"cost": 380,
+		"uniques": ["[6] additional attacks per turn"]
 		"requiredTech": "Plastics",
 		"obsoleteTech": "Mobile Tactics",
 		"upgradesTo": "Mechanized Infantry",
@@ -463,7 +496,9 @@
 		"uniqueTo": "Ventus",
 		"movement": 10,
 		"strength": 300,
+		"rangedStrength": 300,
 		"cost": 400,
+		"uniques": ["[8] additional attacks per turn"]
 		"requiredTech": "Mobile Tactics",
 		"attackSound": "shot"
 	}, 
@@ -492,8 +527,11 @@
 		"sight": 8
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Nuclear weapon of Strength [3]",
-		"Blast radius [3]",
-		"Consumes [3] [Uranium]",],
+			"Blast radius [3]",
+			"[+22] Sight",
+			"Can see over obstacles",
+			"Can see invisible [All] units",
+			"Consumes [3] [Uranium]",],
 		"attackSound": "nuke"
 	},
 	{
@@ -505,11 +543,13 @@
 		"rangedStrength": 2000,
 		"range": 42,
 		"cost": 1600,
-		"sight": 20
 		"requiredTech": "Future Tech",
 		"uniques": ["Nuclear weapon of Strength [7]",
-		"Blast radius [6]",
-		"Consumes [10] [Uranium]"],
+			"Blast radius [6]",
+			"[+40] Sight",
+			"Can see over obstacles",
+			"Can see invisible [All] units",
+			"Consumes [10] [Uranium]"],
 		"attackSound": "nuke"
 	},
 ]
