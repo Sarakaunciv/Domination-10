@@ -28,7 +28,8 @@
 			"Earn [1000]% of killed [Military] unit's [Strength] as [Science]",
 			"[-100]% maintenance on road & railroads",
 			"Cities are razed [10] times as fast",
-		 "[50] XP gained from combat"],
+			"[50] XP gained from combat",
+			"Quantity of strategic resources produced by the empire +[+9900]%"],
 		"cities": ["Ventapical","Evade","Tropical","Mint","Rainary","Ally","Quint"],
 		"spyNames": ["Spices"]
 	}
