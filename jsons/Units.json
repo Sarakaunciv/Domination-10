@@ -1,4 +1,4 @@
-[
+o[
 	{
 		"name": "Great Warrior",
 		"unitType": "Sword",
@@ -532,12 +532,9 @@
 		"uniqueTo": "Ventus",
 		"replaces": "Great General",
 		"uniques": ["Empire enters a [5]-turn Golden Age <by consuming this unit>",
-			"[+50]% Strength bonus for [Military] units within [2] tiles",
-			"Can instantly construct a [Citadel] improvement",
-			"Can instantly construct a [Road] improvement",
-			"Can instantly construct a [Railroad] improvement",
-			"Great Person - [War]",
-			"Unbuildable",
+			"Can instantly construct a [Citadel] improvement <for [5] movement>",
+			"Can instantly construct a [Road] improvement <for [0] movement>",
+			"Can instantly construct a [Railroad] improvement <for [1] movement>",
 			"Uncapturable"],
 		"movement": 14,
 		"cost": 100,
@@ -550,7 +547,7 @@
 		"replaces": "Great Scientist",
 		"cost": 500,
 		"uniques": ["Can hurry technology research <by consuming this unit>",
-			"Can instantly construct a [Academy] improvement",
+			"Can instantly construct a [Academy] improvement <for [3] movement>",
 			"Uncapturable"],
 		"movement": 5,
 		"requiredTech": "Education",
