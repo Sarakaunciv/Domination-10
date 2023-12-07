@@ -3,19 +3,59 @@
 	{
 		"name": "Production Cheat",
 		"uniqueTo": "Ventus",
-		"cost": 10,
+		"cost": 1,
 		"maintenance": 0,
-		"uniques": ["[+1000 Production] [in this city]"]
+		"uniques": ["[+10000 Production] [in this city]"]
 			
 		    "requiredTech": "Agriculture"
 	},
 	{
 		"name": "Happiness Cheat",
 		"uniqueTo": "Ventus",
-		"cost": 10,
+		"cost": 1,
 		"maintenance": 0,
-		"uniques": ["[+1000 Happiness] [in this city]"]
+		"uniques": ["[+10000 Happiness] [in this city]"]
 			
 		    "requiredTech": "Agriculture"
 	},
+	{
+		"name": "Gold Cheat 10",
+		"uniqueTo": "Ventus",
+		"cost": 1,
+		"maintenance": 0,
+		"uniques": ["Earn [1000]% of killed [Military] unit's [Strength] as [Gold]",
+			"Limited to [1] per Civilization"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Gold Cheat 100",
+		"uniqueTo": "Ventus",
+		"cost": 1,
+		"maintenance": 0,
+		"uniques": ["Earn [10000]% of killed [Military] unit's [Strength] as [Gold]",
+			"Limited to [1] per Civilization"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Science Cheat 10",
+		"uniqueTo": "Ventus",
+		"cost": 1,
+		"maintenance": 0,
+		"uniques": ["Earn [1000]% of killed [Military] unit's [Strength] as [Science]",
+			"Limited to [1] per Civilization"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Science Cheat 100",
+		"uniqueTo": "Ventus",
+		"cost": 1,
+		"maintenance": 0,
+		"uniques": ["Earn [10000]% of killed [Military] unit's [Strength] as [Science]",
+			"Limited to [1] per Civilization"]
+			
+		    "requiredTech": "Agriculture"
+	}
 ]
