@@ -360,13 +360,13 @@
 			"Can move after attacking",
 			"No defensive terrain bonus",
 			"All tiles cost 1 movement",
-			"Ignores Zone of Control","Unable to capture cities",
+			"Ignores Zone of Control",
 			"[6] additional attacks per turn",
 			"[+6] Sight",
 			"Can see over obstacles",
 			"May travel on Water tiles without embarking",
 			"May enter foreign tiles without open borders"],
-		"attackSound": "shipguns"
+		"attackSound": "shot"
 	},
 	{
 		"name": "The Gun",
