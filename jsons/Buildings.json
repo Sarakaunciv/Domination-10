@@ -57,5 +57,33 @@
 			"Limited to [1] per Civilization"]
 			
 		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Food Cheat Carry",
+		"uniqueTo": "Ventus",
+		"cost": 1,
+		"maintenance": 0,
+		"uniques": ["[3]% Food is carried over after population increases [in this city]"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Food Cheat Population",
+		"uniqueTo": "Ventus",
+		"cost": 1,
+		"maintenance": 0,
+		"uniques": ["[+2 Food] per [1] population [in this city]"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "THE GRAND ABYSS Cheat",
+		"uniqueTo": "Ventus",
+		"cost": 1,
+		"maintenance": 0,
+		"uniques": [ "[5] free [THE GRAND ABYSS] units appear",
+			"Free [View] appears"]
+			
+		    "requiredTech": "Agriculture"
 	}
 ]
