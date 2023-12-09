@@ -79,6 +79,16 @@
 		    "requiredTech": "Agriculture"
 	},
 	{
+		"name": "Population Cheat",
+		"uniqueTo": "Ventus",
+		"cost": 1,
+		"maintenance": 0,
+		"uniques": ["[99] population [in this city]",
+			"[+100 Happiness] [in this city]"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
 		"name": "THE GRAND ABYSS Cheat",
 		"uniqueTo": "Ventus",
 		"cost": 1,
