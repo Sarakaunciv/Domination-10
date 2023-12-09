@@ -1,10 +1,20 @@
 [
 	{
+		"name": "Set",
+		"unitType": "Civilian",
+		"uniqueTo": "Ventus",
+		"replaces": "Settler",
+		"movement": 10,
+		"cost": 10,
+		"uniques": ["Founds a new city <for [10] movement>",
+			"Uncapturable"]
+	},
+	{
 		"name": "Great Warrior",
 		"unitType": "Sword",
 		"uniqueTo": "Ventus",
 		"replaces": "Warrior",
-		"movement": 2
+		"movement": 2,
 		"strength": 32,
 		"cost": 30,
         "obsoleteTech": "Iron Working",
@@ -553,6 +563,51 @@
 		"requiredTech": "Education",
 	},
 	{
+		"name": "Tiny Blast",
+		"unitType": "Missile",
+		"uniqueTo": "Ventus",
+		"movement": 1,
+		"strength": 200,
+		"rangedStrength": 200,
+		"range": 50,
+		"cost": 700,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["Nuclear weapon of Strength [1]",
+			"Blast radius [3]",
+			"Consumes [1] [Uranium]"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Small Blast",
+		"unitType": "Missile",
+		"uniqueTo": "Ventus",
+		"movement": 1,
+		"strength": 5000,
+		"rangedStrength": 5000,
+		"range": 50,
+		"cost": 900,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["Nuclear weapon of Strength [1]",
+			"Blast radius [5]",
+			"Consumes [2] [Uranium]"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Low Blast",
+		"unitType": "Missile",
+		"uniqueTo": "Ventus",
+		"movement": 1,
+		"strength": 5000,
+		"rangedStrength": 5000,
+		"range": 50,
+		"cost": 1200,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["Nuclear weapon of Strength [1]",
+			"Blast radius [8]",
+			"Consumes [3] [Uranium]"],
+		"attackSound": "nuke"
+	},
+	{
 		"name": "ABYSS",
 		"unitType": "Missile",
 		"uniqueTo": "Ventus",
@@ -578,7 +633,7 @@
 		"range": 50,
 		"cost": 1500,
 		"requiredTech": "Nuclear Fusion",
-		"uniques": ["Nuclear weapon of Strength [4]",
+		"uniques": ["Nuclear weapon of Strength [15]",
 			"Blast radius [8]",
 			"Consumes [5] [Uranium]"],
 		"attackSound": "nuke"
@@ -593,7 +648,7 @@
 		"range": 50,
 		"cost": 2000,
 		"requiredTech": "Future Tech",
-		"uniques": ["Nuclear weapon of Strength [5]",
+		"uniques": ["Nuclear weapon of Strength [100]",
 			"Blast radius [20]",
 			"Consumes [100] [Uranium]"],
 		"attackSound": "nuke"
