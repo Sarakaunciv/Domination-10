@@ -27,8 +27,10 @@
 			"[-100]% maintenance on road & railroads",
 			"Cities are razed [10] times as fast",
 			"[50] XP gained from combat",
-			"Quantity of strategic resources produced by the empire +[+9900]%"],
-		"cities": ["Ventapical","Evade","Tropical","Mint","Rainary","Ally","Quint"],
+			"Quantity of strategic resources produced by the empire +[+9900]%",
+			"Population loss from nuclear attacks [-100]% [in all cities]",
+			"Damage to garrison from nuclear attacks [-100]% [in all cities]"],
+		"cities": ["Ventapical","Evadel","Tropical","Mintal","Rainaral","Al","Quintel","Marel","Porel","Wanal","Kopel","Racel","Canel"],
 		"spyNames": ["Spices"]
 	}
 ]
