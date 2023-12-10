@@ -1,4 +1,4 @@
-[
+⅝[
 	{
 		"name": "Set",
 		"unitType": "Civilian",
@@ -583,7 +583,7 @@
 		"uniqueTo": "Ventus",
 		"movement": 1,
 		"strength": 5000,
-		"rangedStrength": 5000,
+		"rangedStrength": 500,
 		"range": 50,
 		"cost": 900,
 		"requiredTech": "Advanced Ballistics",
@@ -597,8 +597,8 @@
 		"unitType": "Missile",
 		"uniqueTo": "Ventus",
 		"movement": 1,
-		"strength": 5000,
-		"rangedStrength": 5000,
+		"strength": 1000,
+		"rangedStrength": 1000,
 		"range": 50,
 		"cost": 1200,
 		"requiredTech": "Advanced Ballistics",
@@ -643,12 +643,12 @@
 		"unitType": "Missile",
 		"uniqueTo": "Ventus",
 		"movement": 1,
-		"strength": 5000000,
-		"rangedStrength": 5000000,
+		"strength": 50000,
+		"rangedStrength": 50000,
 		"range": 50,
 		"cost": 2000,
 		"requiredTech": "Future Tech",
-		"uniques": ["Nuclear weapon of Strength [100]",
+		"uniques": ["Nuclear weapon of Strength [50]",
 			"Blast radius [20]",
 			"Consumes [100] [Uranium]"],
 		"attackSound": "nuke"
