@@ -1,19 +1,30 @@
 
 [
 	{
-		"name": "Cheat",
+		"name": "Cheat Lock",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["Destroyed when the city is captured","Only available <for Human player>"]
+		"uniques": ["Destroyed when the city is captured",
+			"[+2 Production] [in this city]"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Cheat Key",
+		"cost": 0,
+		"requiredBuilding": "Cheat Lock",
+		"maintenance": 0,
+		"uniques": ["Destroyed when the city is captured"]
 			
 		    "requiredTech": "Agriculture"
 	},
 	{
 		"name": "Cheat Powder",
 		"cost": 0,
-		"requiredBuilding": "Cheat",
+		"requiredBuilding": "Cheat Key",
 		"maintenance": 0,
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured",
+			"Only available <in cities without a [Cheat Lock]>"]
 			
 		    "requiredTech": "Agriculture"
 	},
