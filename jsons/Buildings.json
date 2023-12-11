@@ -4,13 +4,16 @@
 		"name": "Cheat Power",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["Automatically built in all cities where it is buildable","Gain a free [Cheat Powder] [in this city] <for Human player>","Unsellable"]
+		"uniques": ["Automatically built in all cities where it is buildable <for Human player>",
+			"Gain a free [Cheat Powder] [in this city] <for Human player>",
+			"Unsellable"]
 			
 		    "requiredTech": "Agriculture"
 	},
 	{
 		"name": "Cheat Powder",
 		"cost": 0,
+		"requiredBuilding": "Cheat Power",
 		"maintenance": 0,
 		"uniques": ["Unbuildable"]
 			
