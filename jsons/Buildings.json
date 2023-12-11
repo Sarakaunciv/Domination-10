@@ -1,9 +1,25 @@
 
 [
 	{
+		"name": "Cheat Power",
+		"cost": 0,
+		"maintenance": 0,
+		"uniques": ["Automatically built in all cities where it is buildable","Gain a free [Cheat Powder] [in this city] <for Human player>","Unsellable"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Cheat Powder",
+		"cost": 0,
+		"maintenance": 0,
+		"uniques": ["Unbuildable"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
 		"name": "Defense Cheat",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["Population loss from nuclear attacks [-100]% [in all cities]",
 			"Limited to [1] per Civilization"]
@@ -12,8 +28,8 @@
 	},
 	{
 		"name": "Resource Cheat",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["Provides [5000] [Horses]",
 			"Provides [5000] [Iron]",
@@ -26,28 +42,30 @@
 	},
 	{
 		"name": "Yield Cheat 2",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
-		"uniques": ["[+100]% Yield from every [All]",
+		"uniques": ["[+100]% Yield from every [Land]",
+			"[+100]% Yield from every [Water]",
 			"Limited to [1] per Civilization"]
 			
 		    "requiredTech": "Agriculture"
 	},
 	{
 		"name": "Yield Cheat 5",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
-		"uniques": ["[+400]% Yield from every [All]",
+		"uniques": ["[+400]% Yield from every [Land]",
+			"[+400]% Yield from every [Water]",
 			"Limited to [1] per Civilization"]
 			
 		    "requiredTech": "Agriculture"
 	},
 	{
 		"name": "Production Cheat",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["[+10000 Production] [in this city]"]
 			
@@ -55,8 +73,8 @@
 	},
 	{
 		"name": "Happiness Cheat",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["[+10000 Happiness] [in this city]"]
 			
@@ -64,8 +82,8 @@
 	},
 	{
 		"name": "Gold Cheat 10",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["Earn [1000]% of killed [Military] unit's [Strength] as [Gold]",
 			"Limited to [1] per Civilization"]
@@ -74,8 +92,8 @@
 	},
 	{
 		"name": "Gold Cheat 100",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["Earn [10000]% of killed [Military] unit's [Strength] as [Gold]",
 			"Limited to [1] per Civilization"]
@@ -84,8 +102,8 @@
 	},
 	{
 		"name": "Science Cheat 10",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["Earn [1000]% of killed [Military] unit's [Strength] as [Science]",
 			"Limited to [1] per Civilization"]
@@ -94,8 +112,8 @@
 	},
 	{
 		"name": "Science Cheat 100",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["Earn [10000]% of killed [Military] unit's [Strength] as [Science]",
 			"Limited to [1] per Civilization"]
@@ -104,8 +122,8 @@
 	},
 	{
 		"name": "Food Cheat Carry",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["[100]% Food is carried over after population increases [in this city]"]
 			
@@ -113,8 +131,8 @@
 	},
 	{
 		"name": "Food Cheat Population",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["[+2 Food] per [1] population [in this city]"]
 			
@@ -122,17 +140,18 @@
 	},
 	{
 		"name": "Population Cheat",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
-		"uniques": ["[99] population [in this city]"]
+		"uniques": ["[99] population [in this city]",
+			"Nullifies Growth [in all cities]"]
 			
 		    "requiredTech": "Agriculture"
 	},
 	{
 		"name": "Happiness Per Population Cheat",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["[+1 Happiness] per [1] population [in this city]"]
 			
@@ -140,8 +159,8 @@
 	},
 	{
 		"name": "EXP Cheat",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["New [Military] units start with [36000] Experience [in all cities]",
 			"Limited to [1] per Civilization"]
@@ -150,8 +169,8 @@
 	},
 	{
 		"name": "Experience Cheat",
-		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["[+9900]% XP gained from combat",
 			"Limited to [1] per Civilization"]
