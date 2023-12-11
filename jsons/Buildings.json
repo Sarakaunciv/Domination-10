@@ -1,21 +1,42 @@
 
 [
 	{
+		"name": "Cheat",
+		"cost": 0,
+		"cannotBeBuiltWith": "Cheat Powder",
+		"maintenance": 0,
+		"uniques": ["Destroyed when the city is captured"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
 		"name": "Cheat Power",
 		"cost": 0,
+		"requiredBuilding": "Cheat",
 		"maintenance": 0,
-		"uniques": ["Automatically built in all cities where it is buildable <for Human player>",
-			"Gain a free [Cheat Powder] [in this city] <for Human player>",
-			"Unsellable"]
+		"uniques": ["Destroyed when the city is captured"]
 			
 		    "requiredTech": "Agriculture"
 	},
 	{
 		"name": "Cheat Powder",
 		"cost": 0,
+		"cannotBeBuiltWith": "Cheat",
 		"requiredBuilding": "Cheat Power",
 		"maintenance": 0,
-		"uniques": ["Unbuildable"]
+		"uniques": ["Destroyed when the city is captured"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Cheat Builder",
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
+		"maintenance": 0,
+		"uniques": ["Provides a [Cheat Powder] in your first [100] cities for free",
+			"Unsellable",
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured"]
 			
 		    "requiredTech": "Agriculture"
 	},
