@@ -24,5 +24,29 @@
 		"uniques": ["Cities are razed [100] times as fast"],
 		"cities": ["Ventapical","Evadel","Tropical","Mintal","Rainaral","Al","Quintel","Marel","Porel","Wanal","Kopel","Racel","Canel"],
 		"spyNames": ["Spices"]
+	},
+	{
+		"name": "Regulor",
+		"leaderName": "Lender",
+		
+		"startIntroPart1": "Lender is my name.",
+		"startIntroPart2": "The Regulor empire. The regular empire",
+		
+		"declaringWar": "This battle will decide our fate",
+		"attacked": "You Fool!",
+		"defeated": "We will wait for revenge in the hell.",
+		"introduction": "Greetings. My name is Lender.",
+		
+		"neutralHello": "Good evening.",
+		"hateHello": "No",
+		"tradeRequest": "We want to trade.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"uniqueName": "The Regulor",
+		"uniqueText": "The Nation that has nothing special. Cities are razed 100 times as fast",
+		"uniques": ["Cities are razed [100] times as fast"],
+		"cities": ["Shield","Axe","Stone","Hammer","Soap","Weather","Polar","Down","Shovel","Lumber","Quad","Mantis","Turtle","Rain"],
+		"spyNames": ["Spying"]
 	}
 ]
