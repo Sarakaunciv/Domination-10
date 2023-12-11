@@ -21,47 +21,7 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "The Great Ventus",
 		"uniqueText": "The Nation of great millitary",
-		"uniques": ["[+25 Production] from every [Strategic resource]",
-			"[+25 Happiness] from every [Strategic resource]",
-			"[-100]% maintenance costs <for [All] units>",
-			"[-100]% maintenance on road & railroads",
-			"Cities are razed [10] times as fast",
-			"[50] XP gained from combat",
-			"Quantity of strategic resources produced by the empire +[+9900]%",
-			"Population loss from nuclear attacks [-100]% [in all cities]",
-			"Damage to garrison from nuclear attacks [-100]% [in all cities]"],
-		"cities": ["Ventapical","Evadel","Tropical","Mintal","Rainaral","Al","Quintel","Marel","Porel","Wanal","Kopel","Racel","Canel"],
-		"spyNames": ["Spices"]
-	},
-	{
-		"name": "Sentus",
-		"leaderName": "Butter",
-		"adjective": ["Ventus"],
-		"style": "Ventus",
-		
-		"startIntroPart1": "Butter is my name. A funny name.",
-		"startIntroPart2": "The Sentus empire. The empire of true defense",
-		
-		"declaringWar": "You should die",
-		"attacked": "You can not hurt us",
-		"defeated": "",
-		"introduction": "My name is Butter Light.The great leader of The Sentus empire",
-		
-		"neutralHello": "Peace now.",
-		"hateHello": "You weak",
-		"tradeRequest": "We want to trade.Just a fair trade.",
-
-		"outerColor": [120,120,120],
-		"innerColor": [0,0,0],
-		"uniqueName": "The Great Sentus",
-		"uniqueText": "The Nation of defense",
-		"uniques": ["[-100]% maintenance costs <for [All] units>",
-			"[-100]% maintenance on road & railroads",
-			"Cities are razed [10] times as fast",
-			"[+9900]% Strength <when defending>",
-			"[+9900]% Strength for cities <when defending>",
-			"Population loss from nuclear attacks [-100]% [in all cities]",
-			"Damage to garrison from nuclear attacks [-100]% [in all cities]"],
+		"uniques": ["Cities are razed [100] times as fast"],
 		"cities": ["Ventapical","Evadel","Tropical","Mintal","Rainaral","Al","Quintel","Marel","Porel","Wanal","Kopel","Racel","Canel"],
 		"spyNames": ["Spices"]
 	}
