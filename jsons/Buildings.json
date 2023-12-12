@@ -42,16 +42,6 @@
 		    "requiredTech": "Agriculture"
 	},
 	{
-		"name": "Defense Cheat",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["Population loss from nuclear attacks [-100]% [in all cities]",
-			"Limited to [1] per Civilization"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
 		"name": "Resource Cheat",
 		"cost": 0,
 		"requiredBuilding": "Cheat Powder",
@@ -61,7 +51,8 @@
 			"Provides [5000] [Coal]",
 			"Provides [5000] [Oil]",
 			"Provides [5000] [Aluminum]",
-			"Provides [5000] [Uranium]"]
+			"Provides [5000] [Uranium]",
+			"Destroyed when the city is captured"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -70,9 +61,17 @@
 		"cost": 0,
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
-		"uniques": ["[+100]% Yield from every [Land]",
-			"[+100]% Yield from every [Water]",
-			"Limited to [1] per Civilization"]
+		"uniques": ["[+100]% [Food] [in all cities]",
+			"[+100]% [Gold] [in all cities]",
+			"[+100]% [Science] [in all cities]",
+			"[+100]% [Production] [in all cities]",
+			"[+100]% [Culture] [in all cities]",
+			"[+100]% [Happiness] [in all cities]",
+			"[+100]% [Faith] [in all cities]",
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured",
+			"Only available <in cities without a [Yield Cheat 5]>",
+			"Only available <in cities without a [Yield Cheat 20]>"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -81,9 +80,36 @@
 		"cost": 0,
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
-		"uniques": ["[+400]% Yield from every [Land]",
-			"[+400]% Yield from every [Water]",
-			"Limited to [1] per Civilization"]
+		"uniques": ["[+400]% [Food] [in all cities]",
+			"[+400]% [Gold] [in all cities]",
+			"[+400]% [Science] [in all cities]",
+			"[+400]% [Production] [in all cities]",
+			"[+400]% [Culture] [in all cities]",
+			"[+400]% [Happiness] [in all cities]",
+			"[+400]% [Faith] [in all cities]",
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured",
+			"Only available <in cities without a [Yield Cheat 2]>",
+			"Only available <in cities without a [Yield Cheat 20]>"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Yield Cheat 20",
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
+		"maintenance": 0,
+		"uniques": ["[+1900]% [Food] [in all cities]",
+			"[+1900]% [Gold] [in all cities]",
+			"[+1900]% [Science] [in all cities]",
+			"[+1900]% [Production] [in all cities]",
+			"[+1900]% [Culture] [in all cities]",
+			"[+1900]% [Happiness] [in all cities]",
+			"[+1900]% [Faith] [in all cities]",
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured",
+			"Only available <in cities without a [Yield Cheat 2]>",
+			"Only available <in cities without a [Yield Cheat 5]>"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -92,7 +118,8 @@
 		"cost": 0,
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
-		"uniques": ["[+10000 Production] [in this city]"]
+		"uniques": ["[+10000 Production] [in this city]",
+			"Destroyed when the city is captured"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -101,7 +128,8 @@
 		"cost": 0,
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
-		"uniques": ["[+10000 Happiness] [in this city]"]
+		"uniques": ["[+10000 Happiness] [in this city]",
+			"Destroyed when the city is captured"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -111,7 +139,9 @@
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["Earn [1000]% of killed [Military] unit's [Strength] as [Gold]",
-			"Limited to [1] per Civilization"]
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured",
+			"Only available <in cities without a [Gold Cheat 100]>"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -121,7 +151,9 @@
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["Earn [10000]% of killed [Military] unit's [Strength] as [Gold]",
-			"Limited to [1] per Civilization"]
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured",
+			"Only available <in cities without a [Gold Cheat 10]>"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -131,7 +163,9 @@
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["Earn [1000]% of killed [Military] unit's [Strength] as [Science]",
-			"Limited to [1] per Civilization"]
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured",
+			"Only available <in cities without a [Science Cheat 100]>"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -141,7 +175,9 @@
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["Earn [10000]% of killed [Military] unit's [Strength] as [Science]",
-			"Limited to [1] per Civilization"]
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured",
+			"Only available <in cities without a [Science Cheat 10]>"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -150,7 +186,9 @@
 		"cost": 0,
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
-		"uniques": ["[100]% Food is carried over after population increases [in this city]"]
+		"uniques": ["[100]% Food is carried over after population increases [in this city]",
+			"Destroyed when the city is captured",
+			"Only available <in cities without a [Population Cheat]>"]]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -159,7 +197,9 @@
 		"cost": 0,
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
-		"uniques": ["[+2 Food] per [1] population [in this city]"]
+		"uniques": ["[+2 Food] per [1] population [in this city]",
+			"Destroyed when the city is captured",
+			"Only available <in cities without a [Population Cheat]>"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -169,7 +209,10 @@
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["[99] population [in this city]",
-			"Nullifies Growth [in this city]"]
+			"Nullifies Growth [in this city]",
+			"Destroyed when the city is captured",
+			"Only available <in cities without a [Food Cheat Population]>",
+			"Only available <in cities without a [Food Cheat Carry]>"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -178,7 +221,19 @@
 		"cost": 0,
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
-		"uniques": ["[+1 Happiness] per [1] population [in this city]"]
+		"uniques": ["[+1 Happiness] per [1] population [in this city]",
+			"Destroyed when the city is captured"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Defense Cheat",
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
+		"maintenance": 0,
+		"uniques": ["Population loss from nuclear attacks [-100]% [in all cities]",
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -188,7 +243,8 @@
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["New [Military] units start with [36000] Experience [in all cities]",
-			"Limited to [1] per Civilization"]
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -198,7 +254,8 @@
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["[+9900]% XP gained from combat",
-			"Limited to [1] per Civilization"]
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured"]
 			
 		    "requiredTech": "Agriculture"
 	},
@@ -208,7 +265,8 @@
 		"cost": 1,
 		"maintenance": 0,
 		"uniques": [ "[5] free [THE GRAND ABYSS] units appear",
-			"Free [Target] appears"]
+			"Free [Target] appears",
+			"Destroyed when the city is captured"]
 			
 		    "requiredTech": "Agriculture"
 	}
