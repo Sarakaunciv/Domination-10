@@ -66,7 +66,6 @@
 			"[+100]% [Science] [in all cities]",
 			"[+100]% [Production] [in all cities]",
 			"[+100]% [Culture] [in all cities]",
-			"[+100]% [Happiness] [in all cities]",
 			"[+100]% [Faith] [in all cities]",
 			"Limited to [1] per Civilization",
 			"Destroyed when the city is captured",
@@ -85,7 +84,6 @@
 			"[+400]% [Science] [in all cities]",
 			"[+400]% [Production] [in all cities]",
 			"[+400]% [Culture] [in all cities]",
-			"[+400]% [Happiness] [in all cities]",
 			"[+400]% [Faith] [in all cities]",
 			"Limited to [1] per Civilization",
 			"Destroyed when the city is captured",
@@ -104,7 +102,6 @@
 			"[+1900]% [Science] [in all cities]",
 			"[+1900]% [Production] [in all cities]",
 			"[+1900]% [Culture] [in all cities]",
-			"[+1900]% [Happiness] [in all cities]",
 			"[+1900]% [Faith] [in all cities]",
 			"Limited to [1] per Civilization",
 			"Destroyed when the city is captured",
@@ -227,11 +224,44 @@
 		    "requiredTech": "Agriculture"
 	},
 	{
-		"name": "Defense Cheat",
+		"name": "Nuclear Defend Cheat",
 		"cost": 0,
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["Population loss from nuclear attacks [-100]% [in all cities]",
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Fair Strength Cheat",
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
+		"maintenance": 0,
+		"uniques": ["[+33]% Strength <for [All] units> <when below [-10] Happiness>",
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Attack Cheat",
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
+		"maintenance": 0,
+		"uniques": ["[+9900]% Strength <for [All] units> <when attacking>",
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Defense Cheat",
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
+		"maintenance": 0,
+		"uniques": ["[+9900]% Strength <for [All] units> <when defending>",
 			"Limited to [1] per Civilization",
 			"Destroyed when the city is captured"]
 			
