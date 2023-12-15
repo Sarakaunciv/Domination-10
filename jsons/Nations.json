@@ -17,8 +17,8 @@
 		"hateHello": "You mortal",
 		"tradeRequest": "We want to trade.Just a fair trade.",
 
-		"outerColor": [160,160,160],
-		"innerColor": [0,0,0],
+		"outerColor": [0,0,0],
+		"innerColor": [160,160,160],
 		"uniqueName": "The Great Ventus",
 		"uniqueText": "The Nation of great millitary",
 		"uniques": ["Cities are razed [100] times as fast"],
