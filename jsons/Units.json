@@ -29,7 +29,6 @@
 		"strength": 40,
 		"cost": 50,
 		"requiredTech": "Sailing",
-		"uniques": ["Can carry [1] [Embarked] units"],
         "obsoleteTech": "Astronomy",
 		"upgradesTo": "Caravel",
 		"attackSound": "nonmetalhit"
@@ -44,8 +43,7 @@
 		"cost": 150,
 		"requiredTech": "Astronomy",
         "obsoleteTech": "Steam Power",
-		"uniques": ["Can carry [3] [Embarked] units",
-			"[+2] Sight",
+		"uniques": ["[+2] Sight",
 			"[2] additional attacks per turn"],
 		"upgradesTo": "Ironclad",
 		"attackSound": "cannon"
@@ -63,8 +61,7 @@
 		"requiredResource": "Coal",
 		"requiredTech": "Steam Power",
         "obsoleteTech": "Combustion",
-		"uniques": ["Can carry [6] [Embarked] units",
-			"[+2] Sight",
+		"uniques": ["[+2] Sight",
 			"[4] additional attacks per turn"],
 		"upgradesTo": "Destroyer",
 		"attackSound": "shipguns"
@@ -80,8 +77,7 @@
 		"range": 1,
 		"cost": 450,
 		"requiredTech": "Combustion",
-		"uniques": ["Can carry [6] [Embarked] units",
-			"[+3] Sight",
+		"uniques": ["[+3] Sight",
 			"[10] additional attacks per turn",
 			"Can see invisible [Submarine] units",
 			"[+100]% Strength <vs [Submarine] units>",
@@ -99,8 +95,7 @@
 		"range": 1,
 		"cost": 400,
 		"requiredTech": "Navigation",
-		"uniques": ["Can carry [4] [Embarked] units",
-			"[+5] Sight",
+		"uniques": ["[+5] Sight",
 			"[6] additional attacks per turn",
 			"May capture killed [Water] units"],
 		"attackSound": "cannon"
