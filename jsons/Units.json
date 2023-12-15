@@ -230,7 +230,6 @@
 			"Can only attack [Water] tiles",
 			"Can see invisible [Submarine] units",
 			"[+100]% Strength <when attacking>"],
-		"upgradesTo": "Nuclear Submarine",
 		"attackSound": "Torpedo"
 	},
 	{
@@ -338,7 +337,6 @@
 		"requiredTech": "Stealth",
 		"uniques": ["[+10] Sight",
 			"[16] additional attacks per turn"],
-		"upgradesTo": "Stealth Bomber",
 		"attackSound": "bombing"
 	},
 	{
