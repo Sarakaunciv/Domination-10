@@ -363,12 +363,8 @@
 		"cost": 500,
 		"requiredTech": "Pharmaceuticals",
 		"uniques": ["May attack when embarked",
-			"[1] Movement point cost to embark",
-			"[1] Movement point cost to disembark",
-			"Defense bonus when embarked",
+			"May travel on Water tiles without embarking",
 			"This Unit gains the [Amphibious] promotion",
-			"[+8] Movement <when embarked>",
-			"[+2] Sight <when embarked>",
 			"[+1] Sight",
 			"[8] additional attacks per turn"],
 		"attackSound": "shot"
