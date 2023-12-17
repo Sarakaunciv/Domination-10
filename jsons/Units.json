@@ -333,7 +333,8 @@
 		"requiredTech": "Stealth",
 		"uniques": ["[+10] Sight",
 			"[16] additional attacks per turn",
-			"Can see over obstacles"],
+			"Can see over obstacles",
+			"Cannot be intercepted"],
 		"attackSound": "bombing"
 	},
 	{
@@ -362,11 +363,11 @@
 		"range": 1,
 		"cost": 500,
 		"requiredTech": "Pharmaceuticals",
-		"uniques": ["May attack when embarked",
-			"May travel on Water tiles without embarking",
+		"uniques": ["May travel on Water tiles without embarking",
 			"This Unit gains the [Amphibious] promotion",
 			"[+1] Sight",
-			"[8] additional attacks per turn"],
+			"[8] additional attacks per turn",
+			"Ignores terrain cost"],
 		"attackSound": "shot"
 	},
 	{
