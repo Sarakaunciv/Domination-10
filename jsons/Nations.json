@@ -59,5 +59,39 @@
 			"Provides a [Cheat Powder] in your first [1] cities for free"],
 		"cities": ["Shield","Axe","Stone","Hammer","Soap","Weather","Polar","Down","Shovel","Lumber","Quad","Mantis","Turtle","Rain"],
 		"spyNames": ["Spying"]
+	},
+	{
+		"name": "Statates",
+		"leaderName": "Citi",
+		
+		"startIntroPart1": "Citi is my name.",
+		"startIntroPart2": "The Statates empire. We with City-States",
+		
+		"declaringWar": "This battle will decide our fate",
+		"attacked": "You Fool!",
+		"defeated": "We will wait for revenge in the hell.",
+		"introduction": "Greetings. My name is Lender.",
+		
+		"neutralHello": "Good evening.",
+		"hateHello": "No",
+		"tradeRequest": "We want to trade.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [128,128,128],
+		"uniqueName": "The Statates",
+		"uniqueText": "The Nation that City-States. Cities are razed 100 times as fast",
+		"uniques": ["Cities are razed [100] times as fast",
+			"Provides a [Cheat Powder] in your first [1] cities for free",
+			"Gifts of Gold to City-States generate [+9900]% more Influence",
+			"Allied City-States will occasionally gift Great People",
+			"Resting point for Influence with City-States is increased by [300]",
+			"Allied City-States provide [Culture] equal to [100]% of what they produce for themselves",
+			"Allied City-States provide [Science] equal to [100]% of what they produce for themselves",
+			"Allied City-States provide [Faith] equal to [100]% of what they produce for themselves",
+			"Allied City-States provide [Gold] equal to [100]% of what they produce for themselves",
+			"Influence of all other civilizations with all city-states degrades [1000]% faster",
+			"City-State Influence recovers at twice the normal rate"],
+		"cities": ["Shield","Axe","Stone","Hammer","Soap","Weather","Polar","Down","Shovel","Lumber","Quad","Mantis","Turtle","Rain"],
+		"spyNames": ["Spying"]
 	}
 ]
