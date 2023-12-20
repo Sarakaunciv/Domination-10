@@ -83,7 +83,7 @@
 			"[+100]% Strength <vs [Submarine] units>",
 			"[100]% chance to intercept air attacks",
 			"[20] extra interceptions may be made per turn",
-			"[+2] Air Interception Range"],
+			"[+4] Air Interception Range"],
 		"attackSound": "shipguns"
 	},
 	{
@@ -172,7 +172,7 @@
 			"[+100]% Strength <vs [Submarine] units>",
 			"[100]% chance to intercept air attacks",
 			"[20] extra interceptions may be made per turn",
-			"[+2] Air Interception Range"],
+			"[+4] Air Interception Range"],
 		"attackSound": "shipguns"
 	},
 	{
@@ -181,7 +181,7 @@
 		"uniqueTo": "Ventus",
 		"replaces": "Carrier",
 		"movement": 20,
-		"strength": 500,
+		"strength": 1000,
 		"cost": 500,
 		"requiredTech": "Electronics",
 		"uniques": ["Can carry [6] [Aircraft] units",
@@ -242,7 +242,7 @@
 			"[+100]% Strength <vs [Bomber] units>",
 			"[+100]% Strength <vs [Helicopter] units>",
 			"[6] extra interceptions may be made per turn",
-			"[+1] Air Interception Range"],
+			"[+3] Air Interception Range"],
 		"upgradesTo": "Fighter",
 		"attackSound": "machinegun"
 	},
@@ -265,7 +265,7 @@
 			"[+150]% Strength <vs [Bomber] units>",
 			"[+150]% Strength <vs [Helicopter] units>",
 			"[10] extra interceptions may be made per turn",
-			"[+2] Air Interception Range"],
+			"[+4] Air Interception Range"],
 		"upgradesTo": "Jet Fighter",
 		"attackSound": "machinegun"
 	},
@@ -287,7 +287,7 @@
 			"[+200]% Strength <vs [Bomber] units>",
 			"[+200]% Strength <vs [Helicopter] units>",
 			"[30] extra interceptions may be made per turn",
-			"[+4] Air Interception Range"],
+			"[+6] Air Interception Range"],
 		"attackSound": "jetgun"
 	},
 	{
@@ -343,7 +343,8 @@
 		"uniques": ["[+10] Sight",
 			"[30] additional attacks per turn",
 			"Can see over obstacles",
-			"Cannot be intercepted"],
+			"Cannot be intercepted",
+			"Destroys tile improvements when attacking"],
 		"attackSound": "bombing"
 	},
 	{
@@ -415,7 +416,7 @@
 			"[+200]% Strength <vs [Bomber] units>",
 			"[+200]% Strength <vs [Helicopter] units>",
 			"[30] extra interceptions may be made per turn",
-			"[+4] Air Interception Range"],
+			"[+6] Air Interception Range"],
 		"attackSound": "artillery"
 	},
 	{
@@ -429,14 +430,15 @@
 		"range": 14,
 		"cost": 500,
 		"requiredTech": "Rocketry",
-		"uniques": ["May Paradrop up to [15] tiles from inside friendly territory",
+		"uniques": ["Ranged attacks may be performed over obstacles",
 			"[23] additional attacks per turn",
 			"Cannot move",
 			"[100]% chance to intercept air attacks",
+			"[+100]% Damage when intercepting",
 			"[+300]% Strength <vs [Air] units>",
 			"[+300]% Strength <vs [Helicopter] units>",
 			"[50] extra interceptions may be made per turn",
-			"[+9] Air Interception Range"],
+			"[+11] Air Interception Range",],
 		"attackSound": "artillery"
 	},
 	{
@@ -792,7 +794,7 @@
 		"unitType": "Helicopter",
 		"replaces": "Helicopter Gunship",
 		"uniqueTo": "Ventus",
-		"movement": 30,
+		"movement": 50,
 		"strength": 300,
 		"cost": 500,
 		"requiredTech": "Computers",
