@@ -20,7 +20,7 @@
 		"outerColor": [160,160,160],
 		"innerColor": [0,0,0],
 		"uniqueName": "The Great Ventus",
-		"uniqueText": "The Nation of great millitary. Cities are razed 100 times as fast. Great General is earned -100% faster. +33% Strength when below -10 Happiness. Damage is ignored when determining unit Strength. All healing effects doubled. No defensive terrain penalty. Military units gain the March promotion. +300% Strength for cities.",
+		"uniqueText": "The Nation of great millitary. Cities are razed 100 times as fast. Great General is earned -100% faster. +33% Strength when below -10 Happiness. Damage is ignored when determining unit Strength. All healing effects doubled. No defensive terrain penalty. Military units gain the March promotion. +400% Strength for cities.",
 		"uniques": ["Cities are razed [100] times as fast",
 			"[Great General] is earned [-100]% faster",
 			"[+33]% Strength <when below [-10] Happiness>",
@@ -28,7 +28,8 @@
 			"All healing effects doubled",
 			"No defensive terrain penalty",
 			"[Military] units gain the [March] promotion",
-			"[+300]% Strength for cities"],
+			"[+400]% Strength for cities",
+			"Provides a [Cheat Powder] in your first [1] cities for free"],
 		"cities": ["Ventapical","Evadel","Tropical","Mintal","Rainaral","Al","Quintel","Marel","Porel","Wanal","Kopel","Racel","Canel"],
 		"spyNames": ["Spices"]
 	},
