@@ -1120,10 +1120,27 @@
 		"rangedStrength": 50000,
 		"range": 50,
 		"cost": 2000,
-		"requiredTech": "Future Tech",
+		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Nuclear weapon of Strength [50]",
 			"Blast radius [20]",
 			"Consumes [10] [Uranium]"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Truth of Ventus",
+		"unitType": "Missile",
+		"uniqueTo": "Ventus",
+		"movement": 1,
+		"strength": 500000,
+		"rangedStrength": 500000,
+		"range": 50,
+		"cost": 0,
+		"uniques": ["Nuclear weapon of Strength [2]",
+			"Blast radius [4]",
+			"[500] additional attacks per turn",
+			"[+48] Sight",
+			"Can see over obstacles",
+			"Can see invisible [All] units"]
 		"attackSound": "nuke"
 	},
 	{
