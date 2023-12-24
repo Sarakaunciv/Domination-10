@@ -1127,6 +1127,22 @@
 		"attackSound": "nuke"
 	},
 	{
+		"name": "Target",
+		"unitType": "Missile",
+		"uniqueTo": "Ventus",
+		"movement": 1,
+		"strength": 100,
+		"rangedStrength": 100,
+		"range": 50,
+		"cost": 1000,
+		"requiredTech": "Satellites",
+		"uniques": ["[+48] Sight",
+			"Can see over obstacles",
+			"Can see invisible [All] units",
+			"Consumes [10] [Aluminum]"],
+		"attackSound": "nuke"
+	},
+	{
 		"name": "Truth of Ventus",
 		"unitType": "Missile",
 		"uniqueTo": "Ventus",
@@ -1141,22 +1157,6 @@
 			"[+48] Sight",
 			"Can see over obstacles",
 			"Can see invisible [All] units"]
-		"attackSound": "nuke"
-	},
-	{
-		"name": "Target",
-		"unitType": "Missile",
-		"uniqueTo": "Ventus",
-		"movement": 1,
-		"strength": 100,
-		"rangedStrength": 100,
-		"range": 50,
-		"cost": 1000,
-		"requiredTech": "Satellites",
-		"uniques": ["[+48] Sight",
-			"Can see over obstacles",
-			"Can see invisible [All] units",
-			"Consumes [10] [Aluminum]"],
 		"attackSound": "nuke"
 	}
 ]
