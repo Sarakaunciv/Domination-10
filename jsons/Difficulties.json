@@ -151,5 +151,34 @@
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
-        }
+        },
+        {
+                "name": "Free",
+		"baseHappiness": 0,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 100,
+		"unitSupplyPerCity": 10,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 0,
+		"barbarianBonus": 0,
+		"barbarianSpawnDelay": 0,
+		"playerBonusStartingUnits": ["Worker"],
+		"aiCityGrowthModifier": 100,
+		"aiUnitCostModifier": 100,
+		"aiBuildingCostModifier": 100,
+		"aiWonderCostModifier": 100,
+		"aiBuildingMaintenanceModifier": 100,
+		"aiUnitMaintenanceModifier": 100,
+		"aiUnitSupplyModifier": 0,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 100,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 10000,
+		"clearBarbarianCampReward": 1000
+	}
 ]
