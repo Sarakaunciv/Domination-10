@@ -45,7 +45,8 @@
 		"requiredTech": "Astronomy",
         "obsoleteTech": "Steam Power",
 		"uniques": ["[+2] Sight",
-			"[2] additional attacks per turn","Ignores Zone of Control"],
+			"[2] additional attacks per turn",
+			"Ignores Zone of Control"],
 		"upgradesTo": "Ironclad",
 		"attackSound": "cannon"
 	},
@@ -56,14 +57,13 @@
 		"replaces": "Ironclad",
 		"movement": 10,
 		"strength": 180,
-		"rangedStrength": 180,
-		"range": 1,
 		"cost": 250,
 		"requiredResource": "Coal",
 		"requiredTech": "Steam Power",
         "obsoleteTech": "Combustion",
 		"uniques": ["[+2] Sight",
-			"[4] additional attacks per turn"],
+			"[4] additional attacks per turn",
+			"Ignores Zone of Control"],
 		"upgradesTo": "Destroyer",
 		"attackSound": "shipguns"
 	},
@@ -74,8 +74,6 @@
 		"replaces": "Destroyer",
 		"movement": 20,
 		"strength": 400,
-		"rangedStrength": 300,
-		"range": 1,
 		"cost": 500,
 		"requiredTech": "Combustion",
 		"uniques": ["[+3] Sight",
@@ -84,7 +82,8 @@
 			"[+100]% Strength <vs [Submarine] units>",
 			"[100]% chance to intercept air attacks",
 			"[20] extra interceptions may be made per turn",
-			"[+4] Air Interception Range"],
+			"[+4] Air Interception Range",
+			"Ignores Zone of Control"],
 		"attackSound": "shipguns"
 	},
 	{
@@ -95,12 +94,12 @@
 		"movement": 20,
 		"strength": 300,
 		"rangedStrength": 300,
-		"range": 1,
+		"range": 4,
 		"cost": 500,
 		"requiredTech": "Navigation",
-		"uniques": ["[+8] Sight",
+		"uniques": ["[+10] Sight",
 			"[14] additional attacks per turn",
-			"May capture killed [Water] units"],
+			"Ignores Zone of Control"],
 		"attackSound": "cannon"
 	},
 	{
@@ -115,7 +114,8 @@
 		"cost": 100,
 		"requiredTech": "Compass",
         "obsoleteTech": "Navigation",
-		"uniques": ["[+2] Sight"],
+		"uniques": ["[+2] Sight",
+			"Ignores Zone of Control"],
 		"upgradesTo": "Frigate",
 		"attackSound": "arrow"
 	},
@@ -133,7 +133,8 @@
 		"requiredTech": "Navigation",
         "obsoleteTech": "Electronics",
 		"uniques": ["[+3] Sight",
-			"[4] additional attacks per turn"],
+			"[4] additional attacks per turn",
+			"Ignores Zone of Control"],
 		"upgradesTo": "Battleship",
 		"attackSound": "cannon"
 	},
@@ -151,7 +152,8 @@
 		"requiredTech": "Electronics",
         "obsoleteTech": "Robotics",
 		"uniques": ["[+4] Sight",
-			"[8] additional attacks per turn"],
+			"[8] additional attacks per turn",
+			"Ignores Zone of Control"],
 		"upgradesTo": "Missile Cruiser",
 		"attackSound": "shipguns"
 	},
@@ -160,7 +162,7 @@
 		"unitType": "Ranged Water",
 		"uniqueTo": "Ventus",
 		"replaces": "Missile Cruiser",
-		"movement": 20,
+		"movement": 30,
 		"strength": 400,
 		"rangedStrength": 400,
 		"range": 4,
@@ -173,7 +175,8 @@
 			"[+100]% Strength <vs [Submarine] units>",
 			"[100]% chance to intercept air attacks",
 			"[20] extra interceptions may be made per turn",
-			"[+4] Air Interception Range"],
+			"[+4] Air Interception Range",
+			"Ignores Zone of Control"],
 		"attackSound": "shipguns"
 	},
 	{
@@ -186,7 +189,8 @@
 		"cost": 500,
 		"requiredTech": "Electronics",
 		"uniques": ["Can carry [6] [Aircraft] units",
-			"Cannot attack"]
+			"Cannot attack",
+			"Ignores Zone of Control"]
 	},
 	{
 		"name": "Drowned Metal",
@@ -203,7 +207,8 @@
 		"uniques": ["[6] additional attacks per turn",
 			"Can only attack [Water] tiles",
 			"Can see invisible [Submarine] units",
-			"[+75]% Strength <when attacking>"],
+			"[+75]% Strength <when attacking>",
+			"Ignores Zone of Control"],
 		"upgradesTo": "Nuclear Submarine",
 		"attackSound": "torpedo"
 	},
@@ -221,7 +226,8 @@
 		"uniques": ["[14] additional attacks per turn",
 			"Can only attack [Water] tiles",
 			"Can see invisible [Submarine] units",
-			"[+100]% Strength <when attacking>"],
+			"[+100]% Strength <when attacking>",
+			"Ignores Zone of Control"],
 		"attackSound": "torpedo"
 	},
 	{
@@ -304,7 +310,7 @@
 		"requiredResource": "Oil",
 		"requiredTech": "Flight",
         "obsoleteTech": "Radar",
-		"uniques": ["[+2] Sight",
+		"uniques": ["[+6] Sight",
 			"[5] additional attacks per turn",
 			"Can see over obstacles"],
 		"upgradesTo": "Bomber",
@@ -323,7 +329,7 @@
 		"requiredResource": "Oil",
 		"requiredTech": "Radar",
         "obsoleteTech": "Stealth",
-		"uniques": ["[+4] Sight",
+		"uniques": ["[+8] Sight",
 			"[12] additional attacks per turn",
 			"Can see over obstacles"],
 		"upgradesTo": "Stealth Bomber",
@@ -341,7 +347,7 @@
 		"cost": 500,
 		"requiredResource": "Aluminum",
 		"requiredTech": "Stealth",
-		"uniques": ["[+10] Sight",
+		"uniques": ["[+14] Sight",
 			"[30] additional attacks per turn",
 			"Can see over obstacles",
 			"Cannot be intercepted",
@@ -354,14 +360,13 @@
 		"uniqueTo": "Ventus",
 		"replaces": "Paratrooper",
 		"movement": 20,
-		"strength": 200,
-		"rangedStrength": 500,
-		"range": 1,
+		"strength": 300,
 		"cost": 500,
 		"requiredTech": "Radar",
 		"uniques": ["May Paradrop up to [50] tiles from inside friendly territory",
 			"[14] additional attacks per turn",
-			"Ignores terrain cost"],
+			"Ignores terrain cost",
+			"Ignores Zone of Control"],
 		"attackSound": "shot"
 	},
 	{
@@ -370,8 +375,7 @@
 		"uniqueTo": "Ventus",
 		"replaces": "Marine",
 		"movement": 20,
-		"strength": 500,
-		"rangedStrength": 200,
+		"strength": 300,
 		"range": 1,
 		"cost": 500,
 		"requiredTech": "Pharmaceuticals",
@@ -379,7 +383,8 @@
 			"This Unit gains the [Amphibious] promotion",
 			"[+1] Sight",
 			"[14] additional attacks per turn",
-			"Ignores terrain cost"],
+			"Ignores terrain cost",
+			"Ignores Zone of Control"],
 		"attackSound": "shot"
 	},
 	{
@@ -395,7 +400,8 @@
 			"No defensive terrain bonus",
 			"Ignores terrain cost",
 			"May enter foreign tiles without open borders",
-			"[+1] Sight",],
+			"[+1] Sight",
+			"Ignores Zone of Control"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -416,7 +422,8 @@
 			"[+200]% Strength <vs [Helicopter] units>",
 			"[30] extra interceptions may be made per turn",
 			"[+6] Air Interception Range",
-			"Ignores terrain cost"],
+			"Ignores terrain cost",
+			"Ignores Zone of Control"],
 		"upgradesTo": "Mobile SAM",
 		"attackSound": "artillery",
 	},
@@ -438,7 +445,8 @@
 			"[+300]% Strength <vs [Helicopter] units>",
 			"[50] extra interceptions may be made per turn",
 			"[+14] Air Interception Range",
-			"Ignores terrain cost"],
+			"Ignores terrain cost",
+			"Ignores Zone of Control"],
 		"attackSound": "artillery"
 	},
 	{
@@ -450,7 +458,8 @@
 		"strength": 32,
 		"cost": 40,
         "obsoleteTech": "Iron Working",
-		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects",
+			"Ignores Zone of Control"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
@@ -465,6 +474,8 @@
 		"cost": 40,
 		"requiredTech": "Archery",
         "obsoleteTech": "Construction",
+		"uniques": ["[+100]% Strength <when attacking>",
+			"Ignores Zone of Control"],
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
 	},
@@ -481,7 +492,8 @@
 		"requiredTech": "The Wheel",
         "obsoleteTech": "Chivalry",
 		"upgradesTo": "Knight",
-		"uniques": ["No defensive terrain bonus"],
+		"uniques": ["No defensive terrain bonus",
+			"Ignores Zone of Control"],
 		"attackSound": "arrow"
 	},
 	{
@@ -495,7 +507,8 @@
 		"requiredTech": "Bronze Working",
         "obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>",
+			"Ignores Zone of Control"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -514,7 +527,8 @@
 		"uniques": ["[+100]% Strength <vs cities> <when attacking>",
 			"Must set up to ranged attack",
 			"No defensive terrain bonus",
-			"[+2] Sight"],
+			"[+2] Sight",
+			"Ignores Zone of Control"],
 		"attackSound": "throw"
 	},
 	{
@@ -528,7 +542,8 @@
 		"requiredResource": "Iron",
 		"requiredTech": "Iron Working",
         "obsoleteTech": "Steel",
-		"uniques": ["[1] additional attacks per turn"],
+		"uniques": ["[1] additional attacks per turn",
+			"Ignores Zone of Control"],
 		"upgradesTo": "Longswordsman",
 		"attackSound": "metalhit"
 	},
@@ -546,7 +561,8 @@
 		"upgradesTo": "Knight",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
-			"[-50]% Strength <vs cities> <when attacking>"],
+			"[-50]% Strength <vs cities> <when attacking>",
+			"Ignores Zone of Control"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -560,7 +576,9 @@
 		"cost": 75,
 		"requiredTech": "Construction",
         "obsoleteTech": "Machinery",
-		"uniques": ["[1] additional attacks per turn"],
+		"uniques": ["[1] additional attacks per turn",
+			"[+100]% Strength <when attacking>",
+			"Ignores Zone of Control"],
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
 	},
@@ -572,7 +590,9 @@
 		"strength": 52,
 		"rangedStrength": 72,
 		"replaces": "Crossbowman",
-		"uniques": ["[2] additional attacks per turn"]
+		"uniques": ["[2] additional attacks per turn",
+			"[+100]% Strength <when attacking>",
+			"Ignores Zone of Control"]
 		"cost": 120,
 		"requiredTech": "Machinery",
         "obsoleteTech": "Industrialization",
@@ -589,7 +609,9 @@
 		"range": 3,
 		"replaces": "Gatling Gun",
 		"cost": 225,
-		"uniques": ["[3] additional attacks per turn"]
+		"uniques": ["[3] additional attacks per turn",
+			"[+100]% Strength <when attacking>",
+			"Ignores Zone of Control"]
 		"requiredTech": "Industrialization",
         "obsoleteTech": "Ballistics",
 		"upgradesTo": "Machine Gun",
@@ -597,7 +619,7 @@
 	},
 	{
 		"name": "Long Ranged Shooter",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Ventus",
 		"movement": 8,
 		"strength": 240,
@@ -605,7 +627,9 @@
 		"range": 4,
 		"replaces": "Machine Gun",
 		"cost": 350,
-		"uniques": ["[6] additional attacks per turn"]
+		"uniques": ["[6] additional attacks per turn",
+			"[+100]% Strength <when attacking>",
+			"Ignores Zone of Control"]
 		"requiredTech": "Ballistics",
         "obsoleteTech": "Mobile Tactics",
 		"upgradesTo": "Mechanized Infantry",
@@ -628,7 +652,8 @@
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
 			"[+4] Sight",
-			"[2] additional attacks per turn"],
+			"[2] additional attacks per turn",
+			"Ignores Zone of Control"],
 		"attackSound": "throw"
 	},
 	{
@@ -648,7 +673,8 @@
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
 			"[+1] Sight",
-			"[4] additional attacks per turn"]
+			"[4] additional attacks per turn",
+			"Ignores Zone of Control"]
 		"attackSound": "cannon"
 	},
 	{
@@ -669,7 +695,8 @@
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
 			"[+2] Sight",
-			"[6] additional attacks per turn"],
+			"[6] additional attacks per turn",
+			"Ignores Zone of Control"],
 		"attackSound": "artillery"
 	},
 	{
@@ -688,7 +715,8 @@
 			"No defensive terrain bonus",
 			"[+3] Sight",
 			"[12] additional attacks per turn",
-			"Ignores terrain cost"],
+			"Ignores terrain cost",
+			"Ignores Zone of Control"],
 		"attackSound": "artillery"
 	},
 	{
@@ -702,7 +730,8 @@
 		"requiredTech": "Steel",
         "obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
-		"uniques": ["[2] additional attacks per turn"]
+		"uniques": ["[2] additional attacks per turn",
+			"Ignores Zone of Control"]
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
@@ -717,7 +746,8 @@
 		"requiredTech": "Civil Service",
         "obsoleteTech": "Metallurgy",
 		"uniques": ["[+100]% Strength <vs [Mounted] units>",
-			"[2] additional attacks per turn"],
+			"[2] additional attacks per turn",
+			"Ignores Zone of Control"],
 		"upgradesTo": "Lancer",
 		"attackSound": "nonmetalhit"
 	},
@@ -736,7 +766,8 @@
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
 			"[-50]% Strength <vs cities> <when attacking>",
-			"[3] additional attacks per turn"],
+			"[3] additional attacks per turn",
+			"Ignores Zone of Control"],
 		"attackSound": "arrow"
 	},
 	{
@@ -746,12 +777,11 @@
 		"uniqueTo": "Ventus",
 		"movement": 7,
 		"strength": 96,
-		"rangedStrength": 96,
-		"range": 1,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
         "obsoleteTech": "Rifling",
-		"uniques": ["[4] additional attacks per turn"]
+		"uniques": ["[4] additional attacks per turn",
+			"Ignores Zone of Control"]
 		"upgradesTo": "Rifleman",
 		"attackSound": "shot"
 	},
@@ -769,7 +799,8 @@
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
 			"[-50]% Strength <vs cities> <when attacking>",
-			"[5] additional attacks per turn"],
+			"[5] additional attacks per turn",
+			"Ignores Zone of Control"],
 		"upgradesTo": "Anti-Tank Gun",
 		"attackSound": "metalhit"
 	},
@@ -785,9 +816,10 @@
 		"requiredTech": "Combined Arms",
         "obsoleteTech": "Computers",
 		"uniques": ["[+50]% Strength <vs [Armored] units> <when attacking>",
-			"[8] additional attacks per turn"],
+			"[8] additional attacks per turn",
+			"Ignores Zone of Control"],
 		"upgradesTo": "Helicopter Gunship",
-		"attackSound": "Artillery"
+		"attackSound": "artillery"
 	},
 	{
 		"name": "Floating Flame",
@@ -803,12 +835,12 @@
 			"Can move after attacking",
 			"No defensive terrain bonus",
 			"All tiles cost 1 movement",
-			"Ignores Zone of Control",
 			"[6] additional attacks per turn",
 			"[+4] Sight",
 			"Can see over obstacles",
 			"May travel on Water tiles without embarking",
-			"May enter foreign tiles without open borders"],
+			"May enter foreign tiles without open borders",
+			"Ignores Zone of Control"],
 		"attackSound": "shot"
 	},
 	{
@@ -818,12 +850,11 @@
 		"uniqueTo": "Ventus",
 		"movement": 9,
 		"strength": 136,
-		"rangedStrength": 136,
-		"range": 1,
 		"cost": 225,
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
-		"uniques": ["[6] additional attacks per turn"]
+		"uniques": ["[6] additional attacks per turn",
+			"Ignores Zone of Control"]
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
 	},
@@ -842,7 +873,8 @@
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
 			"[-50]% Strength <vs cities> <when attacking>",
-			"[5] additional attacks per turn"],
+			"[5] additional attacks per turn",
+			"Ignores Zone of Control"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -852,8 +884,6 @@
 		"uniqueTo": "Ventus",
 		"movement": 14,
 		"strength": 240,
-		"rangedStrength": 240,
-		"range": 1,
 		"cost": 350,
 		"requiredTech": "Combustion",
 		"obsoleteTech": "Combined Arms",
@@ -862,7 +892,8 @@
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
 			"[7] additional attacks per turn",
-			"Ignores terrain cost"],
+			"Ignores terrain cost",
+			"Ignores Zone of Control"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -872,8 +903,6 @@
 		"uniqueTo": "Ventus",
 		"movement": 16,
 		"strength": 280,
-		"rangedStrength": 280,
-		"range": 1,
 		"cost": 375,
 		"requiredTech": "Combined Arms",
 		"obsoleteTech": "Lasers",
@@ -882,7 +911,8 @@
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
 			"[9] additional attacks per turn",
-			"Ignores terrain cost"],
+			"Ignores terrain cost",
+			"Ignores Zone of Control"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -892,8 +922,6 @@
 		"uniqueTo": "Ventus",
 		"movement": 19,
 		"strength": 400,
-		"rangedStrength": 400
-		"range": 1,
 		"cost": 425,
 		"requiredTech": "Lasers",
 		"obsoleteTech": "Nuclear Fusion",
@@ -902,7 +930,8 @@
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
 			"[12] additional attacks per turn",
-			"Ignores terrain cost"],
+			"Ignores terrain cost",
+			"Ignores Zone of Control"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -912,15 +941,14 @@
 		"uniqueTo": "Ventus",
 		"movement": 25,
 		"strength": 600,
-		"rangedStrength": 600,
-		"range": 1,
 		"cost": 500,
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Aluminum",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
 			"[16] additional attacks per turn",
-			"Ignores terrain cost"],
+			"Ignores terrain cost",
+			"Ignores Zone of Control"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -930,10 +958,9 @@
 		"uniqueTo": "Ventus",
 		"movement": 12,
 		"strength": 200,
-		"rangedStrength": 200,
-		"range": 1,
 		"cost": 320,
-		"uniques": ["[8] additional attacks per turn"]
+		"uniques": ["[8] additional attacks per turn",
+			"Ignores Zone of Control"]
 		"requiredTech": "Replaceable Parts",
 		"obsoleteTech": "Plastics",
 		"upgradesTo": "Infantry",
@@ -946,10 +973,9 @@
 		"uniqueTo": "Ventus",
 		"movement": 14,
 		"strength": 280,
-		"rangedStrength": 280,
-		"range": 1,
 		"cost": 375,
-		"uniques": ["[10] additional attacks per turn"]
+		"uniques": ["[10] additional attacks per turn",
+			"Ignores Zone of Control"]
 		"requiredTech": "Plastics",
 		"obsoleteTech": "Mobile Tactics",
 		"upgradesTo": "Mechanized Infantry",
@@ -957,7 +983,7 @@
 	},
 	{
 		"name": "Beyond Infantry",
-		"unitType": "Armored",
+		"unitType": "Ranged Gunpowder",
 		"replaces": "Mechanized Infantry",
 		"uniqueTo": "Ventus",
 		"movement": 24,
@@ -965,7 +991,8 @@
 		"rangedStrength": 360,
 		"cost": 500,
 		"uniques": ["[18] additional attacks per turn",
-			"Ignores terrain cost"]
+			"Ignores terrain cost",
+			"Ignores Zone of Control"]
 		"requiredTech": "Mobile Tactics",
 		"attackSound": "shot"
 	},
