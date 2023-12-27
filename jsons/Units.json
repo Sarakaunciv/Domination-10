@@ -30,6 +30,7 @@
 		"cost": 45,
 		"requiredTech": "Sailing",
         "obsoleteTech": "Astronomy",
+		"uniques": ["Ignores Zone of Control"],
 		"upgradesTo": "Caravel",
 		"attackSound": "nonmetalhit"
 	},
@@ -44,7 +45,7 @@
 		"requiredTech": "Astronomy",
         "obsoleteTech": "Steam Power",
 		"uniques": ["[+2] Sight",
-			"[2] additional attacks per turn"],
+			"[2] additional attacks per turn","Ignores Zone of Control"],
 		"upgradesTo": "Ironclad",
 		"attackSound": "cannon"
 	},
