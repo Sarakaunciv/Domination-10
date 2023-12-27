@@ -57,42 +57,6 @@
 		    "requiredTech": "Agriculture"
 	},
 	{
-		"name": "Yield Cheat 2",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["[+100]% [Food] [in all cities]",
-			"[+100]% [Gold] [in all cities]",
-			"[+100]% [Science] [in all cities]",
-			"[+100]% [Production] [in all cities]",
-			"[+100]% [Culture] [in all cities]",
-			"[+100]% [Faith] [in all cities]",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured",
-			"Only available <in cities without a [Yield Cheat 5]>",
-			"Only available <in cities without a [Yield Cheat 20]>"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Yield Cheat 5",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["[+400]% [Food] [in all cities]",
-			"[+400]% [Gold] [in all cities]",
-			"[+400]% [Science] [in all cities]",
-			"[+400]% [Production] [in all cities]",
-			"[+400]% [Culture] [in all cities]",
-			"[+400]% [Faith] [in all cities]",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured",
-			"Only available <in cities without a [Yield Cheat 2]>",
-			"Only available <in cities without a [Yield Cheat 20]>"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
 		"name": "Yield Cheat 20",
 		"cost": 0,
 		"requiredBuilding": "Cheat Powder",
@@ -131,137 +95,11 @@
 		    "requiredTech": "Agriculture"
 	},
 	{
-		"name": "Gold Cheat 10",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["Earn [1000]% of killed [Military] unit's [Strength] as [Gold]",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured",
-			"Only available <in cities without a [Gold Cheat 100]>"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Gold Cheat 100",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["Earn [10000]% of killed [Military] unit's [Strength] as [Gold]",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured",
-			"Only available <in cities without a [Gold Cheat 10]>"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Science Cheat 10",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["Earn [1000]% of killed [Military] unit's [Strength] as [Science]",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured",
-			"Only available <in cities without a [Science Cheat 100]>"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Science Cheat 100",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["Earn [10000]% of killed [Military] unit's [Strength] as [Science]",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured",
-			"Only available <in cities without a [Science Cheat 10]>"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Food Cheat Carry",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["[100]% Food is carried over after population increases [in this city]",
-			"Destroyed when the city is captured",
-			"Only available <in cities without a [Population Cheat]>"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Food Cheat Population",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["[+2 Food] per [1] population [in this city]",
-			"Destroyed when the city is captured",
-			"Only available <in cities without a [Population Cheat]>"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Population Cheat",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["[99] population [in this city]",
-			"Nullifies Growth [in this city]",
-			"Destroyed when the city is captured",
-			"Only available <in cities without a [Food Cheat Population]>",
-			"Only available <in cities without a [Food Cheat Carry]>"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Happiness Per Population Cheat",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["[+1 Happiness] per [1] population [in this city]",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
 		"name": "Nuclear Defend Cheat",
 		"cost": 0,
 		"requiredBuilding": "Cheat Powder",
 		"maintenance": 0,
 		"uniques": ["Population loss from nuclear attacks [-100]% [in all cities]",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Fair Strength Cheat",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["[+33]% Strength <for [All] units> <when below [-10] Happiness>",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Attack Cheat",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["[+9900]% Strength <for [All] units> <when attacking>",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Defense Cheat",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["[+9900]% Strength <for [All] units> <when defending>",
 			"Limited to [1] per Civilization",
 			"Destroyed when the city is captured"]
 			
@@ -290,11 +128,89 @@
 		    "requiredTech": "Agriculture"
 	},
 	{
+		"name": "Tech Cheat",
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
+		"maintenance": 0,
+		"uniques": ["[11] free random researchable Tech(s) from the [Ancient era]",
+			"[9] free random researchable Tech(s) from the [Classical era]",
+			"[10] free random researchable Tech(s) from the [Medieval era]",
+			"[10] free random researchable Tech(s) from the [Renaissance era]",
+			"[10] free random researchable Tech(s) from the [Industrial era]",
+			"[9] free random researchable Tech(s) from the [Modern era]",
+			"[8] free random researchable Tech(s) from the [Atomic era]",
+			"[11] free random researchable Tech(s) from the [Information era]",
+			"[1] free random researchable Tech(s) from the [Future era]"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Great Wall of Ventus",
+		"uniqueTo": "Ventus",
+		"replaces": "Walls",
+		"cityStrength": 25,
+		"cityHealth": 250,
+		"cost": 250,
+		"maintenance": 0,
+		"uniques": ["Destroyed when the city is captured"]
+			
+		    "requiredTech": "Masonry"
+	},
+	{
+		"name": "Grand Castle of Ventus",
+		"uniqueTo": "Ventus",
+		"replaces": "Castle",
+		"cityStrength": 50,
+		"cityHealth": 500,
+		"cost": 500,
+		"maintenance": 0,
+		"uniques": ["Destroyed when the city is captured"]
+			
+		    "requiredTech": "Chivalry"
+	},
+	{
+		"name": "Defense of Ventus",
+		"uniqueTo": "Ventus",
+		"replaces": "Arsenal",
+		"cityStrength": 75,
+		"cityHealth": 750,
+		"cost": 750,
+		"maintenance": 0,
+		"uniques": ["Destroyed when the city is captured"]
+			
+		    "requiredTech": "Metallurgy"
+	},
+	{
+		"name": "Shield of Ventus",
+		"uniqueTo": "Ventus",
+		"replaces": "Military Base",
+		"cityStrength": 100,
+		"cityHealth": 1000,
+		"cost": 1000,
+		"maintenance": 0,
+		"uniques": ["Destroyed when the city is captured"]
+			
+		    "requiredTech": "Replaceable Parts"
+	},
+	{
+		"name": "Fortified Anti-Nuclear Shelter",
+		"uniqueTo": "Ventus",
+		"replaces": "Bomb Shelter",
+		"cityHealth": 2500,
+		"cost": 1000,
+		"maintenance": 0,
+		"uniques": ["Population loss from nuclear attacks [-100]% [in this city]",
+			"Damage to garrison from nuclear attacks [-100]% [in this city]",
+			"Destroyed when the city is captured"]
+			
+		    "requiredTech": "Telecommunications"
+	},
+	{
 		"name": "THE GRAND ABYSS Cheat",
 		"uniqueTo": "Ventus",
-		"cost": 1,
+		"cost": 0,
 		"maintenance": 0,
-		"uniques": [ "[5] free [THE GRAND ABYSS] units appear",
+		"uniques": ["[5] free [THE GRAND ABYSS] units appear",
 			"Free [Target] appears",
 			"Destroyed when the city is captured"]
 			
