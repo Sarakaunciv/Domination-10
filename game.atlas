@@ -431,3 +431,39 @@ UnitIcons/Anti-Air Field
   orig: 255, 255
   offset: 0, 0
   index: -1
+BuildingIcons/Great Wall of Ventus
+  rotate: false
+  xy: 513, 1
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+BuildingIcons/Grand Castle of Ventus
+  rotate: false
+  xy: 513, 1
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+BuildingIcons/Defense of Ventus
+  rotate: false
+  xy: 513, 1
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shield of Ventus
+  rotate: false
+  xy: 513, 1
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fortified Anti-Nuclear Shelter
+  rotate: false
+  xy: 513, 1
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+
