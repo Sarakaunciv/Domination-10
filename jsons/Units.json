@@ -11,7 +11,8 @@
 		"requiredTech": "Stealth",
 		"uniques": ["[+4] Sight",
 			"Can see over obstacles",
-			"Damage taken from interception reduced by [90]%",
+			"This Unit gains the [Evasion] promotion",
+			"Damage taken from interception reduced by [49]%",
 			"Cannot be carried by [Carrier] units"],
 		"attackSound": "bombing"
 	},
