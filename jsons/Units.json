@@ -6,7 +6,7 @@
 		"strength": 100,
 		"rangedStrength": 100,
 		"range": 20,
-		"cost": 400,
+		"cost": 425,
 		"requiredResource": "Aluminum",
 		"requiredTech": "Stealth",
 		"uniques": ["[+4] Sight",
