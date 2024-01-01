@@ -1,9 +1,15 @@
 [
   {
-    "name": "",
-    "terrainsCanBeBuiltOn": "",
-    "techRequired": "",
-    "uniqueTo": "",
-    "turnsToBuild": "0",
-    "": "",
-  }]
+    "name": "Fish Farm",
+    "terrainsCanBeBuiltOn": "Water",
+    "techRequired": "Sailing",
+    "uniqueTo": "Ventus",
+    "turnsToBuild": 0,
+    "uniques": ["[+2 Food]",
+      "[+1 Food, +3 Gold] <in [Water resource] tiles>",
+      "[+1 Food] <in [Fish] tiles>",
+      "[+2 Food, +5 Gold] <in [Ocean] tiles> <after discovering [Navigation]>",
+      "[+2 Food] <after discovering [Biology]>",
+      "[+2 Food] <in [Water resource] tiles> <after discovering [Biology]>",],
+  }
+]
