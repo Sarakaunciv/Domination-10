@@ -30,8 +30,6 @@
 			"[Military] units gain the [March] promotion",
 			"[+400]% Strength for cities",
 			"Provides a [Cheat Powder] in your first [1] cities for free",
-			"Earn [100]% of killed [All] unit's [Cost] as [Gold]",
-			"Earn [100]% of killed [All] unit's [Cost] as [Science]",
 			"[+9900]% XP gained from combat"],
 		"cities": ["Ventapical","Evadel","Tropical","Mintal","Rainaral","Al","Quintel","Marel","Porel","Wanal","Kopel","Racel","Canel"],
 		"spyNames": ["Spices"]
