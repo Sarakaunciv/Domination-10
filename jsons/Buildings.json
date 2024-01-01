@@ -217,7 +217,7 @@
 	{
 		"name": "Horse Hut",
 		"uniqueTo": "Ventus",
-		"replaces": "Pesture",
+		"replaces": "Stable",
 		"cost": 300,
 		"maintenance": 5,
 		"uniques": ["Provides [5] [Horses]",
@@ -267,7 +267,7 @@
 		"uniques": ["Provides [5] [Aluminum]",
 			"Destroyed when the city is captured"]
 			
-		    "requiredTech": "Electicity"
+		    "requiredTech": "Electricity"
 	},
 	{
 		"name": "Uranium Mine",
@@ -280,7 +280,7 @@
 			"[+15]% [Production]",
 			"Destroyed when the city is captured"]
 			
-		    "requiredTech": "Electicity"
+		    "requiredTech": "Nuclear Fission"
 	},
 	{
 		"name": "Great Wall of Ventus",
