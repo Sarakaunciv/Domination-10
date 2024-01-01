@@ -1,7 +1,7 @@
 [
   {
     "name": "Fish Farm",
-    "terrainsCanBeBuiltOn": "Water",
+    "terrainsCanBeBuiltOn": ["Water"],
     "techRequired": "Sailing",
     "uniqueTo": "Ventus",
     "turnsToBuild": 0,
