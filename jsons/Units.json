@@ -38,7 +38,7 @@
 		"name": "Fish Farmer",
 		"unitType": "Civilian Water",
 		"uniqueTo": "Ventus",
-		"replaces": "Work Boat",
+		"replaces": "Work Boats",
 		"movement": 10,
 		"cost": 100,
 		"uniques": ["Can build [Fish Farm] improvements on tiles",
