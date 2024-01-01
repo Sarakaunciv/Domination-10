@@ -469,28 +469,28 @@ BuildingIcons/Fortified Anti-Nuclear Shelter
 ImprovementIcons/Fish Farm
   rotate: false
   xy: 920, 541
-  size: 32, 32
-  orig: 32, 32
+  size: 100, 100
+  orig: 64, 64
   offset: 0, 0
-  index: 1
+  index: -1
 ImprovementIcons/Grand Farm
   rotate: false
   xy: 920, 541
-  size: 32, 32
-  orig: 32, 32
+  size: 100, 100
+  orig: 64, 64
   offset: 0, 0
-  index: 1
+  index: -1
 ImprovementIcons/Deep Mine
   rotate: false
   xy: 832, 625
-  size: 32, 32
-  orig: 32, 32
+  size: 100, 100
+  orig: 64, 64
   offset: 0, 0
-  index: 1
+  index: -1
 ImprovementIcons/Trader Mission
   rotate: false
   xy: 832, 541
-  size: 32, 32
-  orig: 32, 32
+  size: 100, 100
+  orig: 64, 64
   offset: 0, 0
-  index: 1
+  index: -1
