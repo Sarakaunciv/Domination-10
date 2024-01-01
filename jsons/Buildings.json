@@ -68,9 +68,19 @@
 			"[+1900]% [Culture] [in all cities]",
 			"[+1900]% [Faith] [in all cities]",
 			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured",
-			"Only available <in cities without a [Yield Cheat 2]>",
-			"Only available <in cities without a [Yield Cheat 5]>"]
+			"Destroyed when the city is captured"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
+		"name": "Gold Science Advantage",
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
+		"maintenance": 0,
+		"uniques": ["Earn [100]% of killed [All] unit's [Cost] as [Gold]",
+			"Earn [100]% of killed [All] unit's [Cost] as [Science]",
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured"]
 			
 		    "requiredTech": "Agriculture"
 	},
