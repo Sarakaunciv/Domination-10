@@ -494,3 +494,10 @@ ImprovementIcons/Trader Mission
   orig: 255, 255
   offset: 0, 0
   index: -1
+NationIcons/Ventus
+  rotate: false 
+  xy: 769, 513
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
