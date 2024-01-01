@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Worker",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 70,
+		"uniques": ["Can build [Land] improvements on tiles",
+			"Uncapturable"],
+	},
+	{
 		"name": "Stealth Bomber",
 		"unitType": "Bomber",
 		"movement": 1,
@@ -30,11 +38,15 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Ventus",
 		"replaces": "Worker",
-		"movement": 5,
+		"movement": 10,
 		"cost": 500,
 		"uniques": ["Can build [All] improvements on tiles",
 			"Can instantly construct a [Road] improvement <for [0] movement>",
-			"Can instantly construct a [Railroad] improvement <for [0] movement>"],
+			"Can instantly construct a [Railroad] improvement <for [0] movement>",
+			"May create improvements on water resources",
+			"Uncapturable",
+			"May travel on Water tiles without embarking",
+			"Ignores terrain cost"],
 	},
 	{
 		"name": "Battle Raft",
