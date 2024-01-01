@@ -30,8 +30,19 @@
 		"replaces": "Settler",
 		"movement": 10,
 		"cost": 100,
+		"requiredTech": "Sailing",
 		"uniques": ["Founds a new city <by consuming this unit>",
 			"Uncapturable"]
+	},
+	{
+		"name": "Fish Farmer",
+		"unitType": "Civilian Water",
+		"uniqueTo": "Ventus",
+		"replaces": "Work Boat",
+		"movement": 10,
+		"cost": 100,
+		"uniques": ["Can build [Fish Farm] improvements on tiles",
+			"Uncapturable"],
 	},
 	{
 		"name": "Improver",
@@ -40,13 +51,13 @@
 		"replaces": "Worker",
 		"movement": 10,
 		"cost": 500,
-		"uniques": ["Can build [All] improvements on tiles",
+		"uniques": ["Can build [Land] improvements on tiles",
 			"Can instantly construct a [Road] improvement <for [0] movement>",
 			"Can instantly construct a [Railroad] improvement <for [0] movement>",
 			"May create improvements on water resources",
 			"Uncapturable",
 			"May travel on Water tiles without embarking",
-			"Ignores terrain cost"],
+			"Ignores terrain cost"]
 	},
 	{
 		"name": "Battle Raft",
