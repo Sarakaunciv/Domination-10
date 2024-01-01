@@ -1,4 +1,9 @@
 [
   {
-    "name":"Fishing Market"
+    "name": "",
+    "terrainsCanBeBuiltOn": "",
+    "techRequired": "",
+    "uniqueTo": "",
+    "turnsToBuild": "0",
+    "": "",
   }]
