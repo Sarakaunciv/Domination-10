@@ -1196,7 +1196,7 @@
 		"range": 50,
 		"cost": 2500,
 		"requiredTech": "Nuclear Fusion",
-		"uniques": ["Nuclear weapon of Strength [15]",
+		"uniques": ["Nuclear weapon of Strength [4]",
 			"Blast radius [8]",
 			"Consumes [5] [Uranium]"],
 		"attackSound": "nuke"
@@ -1211,7 +1211,7 @@
 		"range": 50,
 		"cost": 10000,
 		"requiredTech": "Future Tech",
-		"uniques": ["Nuclear weapon of Strength [50]",
+		"uniques": ["Nuclear weapon of Strength [5]",
 			"Blast radius [20]",
 			"Consumes [10] [Uranium]"],
 		"attackSound": "nuke"
