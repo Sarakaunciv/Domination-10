@@ -31,8 +31,8 @@
 			"[+400]% Strength for cities",
 			"Provides a [Cheat Powder] in your first [1] cities for free",
 			"[+9900]% XP gained from combat",
-			"[1] Movement point cost to disembark",
-			"[1] Movement point cost to embark"],
+			"[1] Movement point cost to disembark <for [All] units>",
+			"[1] Movement point cost to embark <for [All] units>"],
 		"cities": ["Ventapical","Evadel","Tropical","Mintal","Rainaral","Al","Quintel","Marel","Porel","Wanal","Kopel","Racel","Canel"],
 		"spyNames": ["Spices"]
 	},
