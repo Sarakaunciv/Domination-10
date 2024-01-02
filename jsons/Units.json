@@ -44,8 +44,6 @@
 		"uniques": ["Can build [Land] improvements on tiles",
 			"Can instantly construct a [Road] improvement <for [0] movement>",
 			"Can instantly construct a [Railroad] improvement <for [0] movement>",
-			"May create improvements on water resources",
-			"May travel on Water tiles without embarking",
 			"Ignores terrain cost"]
 	},
 	{
