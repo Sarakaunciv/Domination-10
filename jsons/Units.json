@@ -32,7 +32,7 @@
 		"replaces": "Work Boats",
 		"movement": 10,
 		"cost": 100,
-		"uniques": ["Can build [Fish Farm] improvements on tiles"],
+		"uniques": ["Can instantly construct a [Fish Farm] improvement <for [10] movement>"],
 	},
 	{
 		"name": "Improver",
