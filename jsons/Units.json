@@ -22,7 +22,6 @@
 		"replaces": "Settler",
 		"movement": 10,
 		"cost": 100,
-		"requiredTech": "Sailing",
 		"uniques": ["Founds a new city <by consuming this unit>"]
 	},
 	{
@@ -32,6 +31,7 @@
 		"replaces": "Work Boats",
 		"movement": 10,
 		"cost": 100,
+		"requiredTech": "Sailing",
 		"uniques": ["Can instantly construct a [Fish Farm] improvement <for [10] movement>"],
 	},
 	{
