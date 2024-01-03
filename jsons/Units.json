@@ -1062,10 +1062,10 @@
 		"uniqueTo": "Ventus",
 		"replaces": "Great Scientist",
 		"uniques": ["Empire enters a [10]-turn Golden Age <by consuming this unit>",
-			"Can hurry technology research <for [5] movement>",
+			"Can hurry technology research",
 			"Ignores terrain cost"],
 		"movement": 5,
-		"cost": 5000,
+		"cost": 500,
 		"requiredTech": "Agriculture",
 	},
 	{
@@ -1074,11 +1074,11 @@
 		"uniqueTo": "Ventus",
 		"replaces": "Great Engineer",
 		"uniques": ["Empire enters a [10]-turn Golden Age <by consuming this unit>",
-			"Can speed up construction of a building <for [0] movement>",
-			"Can speed up the construction of a wonder <for [0] movement>",
+			"Can speed up construction of a building",
+			"Can speed up the construction of a wonder",
 			"Ignores terrain cost"],
-		"movement": 5,
-		"cost": 1000,
+		"movement": 10,
+		"cost": 330,
 	},
 	{
 		"name": "Grand General",
@@ -1089,7 +1089,7 @@
 			"Can instantly construct a [Citadel] improvement <for [0] movement>",
 			"Ignores terrain cost"],
 		"movement": 10,
-		"cost": 1000
+		"cost": 500
 	},
 	{
 		"name": "Tiny Blast",
