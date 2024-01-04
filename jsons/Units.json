@@ -397,7 +397,7 @@
 		"requiredTech": "Radar",
 		"uniques": ["May Paradrop up to [50] tiles from inside friendly territory",
 			"[14] additional attacks per turn",
-			"[+100]% Strength <when attacking>",
+			"[+100]% Strength <when defending>",
 			"Ignores terrain cost",
 			"Can move after attacking",
 			"Ignores Zone of Control"],
@@ -603,7 +603,7 @@
         "obsoleteTech": "Chivalry",
 		"upgradesTo": "Knight",
 		"uniques": ["No defensive terrain bonus",
-			"[-50]% Strength <vs cities> <when attacking>",
+			"[+100]% Strength <when attacking>",
 			"Can move after attacking",
 			"Ignores Zone of Control"],
 		"attackSound": "nonmetalhit"
@@ -821,7 +821,7 @@
 			"[3] additional attacks per turn",
 			"Can move after attacking",
 			"Ignores Zone of Control"],
-		"attackSound": "arrow"
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Round Bullet",
