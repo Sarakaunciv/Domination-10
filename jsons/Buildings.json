@@ -127,6 +127,17 @@
 		    "requiredTech": "Agriculture"
 	},
 	{
+		"name": "Anti Exp Cheat",
+		"cost": 0,
+		"requiredBuilding": "Cheat Powder",
+		"maintenance": 0,
+		"uniques": ["[-10000]% XP gained from combat",
+			"Limited to [1] per Civilization",
+			"Destroyed when the city is captured"]
+			
+		    "requiredTech": "Agriculture"
+	},
+	{
 		"name": "Experience Cheat",
 		"cost": 0,
 		"requiredBuilding": "Cheat Powder",
