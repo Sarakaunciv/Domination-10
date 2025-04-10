@@ -70,7 +70,7 @@
       "[+3 Production] <in [Iron] tiles>",
       "[+5 Production] <in [Coal] tiles>",
       "[+7 Production] <in [Aluminum] tiles>",
-      "[+10 Production] <in [Uranium] tiles>",],
+      "[+10 Production] <in [Uranium] tiles>"],
   },
   {
     "name": "Trader Mission",
@@ -83,7 +83,7 @@
       "[+4 Gold] <after discovering [Banking]>",
       "[+8 Gold] <after discovering [Economics]>",
       "[+16 Gold] <after discovering [Electricity]>",
-      "[+8 Gold, +20 Happiness] <in [Luxury resource] tiles>",
+      "[+32 Gold, +100 Happiness] <in [Luxury resource] tiles>",
       "Does not need removal of [Forest]",
       "Does not need removal of [Jungle]"],
   }
