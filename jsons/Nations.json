@@ -9,7 +9,7 @@
 		"startIntroPart2": "The Ventus empire. The empire of true millitary",
 		
 		"declaringWar": "You should die",
-		"attacked": "You are stupid.So stupid",
+		"attacked": "You are stupid, So stupid",
 		"defeated": "",
 		"introduction": "My name is Butter Light.The great leader of The Ventus empire",
 		
@@ -31,7 +31,7 @@
 			"[Water] units gain the [Supply] promotion",
 			"[Military] units gain the [March] promotion",
 			"[Military] units gain the [Indirect Fire] promotion",
-			"[+400]% Strength for cities",
+			"[+100]% Strength for cities",
 			"Provides a [Walls] in your first [1] cities for free",
 			"Provides a [Cheat Powder] in your first [1] cities for free",
 			"[+9900]% XP gained from combat",
