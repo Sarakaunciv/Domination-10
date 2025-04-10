@@ -307,9 +307,9 @@
 		"name": "Great Wall of Ventus",
 		"uniqueTo": "Ventus",
 		"replaces": "Walls",
-		"cityStrength": 25,
-		"cityHealth": 250,
-		"cost": 250,
+		"cityStrength": 10,
+		"cityHealth": 50,
+		"cost": 75,
 		"maintenance": 0,
 		"uniques": ["Destroyed when the city is captured"]
 			
@@ -319,9 +319,9 @@
 		"name": "Grand Castle of Ventus",
 		"uniqueTo": "Ventus",
 		"replaces": "Castle",
-		"cityStrength": 50,
-		"cityHealth": 500,
-		"cost": 500,
+		"cityStrength": 14,
+		"cityHealth": 50,
+		"cost": 160,
 		"maintenance": 0,
 		"uniques": ["Destroyed when the city is captured"]
 			
@@ -331,9 +331,9 @@
 		"name": "Defense of Ventus",
 		"uniqueTo": "Ventus",
 		"replaces": "Arsenal",
-		"cityStrength": 75,
-		"cityHealth": 750,
-		"cost": 750,
+		"cityStrength": 18,
+		"cityHealth": 50,
+		"cost": 300,
 		"maintenance": 0,
 		"uniques": ["Destroyed when the city is captured"]
 			
@@ -343,9 +343,9 @@
 		"name": "Shield of Ventus",
 		"uniqueTo": "Ventus",
 		"replaces": "Military Base",
-		"cityStrength": 100,
-		"cityHealth": 1000,
-		"cost": 1000,
+		"cityStrength": 24,
+		"cityHealth": 50,
+		"cost": 500,
 		"maintenance": 0,
 		"uniques": ["Destroyed when the city is captured"]
 			
@@ -355,8 +355,8 @@
 		"name": "Fortified Anti-Nuclear Shelter",
 		"uniqueTo": "Ventus",
 		"replaces": "Bomb Shelter",
-		"cityHealth": 2500,
-		"cost": 1000,
+		"cityHealth": 1000,
+		"cost": 5000,
 		"maintenance": 0,
 		"uniques": ["Population loss from nuclear attacks [-100]% [in this city]",
 			"Damage to garrison from nuclear attacks [-100]% [in this city]",
