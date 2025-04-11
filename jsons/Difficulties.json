@@ -155,7 +155,7 @@
         {
                 "name": "Free",
 		"baseHappiness": 10,
-		"extraHappinessPerLuxury": 0,
+		"extraHappinessPerLuxury": 10,
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 100,
@@ -176,7 +176,7 @@
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": ["Worker","Worker","Worker","Worker"],
 		"aiCityStateBonusStartingUnits": ["Worker","Worker"],
-		"aiUnhappinessModifier": 1,
+		"aiUnhappinessModifier": 0.1,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 50
