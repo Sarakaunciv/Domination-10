@@ -1,378 +1,386 @@
 
 [
-	{
-		"name": "Cheat Lock",
-		"cost": 0,
-		"maintenance": 0,
-		"uniques": ["Destroyed when the city is captured",
-			"[+2 Production] [in this city]",
-			"Only available <in cities without a [Cheat Powder]>"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Cheat Key",
-		"cost": 0,
-		"requiredBuilding": "Cheat Lock",
-		"maintenance": 0,
-		"uniques": ["Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Cheat Powder",
-		"cost": 0,
-		"requiredBuilding": "Cheat Key",
-		"maintenance": 0,
-		"uniques": ["Destroyed when the city is captured",
-			"Only available <in cities without a [Cheat Lock]>"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Cheat Builder",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["Provides a [Cheat Powder] in your first [100] cities for free",
-			"Unsellable",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Resource Cheat",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["Provides [5000] [Horses]",
-			"Provides [5000] [Iron]",
-			"Provides [5000] [Coal]",
-			"Provides [5000] [Oil]",
-			"Provides [5000] [Aluminum]",
-			"Provides [5000] [Uranium]",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Yield Cheat 20",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["[+1900]% [Food] [in all cities]",
-			"[+1900]% [Gold] [in all cities]",
-			"[+1900]% [Science] [in all cities]",
-			"[+1900]% [Production] [in all cities]",
-			"[+1900]% [Culture] [in all cities]",
-			"[+1900]% [Faith] [in all cities]",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Gold Science Advantage",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["Earn [100]% of killed [All] unit's [Cost] as [Gold]",
-			"Earn [100]% of killed [All] unit's [Cost] as [Science]",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Production Cheat",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["[+10000 Production] [in this city]",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Happiness Cheat",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["[+10000 Happiness] [in this city]",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Nuclear Defend Cheat",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["Population loss from nuclear attacks [-100]% [in all cities]",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "EXP Cheat",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["New [Military] units start with [36000] Experience [in all cities]",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Anti Exp Cheat",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["[-10000]% XP gained from combat",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Experience Cheat",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["[+9900]% XP gained from combat",
-			"Limited to [1] per Civilization",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Tech Cheat",
-		"cost": 0,
-		"requiredBuilding": "Cheat Powder",
-		"maintenance": 0,
-		"uniques": ["Discover [Pottery]",
-				"Discover [Animal Husbandry]",
-				"Discover [Archery]",
-				"Discover [Mining]",
-				"Discover [Sailing]",
-				"Discover [Calendar]",
-				"Discover [Writing]",
-				"Discover [Trapping]",
-				"Discover [The Wheel]",
-				"Discover [Masonry]",
-				"Discover [Bronze Working]",
-				"Discover [Optics]",
-				"Discover [Horseback Riding]",
-				"Discover [Mathematics]",
-				"Discover [Construction]",
-				"Discover [Philosophy]",
-				"Discover [Drama and Poetry]",
-				"Discover [Currency]",
-				"Discover [Engineering]",
-				"Discover [Iron Working]",
-				"Discover [Theology]",
-				"Discover [Civil Service]",
-				"Discover [Guilds]",
-				"Discover [Metal Casting]",
-				"Discover [Compass]",
-				"Discover [Education]",
-				"Discover [Chivalry]",
-				"Discover [Machinery]",
-				"Discover [Physics]",
-				"Discover [Steel]",
-				"Discover [Astronomy]",
-				"Discover [Acoustics]",
-				"Discover [Banking]",
-				"Discover [Printing Press]",
-				"Discover [Gunpowder]",
-				"Discover [Navigation]",
-				"Discover [Architecture]",
-				"Discover [Economics]",
-				"Discover [Metallurgy]",
-				"Discover [Chemistry]",
-				"Discover [Archaeology]",
-				"Discover [Scientific Theory]",
-				"Discover [Industrialization]",
-				"Discover [Rifling]",
-				"Discover [Military Science]",
-				"Discover [Fertilizer]",
-				"Discover [Biology]",
-				"Discover [Electricity]",
-				"Discover [Steam Power]",
-				"Discover [Dynamite]",
-				"Discover [Refrigeration]",
-				"Discover [Radio]",
-				"Discover [Replaceable Parts]",
-				"Discover [Flight]",
-				"Discover [Railroads]",
-				"Discover [Plastics]",
-				"Discover [Electronics]",
-				"Discover [Ballistics]",
-				"Discover [Combustion]",
-				"Discover [Pharmaceuticals]",
-				"Discover [Atomic Theory]",
-				"Discover [Radar]",
-				"Discover [Combined Arms]",
-				"Discover [Ecology]",
-				"Discover [Nuclear Fission]",
-				"Discover [Rocketry]",
-				"Discover [Computers]",
-				"Discover [Telecommunications]",
-				"Discover [Mobile Tactics]",
-				"Discover [Advanced Ballistics]",
-				"Discover [Satellites]",
-				"Discover [Robotics]",
-				"Discover [Lasers]",
-				"Discover [Globalization]",
-				"Discover [Particle Physics]",
-				"Discover [Nuclear Fusion]",
-				"Discover [Nanotechnology]",
-				"Discover [Stealth]",
-				"Discover [Future Tech]"]
-			
-		    "requiredTech": "Agriculture"
-	},
-	{
-		"name": "Horse Hut",
-		"uniqueTo": "Ventus",
-		"replaces": "Stable",
-		"cost": 300,
-		"maintenance": 5,
-		"uniques": ["Provides [5] [Horses]",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Animal Husbandry"
-	},
-	{
-		"name": "Iron Workshop",
-		"uniqueTo": "Ventus",
-		"replaces": "Forge",
-		"cost": 500,
-		"maintenance": 10,
-		"uniques": ["Provides [5] [Iron]",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Iron Working"
-	},
-	{
-		"name": "Coalmill",
-		"uniqueTo": "Ventus",
-		"replaces": "Windmill",
-		"cost": 300,
-		"maintenance": 5,
-		"uniques": ["Provides [5] [Coal]",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Industrialization"
-	},
-	{
-		"name": "Oil Miner",
-		"uniqueTo": "Ventus",
-		"replaces": "Hydro Plant",
-		"cost": 800,
-		"maintenance": 15,
-		"uniques": ["Provides [5] [Oil]",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Biology"
-	},
-	{
-		"name": "Aluminum Center",
-		"uniqueTo": "Ventus",
-		"replaces": "Recycling Center",
-		"cost": 1500,
-		"maintenance": 25,
-		"uniques": ["Provides [5] [Aluminum]",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Electricity"
-	},
-	{
-		"name": "Uranium Mine",
-		"uniqueTo": "Ventus",
-		"replaces": "Nuclear Plant",
-		"cost": 3000,
-		"maintenance": 100,
-		"uniques": ["Provides [5] [Uranium]",
-			"[+5 Production]",
-			"[+15]% [Production]",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Nuclear Fission"
-	},
-	{
-		"name": "Great Wall of Ventus",
-		"uniqueTo": "Ventus",
-		"replaces": "Walls",
-		"cityStrength": 10,
-		"cityHealth": 50,
-		"cost": 75,
-		"maintenance": 0,
-		"uniques": ["Destroyed when the city is captured"]
-			
-		    "requiredTech": "Masonry"
-	},
-	{
-		"name": "Grand Castle of Ventus",
-		"uniqueTo": "Ventus",
-		"replaces": "Castle",
-		"cityStrength": 14,
-		"cityHealth": 50,
-		"cost": 160,
-		"maintenance": 0,
-		"uniques": ["Destroyed when the city is captured"]
-			
-		    "requiredTech": "Chivalry"
-	},
-	{
-		"name": "Defense of Ventus",
-		"uniqueTo": "Ventus",
-		"replaces": "Arsenal",
-		"cityStrength": 18,
-		"cityHealth": 50,
-		"cost": 300,
-		"maintenance": 0,
-		"uniques": ["Destroyed when the city is captured"]
-			
-		    "requiredTech": "Metallurgy"
-	},
-	{
-		"name": "Shield of Ventus",
-		"uniqueTo": "Ventus",
-		"replaces": "Military Base",
-		"cityStrength": 24,
-		"cityHealth": 50,
-		"cost": 500,
-		"maintenance": 0,
-		"uniques": ["Destroyed when the city is captured"]
-			
-		    "requiredTech": "Replaceable Parts"
-	},
-	{
-		"name": "Fortified Anti-Nuclear Shelter",
-		"uniqueTo": "Ventus",
-		"replaces": "Bomb Shelter",
-		"cityHealth": 1000,
-		"cost": 5000,
-		"maintenance": 0,
-		"uniques": ["Population loss from nuclear attacks [-100]% [in this city]",
-			"Damage to garrison from nuclear attacks [-100]% [in this city]",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Telecommunications"
-	},
-	{
-		"name": "THE GRAND ABYSS Cheat",
-		"uniqueTo": "Ventus",
-		"cost": 0,
-		"maintenance": 0,
-		"uniques": ["[5] free [THE GRAND ABYSS] units appear",
-			"Free [Target] appears",
-			"Destroyed when the city is captured"]
-			
-		    "requiredTech": "Agriculture"
-	}
+{
+"name": "Cheat Lock",
+"cost": 0,
+"maintenance": 0,
+"uniques": ["Destroyed when the city is captured",
+"[+2 Production] [in this city]",
+"Only available <in cities without a [Cheat Powder]>"]
+
+    "requiredTech": "Agriculture"},
+
+{"name": "Cheat Key",
+"cost": 0,
+"requiredBuilding": "Cheat Lock",
+"maintenance": 0,
+"uniques": ["Destroyed when the city is captured"]
+
+    "requiredTech": "Agriculture"},
+
+{"name": "Cheat Powder",
+"cost": 0,
+"requiredBuilding": "Cheat Key",
+"maintenance": 0,
+"uniques": ["Destroyed when the city is captured",
+"Only available <in cities without a [Cheat Lock]>"]
+
+    "requiredTech": "Agriculture"},
+
+{"name": "Cheat Builder",
+"cost": 0,
+"requiredBuilding": "Cheat Powder",
+"maintenance": 0,
+"uniques": ["Provides a [Cheat Powder] in your first [100] cities for free",
+"Unsellable",
+"Limited to [1] per Civilization",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Agriculture"},
+
+{"name": "Resource Cheat",
+"cost": 0,
+"requiredBuilding": "Cheat Powder",
+"maintenance": 0,
+"uniques": ["Provides [5000] [Horses]",
+"Provides [5000] [Iron]",
+"Provides [5000] [Coal]",
+"Provides [5000] [Oil]",
+"Provides [5000] [Aluminum]",
+"Provides [5000] [Uranium]",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Agriculture"},
+
+{"name": "Yield Cheat 20",
+"cost": 0,
+"requiredBuilding": "Cheat Powder",
+"maintenance": 0,
+"uniques": ["[+1900]% [Food] [in all cities]",
+"[+1900]% [Gold] [in all cities]",
+"[+1900]% [Science] [in all cities]",
+"[+1900]% [Production] [in all cities]",
+"[+1900]% [Culture] [in all cities]",
+"[+1900]% [Faith] [in all cities]",
+"Limited to [1] per Civilization",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Agriculture"},
+
+{"name": "Gold Science Advantage",
+"cost": 0,
+"requiredBuilding": "Cheat Powder",
+"maintenance": 0,
+"uniques": ["Earn [100]% of killed [All] unit's [Cost] as [Gold]",
+"Earn [100]% of killed [All] unit's [Cost] as [Science]",
+"Limited to [1] per Civilization",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Agriculture"},
+
+{"name": "Production Cheat",
+"cost": 0,
+"requiredBuilding": "Cheat Powder",
+"maintenance": 0,
+"uniques": ["[+10000 Production] [in this city]",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Agriculture"},
+
+{"name": "Happiness Cheat",
+"cost": 0,
+"requiredBuilding": "Cheat Powder",
+"maintenance": 0,
+"uniques": ["[+10000 Happiness] [in this city]",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Agriculture"},
+
+{"name": "Nuclear Defend Cheat",
+"cost": 0,
+"requiredBuilding": "Cheat Powder",
+"maintenance": 0,
+"uniques": ["Population loss from nuclear attacks [-100]% [in all cities]",
+"Limited to [1] per Civilization",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Agriculture"},
+
+{"name": "EXP Cheat",
+"cost": 0,
+"requiredBuilding": "Cheat Powder",
+"maintenance": 0,
+"uniques": ["New [Military] units start with [36000] Experience [in all cities]",
+"Limited to [1] per Civilization",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Agriculture"},
+
+{"name": "Anti Exp Cheat",
+"cost": 0,
+"requiredBuilding": "Cheat Powder",
+"maintenance": 0,
+"uniques": ["[-10000]% XP gained from combat",
+"Limited to [1] per Civilization",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Agriculture"},
+
+{"name": "Experience Cheat",
+"cost": 0,
+"requiredBuilding": "Cheat Powder",
+"maintenance": 0,
+"uniques": ["[+9900]% XP gained from combat",
+"Limited to [1] per Civilization",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Agriculture"},
+
+{"name": "Tech Cheat",
+"cost": 0,
+"requiredBuilding": "Cheat Powder",
+"maintenance": 0,
+"uniques": ["Discover [Pottery]",
+"Discover [Animal Husbandry]",
+"Discover [Archery]",
+"Discover [Mining]",
+"Discover [Sailing]",
+"Discover [Calendar]",
+"Discover [Writing]",
+"Discover [Trapping]",
+"Discover [The Wheel]",
+"Discover [Masonry]",
+"Discover [Bronze Working]",
+"Discover [Optics]",
+"Discover [Horseback Riding]",
+"Discover [Mathematics]",
+"Discover [Construction]",
+"Discover [Philosophy]",
+"Discover [Drama and Poetry]",
+"Discover [Currency]",
+"Discover [Engineering]",
+"Discover [Iron Working]",
+"Discover [Theology]",
+"Discover [Civil Service]",
+"Discover [Guilds]",
+"Discover [Metal Casting]",
+"Discover [Compass]",
+"Discover [Education]",
+"Discover [Chivalry]",
+"Discover [Machinery]",
+"Discover [Physics]",
+"Discover [Steel]",
+"Discover [Astronomy]",
+"Discover [Acoustics]",
+"Discover [Banking]",
+"Discover [Printing Press]",
+"Discover [Gunpowder]",
+"Discover [Navigation]",
+"Discover [Architecture]",
+"Discover [Economics]",
+"Discover [Metallurgy]",
+"Discover [Chemistry]",
+"Discover [Archaeology]",
+"Discover [Scientific Theory]",
+"Discover [Industrialization]",
+"Discover [Rifling]",
+"Discover [Military Science]",
+"Discover [Fertilizer]",
+"Discover [Biology]",
+"Discover [Electricity]",
+"Discover [Steam Power]",
+"Discover [Dynamite]",
+"Discover [Refrigeration]",
+"Discover [Radio]",
+"Discover [Replaceable Parts]",
+"Discover [Flight]",
+"Discover [Railroads]",
+"Discover [Plastics]",
+"Discover [Electronics]",
+"Discover [Ballistics]",
+"Discover [Combustion]",
+"Discover [Pharmaceuticals]",
+"Discover [Atomic Theory]",
+"Discover [Radar]",
+"Discover [Combined Arms]",
+"Discover [Ecology]",
+"Discover [Nuclear Fission]",
+"Discover [Rocketry]",
+"Discover [Computers]",
+"Discover [Telecommunications]",
+"Discover [Mobile Tactics]",
+"Discover [Advanced Ballistics]",
+"Discover [Satellites]",
+"Discover [Robotics]",
+"Discover [Lasers]",
+"Discover [Globalization]",
+"Discover [Particle Physics]",
+"Discover [Nuclear Fusion]",
+"Discover [Nanotechnology]",
+"Discover [Stealth]",
+"Discover [Future Tech]"]
+
+    "requiredTech": "Agriculture"},
+
+{"name": "Horse Hut",
+"uniqueTo": "Ventus",
+"replaces": "Stable",
+"cost": 300,
+"maintenance": 5,
+"uniques": ["Provides [5] [Horses]",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Animal Husbandry"},
+
+{"name": "Iron Workshop",
+"uniqueTo": "Ventus",
+"replaces": "Forge",
+"cost": 500,
+"maintenance": 10,
+"uniques": ["Provides [5] [Iron]",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Iron Working"},
+
+{"name": "Coalmill",
+"uniqueTo": "Ventus",
+"replaces": "Windmill",
+"cost": 300,
+"maintenance": 5,
+"uniques": ["Provides [5] [Coal]",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Industrialization"},
+
+{"name": "Oil Miner",
+"uniqueTo": "Ventus",
+"replaces": "Hydro Plant",
+"cost": 800,
+"maintenance": 15,
+"uniques": ["Provides [5] [Oil]",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Biology"},
+
+{"name": "Aluminum Center",
+"uniqueTo": "Ventus",
+"replaces": "Recycling Center",
+"cost": 1500,
+"maintenance": 25,
+"uniques": ["Provides [5] [Aluminum]",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Electricity"},
+
+{"name": "Uranium Mine",
+"uniqueTo": "Ventus",
+"replaces": "Nuclear Plant",
+"cost": 3000,
+"maintenance": 100,
+"uniques": ["Provides [5] [Uranium]",
+"[+5 Production]",
+"[+15]% [Production]",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Nuclear Fission"},
+
+{"name": "Great Wall of Ventus",
+"uniqueTo": "Ventus",
+"replaces": "Walls",
+"cityStrength": 10,
+"cityHealth": 50,
+"cost": 75,
+"maintenance": 0,
+"uniques": ["Destroyed when the city is captured"]
+
+    "requiredTech": "Masonry"},
+
+{"name": "Grand Castle of Ventus",
+"uniqueTo": "Ventus",
+"replaces": "Castle",
+"cityStrength": 14,
+"cityHealth": 50,
+"cost": 160,
+"maintenance": 0,
+"uniques": ["Destroyed when the city is captured"]
+
+    "requiredTech": "Chivalry"},
+
+{"name": "Defense of Ventus",
+"uniqueTo": "Ventus",
+"replaces": "Arsenal",
+"cityStrength": 18,
+"cityHealth": 50,
+"cost": 300,
+"maintenance": 0,
+"uniques": ["Destroyed when the city is captured"]
+
+    "requiredTech": "Metallurgy"},
+
+{"name": "Shield of Ventus",
+"uniqueTo": "Ventus",
+"replaces": "Military Base",
+"cityStrength": 24,
+"cityHealth": 50,
+"cost": 500,
+"maintenance": 0,
+"uniques": ["Destroyed when the city is captured"]
+
+    "requiredTech": "Replaceable Parts"},
+
+{"name": "Fortified Anti-Nuclear Shelter",
+"uniqueTo": "Ventus",
+"replaces": "Bomb Shelter",
+"cityHealth": 1000,
+"cost": 5000,
+"maintenance": 0,
+"uniques": ["Population loss from nuclear attacks [-100]% [in this city]",
+"Damage to garrison from nuclear attacks [-100]% [in this city]",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Telecommunications"},
+
+{"name": "Work Life",
+"uniqueTo": "Ventus",
+"replaces": "Shrine",
+"cost": 40,
+"maintenance": 1,
+"uniques": ["[+2 Production] [in this city]","[+2 Culture] [in this city]",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Pottery"},
+
+{"name": "Work Place",
+"uniqueTo": "Ventus",
+"replaces": "Temple",
+"cost": 100,
+"requiredBuilding": "Work Life",
+"maintenance": 2,
+"uniques": ["[+4 Production] [in this city]","[+4 Culture] [in this city]",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Philosophy"},
+
+{"name": "Work Center",
+"uniqueTo": "Ventus",
+"cost": 500,
+"requiredBuilding": "Work Place",
+"maintenance": 2,
+"uniques": ["[+10 Production] [in all cities]","[+10 Culture] [in all cities]",
+"[-100]% [Faith] [in all cities]",
+"Limited to [1] per Civilization",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Theology"},
+
+{"name": "THE GRAND ABYSS Cheat",
+"uniqueTo": "Ventus",
+"cost": 0,
+"maintenance": 0,
+"uniques": ["[5] free [THE GRAND ABYSS] units appear",
+"Free [Target] appears",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Agriculture"
+}
 ]
