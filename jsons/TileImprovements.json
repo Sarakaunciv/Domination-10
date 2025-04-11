@@ -9,12 +9,16 @@
     "uniques": ["[+2 Food] <after discovering [Biology]>",
       "[+1 Food, +3 Gold] <in [Water resource] tiles>",
       "[+2 Food] <in [Water resource] tiles> <after discovering [Biology]>",
-      "[+20 Happiness] <in [Luxury resource] tiles>",
       "[+2 Food] <in [Fish] tiles>",
       "[+1 Food, +5 Science] <in [Fish] tiles> <after discovering [Scientific Theory]>",
       "[+3 Food, +5 Science] <in [Fish] tiles> <after discovering [Biology]>",
       "[+6 Food, +5 Production, +5 Science] <in [Fish] tiles> <after discovering [Atomic Theory]>",
-      "[+2 Food, +5 Gold] <in [Ocean] tiles> <after discovering [Navigation]>"]
+      "[+2 Food, +5 Gold] <in [Ocean] tiles> <after discovering [Navigation]>",
+      "[+2 Gold, +5 Happiness] <in [Luxury resource] tiles>",
+      "[+2 Gold, +5 Happiness] <in [Luxury resource] tiles> <after discovering [Guilds]>",
+      "[+4 Gold, +10 Happiness] <in [Luxury resource] tiles> <after discovering [Banking]>",
+      "[+8 Gold, +20 Happiness] <in [Luxury resource] tiles> <after discovering [Economics]>",
+      "[+16 Gold, +40 Happiness] <in [Luxury resource] tiles> <after discovering [Electricity]>"]
   },
   {
     "name": "Grand Farm",
@@ -69,8 +73,9 @@
       "[+1 Production] <in [Stone] tiles>",
       "[+3 Production] <in [Iron] tiles>",
       "[+5 Production] <in [Coal] tiles>",
-      "[+7 Production] <in [Aluminum] tiles>",
-      "[+10 Production] <in [Uranium] tiles>"],
+      "[+7 Production] <in [Oil] tiles>",
+      "[+9 Production] <in [Aluminum] tiles>",
+      "[+15 Production] <in [Uranium] tiles>"],
   },
   {
     "name": "Trader Mission",
@@ -83,7 +88,11 @@
       "[+4 Gold] <after discovering [Banking]>",
       "[+8 Gold] <after discovering [Economics]>",
       "[+16 Gold] <after discovering [Electricity]>",
-      "[+32 Gold, +100 Happiness] <in [Luxury resource] tiles>",
+      "[+2 Gold, +5 Happiness] <in [Luxury resource] tiles>",
+      "[+2 Gold, +5 Happiness] <in [Luxury resource] tiles> <after discovering [Guilds]>",
+      "[+4 Gold, +10 Happiness] <in [Luxury resource] tiles> <after discovering [Banking]>",
+      "[+8 Gold, +20 Happiness] <in [Luxury resource] tiles> <after discovering [Economics]>",
+      "[+16 Gold, +40 Happiness] <in [Luxury resource] tiles> <after discovering [Electricity]>",
       "Does not need removal of [Forest]",
       "Does not need removal of [Jungle]"],
   }
