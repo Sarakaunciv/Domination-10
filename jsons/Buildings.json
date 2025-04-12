@@ -215,8 +215,8 @@
 {"name": "Horse Hut",
 "uniqueTo": "Ventus",
 "replaces": "Stable",
-"cost": 300,
-"maintenance": 5,
+"cost": 100,
+"maintenance": 0,
 "uniques": ["Provides [5] [Horses]",
 "Destroyed when the city is captured"]
 
@@ -225,8 +225,8 @@
 {"name": "Iron Workshop",
 "uniqueTo": "Ventus",
 "replaces": "Forge",
-"cost": 500,
-"maintenance": 10,
+"cost": 150,
+"maintenance": 1,
 "uniques": ["Provides [5] [Iron]",
 "Destroyed when the city is captured"]
 
@@ -235,8 +235,8 @@
 {"name": "Coalmill",
 "uniqueTo": "Ventus",
 "replaces": "Windmill",
-"cost": 300,
-"maintenance": 5,
+"cost": 250,
+"maintenance": 2,
 "uniques": ["Provides [5] [Coal]",
 "Destroyed when the city is captured"]
 
@@ -245,8 +245,8 @@
 {"name": "Oil Miner",
 "uniqueTo": "Ventus",
 "replaces": "Hydro Plant",
-"cost": 800,
-"maintenance": 15,
+"cost": 350,
+"maintenance": 3,
 "uniques": ["Provides [5] [Oil]",
 "Destroyed when the city is captured"]
 
@@ -255,8 +255,8 @@
 {"name": "Aluminum Center",
 "uniqueTo": "Ventus",
 "replaces": "Recycling Center",
-"cost": 1500,
-"maintenance": 25,
+"cost": 700,
+"maintenance": 5,
 "uniques": ["Provides [5] [Aluminum]",
 "Destroyed when the city is captured"]
 
@@ -265,8 +265,8 @@
 {"name": "Uranium Mine",
 "uniqueTo": "Ventus",
 "replaces": "Nuclear Plant",
-"cost": 3000,
-"maintenance": 100,
+"cost": 1200,
+"maintenance": 10,
 "uniques": ["Provides [5] [Uranium]",
 "[+5 Production]",
 "[+15]% [Production]",
@@ -355,12 +355,57 @@
 "uniqueTo": "Ventus",
 "cost": 500,
 "maintenance": 5,
+"Science": 10,
 "uniques": ["[+10 Science] [in all cities]","[+20 Culture] [in all cities]",
 "[+100]% [Science] [in all cities]",
 "Limited to [1] per Civilization",
 "Destroyed when the city is captured"]
 
-    "requiredTech": "Masonry"},
+    "requiredTech": "Writing"},
+    
+{"name": "Truth",
+"uniqueTo": "Ventus",
+"cost": 1500,
+"requiredBuilding": "Truthful",
+"maintenance": 10,
+"Science": 20,
+"uniques": ["[+20 Science] [in all cities]","[+20 Culture] [in all cities]",
+"[+200]% [Science] [in all cities]",
+"Limited to [1] per Civilization",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Education"},
+    
+{"name": "Smith Tech",
+"uniqueTo": "Ventus",
+"cost": 2000,
+"maintenance": 20,
+"Production": 10,
+"uniques": ["[+10 Production] [in all cities]","[+20 Culture] [in all cities]",
+"[+100]% [Production] [in all cities]",
+"Limited to [1] per Civilization",
+"Destroyed when the city is captured"]
+
+    "requiredTech": "Engineering"},
+    
+{"name": "Factechy",
+"uniqueTo": "Ventus",
+"cost": 150,
+"maintenance": 2,
+"Production": 5,
+"Culture": 2,
+"uniques": ["Destroyed when the city is captured"]
+
+    "requiredTech": "Construction"},
+    
+{"name": "Mass Farm",
+"uniqueTo": "Ventus",
+"cost": 250,
+"maintenance": 1,
+"Food": 10,
+"uniques": ["Destroyed when the city is captured"]
+
+    "requiredTech": "Agriculture"},
 
 {"name": "THE GRAND ABYSS Cheat",
 "uniqueTo": "Ventus",
