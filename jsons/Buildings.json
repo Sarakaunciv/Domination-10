@@ -351,17 +351,16 @@
 
     "requiredTech": "Philosophy"},
 
-{"name": "Work Center",
+{"name": "Truthful",
 "uniqueTo": "Ventus",
 "cost": 500,
-"requiredBuilding": "Work Place",
-"maintenance": 2,
-"uniques": ["[+10 Production] [in all cities]","[+10 Culture] [in all cities]",
-"[-100]% [Faith] [in all cities]",
+"maintenance": 5,
+"uniques": ["[+10 Science] [in all cities]","[+20 Culture] [in all cities]",
+"[+100]% [Science] [in all cities]",
 "Limited to [1] per Civilization",
 "Destroyed when the city is captured"]
 
-    "requiredTech": "Theology"},
+    "requiredTech": "Masonry"},
 
 {"name": "THE GRAND ABYSS Cheat",
 "uniqueTo": "Ventus",
