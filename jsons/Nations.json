@@ -20,10 +20,12 @@
 		"outerColor": [160,160,160],
 		"innerColor": [0,0,0],
 		"uniqueName": "The Great Ventus",
-		"uniqueText": "The Nation of great millitary. Cities are razed 100 times as fast. Great General is earned -100% faster. +33% Strength when below -10 Happiness. Damage is ignored when determining unit Strength. All healing effects doubled. No defensive terrain penalty. Military units gain the March promotion. +400% Strength for cities.",
+		"uniqueText": "Raze100 Cult200 Kill100G Military"
 		"uniques": ["Cities are razed [100] times as fast",
 			"[Great General] is earned [-100]% faster",
 			"May not generate great prophet equivalents naturally",
+			"[+1900]% [Culture] [in all cities]",
+			"Earn [100]% of killed [All] unit's [Cost] as [Gold]",
 			"Damage is ignored when determining unit Strength <for [All] units>",
 			"No defensive terrain penalty <for [All] units>",
 			"[100] HP when healing <for [All] units>",
