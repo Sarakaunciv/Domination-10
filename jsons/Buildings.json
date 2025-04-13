@@ -335,7 +335,7 @@
 "replaces": "Shrine",
 "cost": 40,
 "maintenance": 1,
-"uniques": ["[+2 Production] [in this city]","[+2 Culture] [in this city]",
+"uniques": ["[+2 Production]","[+2 Culture]",
 "Destroyed when the city is captured"]
 
     "requiredTech": "Pottery"},
@@ -346,7 +346,7 @@
 "cost": 100,
 "requiredBuilding": "Work Life",
 "maintenance": 2,
-"uniques": ["[+4 Production] [in this city]","[+4 Culture] [in this city]",
+"uniques": ["[+4 Production]","[+4 Culture]",
 "Destroyed when the city is captured"]
 
     "requiredTech": "Philosophy"},
@@ -355,8 +355,7 @@
 "uniqueTo": "Ventus",
 "cost": 500,
 "maintenance": 5,
-"Science": 10,
-"uniques": ["[+10 Science] [in all cities]","[+20 Culture] [in all cities]",
+"uniques": ["[+10 Science]","[+10 Science] [in all cities]","[+20 Culture] [in all cities]",
 "[+100]% [Science] [in all cities]",
 "Limited to [1] per Civilization",
 "Destroyed when the city is captured"]
@@ -368,8 +367,7 @@
 "cost": 1500,
 "requiredBuilding": "Truthful",
 "maintenance": 10,
-"Science": 20,
-"uniques": ["[+20 Science] [in all cities]","[+20 Culture] [in all cities]",
+"uniques": ["[+20 Science]","[+20 Science] [in all cities]","[+20 Culture] [in all cities]",
 "[+200]% [Science] [in all cities]",
 "Limited to [1] per Civilization",
 "Destroyed when the city is captured"]
@@ -380,8 +378,7 @@
 "uniqueTo": "Ventus",
 "cost": 2000,
 "maintenance": 20,
-"Production": 10,
-"uniques": ["[+10 Production] [in all cities]","[+20 Culture] [in all cities]",
+"uniques": ["[+10 Production]","[+10 Production] [in all cities]","[+20 Culture] [in all cities]",
 "[+100]% [Production] [in all cities]",
 "Limited to [1] per Civilization",
 "Destroyed when the city is captured"]
@@ -392,9 +389,7 @@
 "uniqueTo": "Ventus",
 "cost": 150,
 "maintenance": 2,
-"Production": 5,
-"Culture": 2,
-"uniques": ["Destroyed when the city is captured"]
+"uniques": ["[+5 Production]","[+2 Culture]","Destroyed when the city is captured"]
 
     "requiredTech": "Construction"},
     
@@ -402,8 +397,7 @@
 "uniqueTo": "Ventus",
 "cost": 250,
 "maintenance": 1,
-"Food": 10,
-"uniques": ["Destroyed when the city is captured"]
+"uniques": ["[+10 Food]","Destroyed when the city is captured"]
 
     "requiredTech": "Agriculture"},
 
