@@ -19,7 +19,6 @@
       "[+4 Gold, +10 Happiness] <in [Luxury resource] tiles> <after discovering [Banking]>",
       "[+8 Gold, +20 Happiness] <in [Luxury resource] tiles> <after discovering [Economics]>",
       "[+16 Gold, +40 Happiness] <in [Luxury resource] tiles> <after discovering [Electricity]>",
-      "[+2 Food] <in [Lake] tiles>",
       "Improves [Luxury] resource in this tile"]
   },
   {
