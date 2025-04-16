@@ -19,7 +19,9 @@
       "[+4 Gold, +10 Happiness] <in [Luxury resource] tiles> <after discovering [Banking]>",
       "[+8 Gold, +20 Happiness] <in [Luxury resource] tiles> <after discovering [Economics]>",
       "[+16 Gold, +40 Happiness] <in [Luxury resource] tiles> <after discovering [Electricity]>",
-      "Improves [Luxury] resource in this tile"]
+      "Improves [Crab] resource in this tile",
+      "Improves [Pearls] resource in this tile",
+      "Improves [Whales] resource in this tile"]
   },
   {
     "name": "Grand Farm",
