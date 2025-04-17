@@ -113,7 +113,7 @@
       "Improves [Luxury] resource in this tile"]
   },
   {
-    "name": "City Center",
+    "name": "City center",
     "terrainsCanBeBuiltOn": ["All"]
   }
 ]
