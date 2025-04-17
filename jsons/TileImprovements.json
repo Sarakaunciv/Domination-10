@@ -110,6 +110,11 @@
       "[+16 Gold, +40 Happiness] <in [Luxury resource] tiles> <after discovering [Electricity]>",
       "Does not need removal of [Forest]",
       "Does not need removal of [Jungle]",
-      "Improves [Luxury] resource in this tile"],
+      "Improves [Luxury] resource in this tile"]
+  },
+  {
+    "name": "City Center",
+    "terrainsCanBeBuiltOn": ["All"]
+    ]
   }
 ]
