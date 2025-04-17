@@ -19,6 +19,7 @@
 "movement": 5,
 "cost": 800,
 "uniques": ["Founds a new city <by consuming this unit>",
+"Can instantly construct a [City center] improvement <by consuming this unit>",
 "Ignores terrain cost",
 "Can pass through impassable tiles",
 "May travel on Water tiles without embarking <after discovering [Refrigeration]>"]},
