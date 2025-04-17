@@ -114,6 +114,11 @@
   },
   {
     "name": "City center",
-    "terrainsCanBeBuiltOn": ["All"]
+    "terrainsCanBeBuiltOn": ["Land","Water"]
+    "uniques": ["Marks the center of a city",
+      "Ensures a minimum tile yield of [+1 Production, +2 Food]",
+      "Unpillagable",
+      "Irremovable",
+      "Unbuildable"]
   }
 ]
