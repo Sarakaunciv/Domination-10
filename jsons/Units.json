@@ -10,7 +10,7 @@
 "requiredTech": "Stealth",
 "uniques": ["[+4] Sight",
 "Can see over obstacles",
-"Damage taken from interception reduced by [99]%",
+"Damage taken from interception reduced by [95]%",
 "Cannot be carried by [Carrier] units"],
 "attackSound": "bombing"},
 
@@ -19,9 +19,7 @@
 "movement": 5,
 "cost": 800,
 "uniques": ["Founds a new city <by consuming this unit>",
-"Ignores terrain cost",
-"Can pass through impassable tiles",
-"May travel on Water tiles without embarking <after discovering [Refrigeration]>"]},
+"Ignores terrain cost"]},
 
 {"name": "Fish Farmer","unitType": "Civilian Water","uniqueTo": "Ventus",
 "replaces": "Work Boats",
