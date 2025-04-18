@@ -353,24 +353,24 @@
 
 {"name": "Truthful",
 "uniqueTo": "Ventus",
-"cost": 500,
+"cost": 1500,
 "maintenance": 5,
 "uniques": ["[+10 Science]","[+10 Science] [in all cities]","[+20 Culture] [in all cities]",
 "[+100]% [Science] [in all cities]",
 "Limited to [1] per Civilization",
-"Destroyed when the city is captured"]
+"Destroyed when the city is captured","Cannot be purchased"]
 
     "requiredTech": "Writing"},
     
 {"name": "Truth",
 "uniqueTo": "Ventus",
-"cost": 1500,
+"cost": 8000,
 "requiredBuilding": "Truthful",
 "maintenance": 10,
 "uniques": ["[+20 Science]","[+20 Science] [in all cities]","[+20 Culture] [in all cities]",
 "[+200]% [Science] [in all cities]",
 "Limited to [1] per Civilization",
-"Destroyed when the city is captured"]
+"Destroyed when the city is captured","Cannot be purchased"]
 
     "requiredTech": "Education"},
     
@@ -381,23 +381,23 @@
 "uniques": ["[+10 Production]","[+10 Production] [in all cities]","[+20 Culture] [in all cities]",
 "[+100]% [Production] [in all cities]",
 "Limited to [1] per Civilization",
-"Destroyed when the city is captured"]
+"Destroyed when the city is captured","Cannot be purchased"]
 
     "requiredTech": "Engineering"},
     
 {"name": "Factechy",
 "uniqueTo": "Ventus",
-"cost": 150,
+"cost": 500,
 "maintenance": 2,
-"uniques": ["[+5 Production]","[+2 Culture]","Destroyed when the city is captured"]
+"uniques": ["[+10 Production]","[+10 Culture]","Destroyed when the city is captured"]
 
     "requiredTech": "Construction"},
     
 {"name": "Mass Farm",
 "uniqueTo": "Ventus",
-"cost": 250,
+"cost": 150,
 "maintenance": 1,
-"uniques": ["[+10 Food]","Destroyed when the city is captured"]
+"uniques": ["[+5 Food]","Destroyed when the city is captured"]
 
     "requiredTech": "Agriculture"},
 
