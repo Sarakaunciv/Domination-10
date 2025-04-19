@@ -445,7 +445,8 @@
 "[+1] Sight",
 "[8] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"]"attackSound": "cannon"},
+"Ignores Zone of Control"],
+"attackSound": "cannon"},
 
 {"name": "Large Advance Cannon","unitType": "Siege","replaces": "Artillery","uniqueTo": "Ventus",
 "movement": 10,
