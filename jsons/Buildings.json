@@ -329,14 +329,21 @@
 "Destroyed when the city is captured"]
 
     "requiredTech": "Telecommunications"},
+    
+{"name": "Mass Farm",
+"uniqueTo": "Ventus",
+"cost": 70,
+"maintenance": 1,
+"uniques": ["[+5 Food]","Destroyed when the city is captured"]
+
+    "requiredTech": "Agriculture"},
 
 {"name": "Work Life",
 "uniqueTo": "Ventus",
 "replaces": "Shrine",
 "cost": 40,
 "maintenance": 1,
-"uniques": ["[+2 Production]","[+2 Culture]",
-"Destroyed when the city is captured"]
+"uniques": ["[+2 Production, +2 Culture]","Destroyed when the city is captured"]
 
     "requiredTech": "Pottery"},
 
@@ -346,60 +353,45 @@
 "cost": 100,
 "requiredBuilding": "Work Life",
 "maintenance": 2,
-"uniques": ["[+4 Production]","[+4 Culture]",
-"Destroyed when the city is captured"]
+"uniques": ["[+4 Production, +4 Culture]","Destroyed when the city is captured"]
 
     "requiredTech": "Philosophy"},
+    
+{"name": "Factechy",
+"uniqueTo": "Ventus",
+"cost": 300,
+"maintenance": 3,
+"uniques": ["[+10 Production, +10 Culture]","Destroyed when the city is captured"]
+
+    "requiredTech": "Construction"},
 
 {"name": "Truthful",
 "uniqueTo": "Ventus",
 "cost": 1500,
-"maintenance": 5,
-"uniques": ["[+10 Science]","[+10 Science] [in all cities]","[+20 Culture] [in all cities]",
-"[+100]% [Science] [in all cities]",
-"Limited to [1] per Civilization",
-"Destroyed when the city is captured","Cannot be purchased"]
+"isNationalWonder": true,
+"uniques": ["[+10 Science]","[+10 Science, +20 Culture] [in all cities]",
+"[+100]% [Science] [in all cities]"]
 
     "requiredTech": "Writing"},
     
 {"name": "Truth",
 "uniqueTo": "Ventus",
-"cost": 8000,
+"cost": 15000,
 "requiredBuilding": "Truthful",
-"maintenance": 10,
-"uniques": ["[+20 Science]","[+20 Science] [in all cities]","[+20 Culture] [in all cities]",
-"[+200]% [Science] [in all cities]",
-"Limited to [1] per Civilization",
-"Destroyed when the city is captured","Cannot be purchased"]
+"isNationalWonder": true,
+"uniques": ["[+20 Science]","[+20 Science, +80 Culture] [in all cities]",
+"[+200]% [Science] [in all cities]"]
 
     "requiredTech": "Education"},
     
 {"name": "Smith Tech",
 "uniqueTo": "Ventus",
 "cost": 2000,
-"maintenance": 20,
-"uniques": ["[+10 Production]","[+10 Production] [in all cities]","[+20 Culture] [in all cities]",
-"[+100]% [Production] [in all cities]",
-"Limited to [1] per Civilization",
-"Destroyed when the city is captured","Cannot be purchased"]
+"isNationalWonder": true,
+"uniques": ["[+10 Production]","[+10 Production, +20 Culture] [in all cities]",
+"[+100]% [Production] [in all cities]"]
 
     "requiredTech": "Engineering"},
-    
-{"name": "Factechy",
-"uniqueTo": "Ventus",
-"cost": 500,
-"maintenance": 2,
-"uniques": ["[+10 Production]","[+10 Culture]","Destroyed when the city is captured"]
-
-    "requiredTech": "Construction"},
-    
-{"name": "Mass Farm",
-"uniqueTo": "Ventus",
-"cost": 150,
-"maintenance": 1,
-"uniques": ["[+5 Food]","Destroyed when the city is captured"]
-
-    "requiredTech": "Agriculture"},
 
 {"name": "THE GRAND ABYSS Cheat",
 "uniqueTo": "Ventus",
