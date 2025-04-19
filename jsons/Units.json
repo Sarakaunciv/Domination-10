@@ -317,7 +317,6 @@
 "requiredTech": "Radar",
 "uniques": ["May Paradrop up to [50] tiles from inside friendly territory",
 "[20] additional attacks per turn",
-"[+40]% Strength <when attacking>",
 "Ignores terrain cost",
 "Can move after attacking",
 "Ignores Zone of Control"],
