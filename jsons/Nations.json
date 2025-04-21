@@ -30,7 +30,7 @@
 			"[-100]% XP gained from combat",
 			"Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
 			"Earn [500]% of killed [All] unit's [Strength] as [Gold]",
-			"Damage is ignored when determining unit Strength <for [All] units>",
+			"No damage penalty for wounded units <for [All] units>",
 			"No defensive terrain penalty <for [All] units>",
 			"[100] HP when healing <for [All] units>",
 			"All healing effects doubled",
