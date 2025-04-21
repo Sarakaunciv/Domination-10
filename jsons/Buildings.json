@@ -332,6 +332,7 @@
     
 {"name": "Mass Farm",
 "uniqueTo": "Ventus",
+"replaces": "Barracks",
 "cost": 70,
 "maintenance": 1,
 "uniques": ["[+5 Food]","Destroyed when the city is captured"]
@@ -359,6 +360,7 @@
     
 {"name": "Factechy",
 "uniqueTo": "Ventus",
+"replaces": "Colosseum",
 "cost": 300,
 "maintenance": 3,
 "uniques": ["[+10 Production, +10 Culture]","Destroyed when the city is captured"]
@@ -367,6 +369,7 @@
 
 {"name": "Truthful",
 "uniqueTo": "Ventus",
+"replaces": "Heroic Epic",
 "cost": 1500,
 "isNationalWonder": true,
 "uniques": ["[+20 Culture]","[+10 Science,+20 Culture] [in all cities]"]
@@ -375,6 +378,7 @@
     
 {"name": "Truth",
 "uniqueTo": "Ventus",
+"replaces": "National Epic",
 "cost": 5000,
 "requiredBuilding": "Truthful",
 "isNationalWonder": true,
@@ -384,6 +388,7 @@
     
 {"name": "Smith Tech",
 "uniqueTo": "Ventus",
+"replaces": "Circus Maximus",
 "cost": 2000,
 "isNationalWonder": true,
 "uniques": ["[+10 Production]","[+10 Production, +40 Culture] [in all cities]",
