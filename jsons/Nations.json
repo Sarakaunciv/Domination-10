@@ -22,6 +22,7 @@
 		"uniqueName": "The Great Ventus",
 		"uniqueText": "Raze100 Cult200 Kill5G Military"
 		"uniques": ["Cities are razed [100] times as fast",
+			"[-100]% construction time for [All] improvements",
 			"[Great General] is earned [-100]% faster",
 			"May not generate great prophet equivalents naturally",
 			"[-500]% Great Person generation [in all cities]",
