@@ -1,4 +1,4 @@
- [
+[
 	{
 		"name": "Ventus",
 		"leaderName": "Butter",
@@ -20,21 +20,22 @@
 		"outerColor": [160,160,160],
 		"innerColor": [0,0,0],
 		"uniqueName": "The Great Ventus",
-		"uniqueText": "Raze100 Cult200 Kill100G Military"
+		"uniqueText": "Raze100 Cult200 Kill5G Military"
 		"uniques": ["Cities are razed [100] times as fast",
 			"[Great General] is earned [-100]% faster",
 			"May not generate great prophet equivalents naturally",
 			"[+100]% [Culture] [in all cities]",
 			"[-100]% [Faith] [in all cities]",
 			"[-100]% XP gained from combat",
+			"Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
 			"Earn [500]% of killed [All] unit's [Strength] as [Gold]",
 			"Damage is ignored when determining unit Strength <for [All] units>",
 			"No defensive terrain penalty <for [All] units>",
 			"[100] HP when healing <for [All] units>",
+			"All healing effects doubled",
 			"[1] Movement point cost to disembark <for [All] units>",
 			"[1] Movement point cost to embark <for [All] units>",
-			"All healing effects doubled",
-			"[Water] units gain the [Supply] promotion",
+			"[Military] units gain the [Supply] promotion",
 			"[Military] units gain the [March] promotion",
 			"[Military] units gain the [Indirect Fire] promotion",
 			"[+33]% Strength <when below [-10] Happiness>",
