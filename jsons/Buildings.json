@@ -110,7 +110,7 @@
 "cost": 0,
 "requiredBuilding": "Cheat Powder",
 "maintenance": 0,
-"uniques": ["New [Military] units start with [36000] Experience [in all cities]",
+"uniques": ["New [Military] units start with [36000] XP [in all cities]",
 "Limited to [1] per Civilization",
 "Destroyed when the city is captured"]
 
