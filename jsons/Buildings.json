@@ -332,12 +332,38 @@
     
 {"name": "Mass Farm",
 "uniqueTo": "Ventus",
-"replaces": "Barracks",
-"cost": 70,
+"cost": 40,
 "maintenance": 1,
-"uniques": ["[+5 Food]","Destroyed when the city is captured"]
+"uniques": ["[+5 Food, +2 Production]","Destroyed when the city is captured"]
 
     "requiredTech": "Agriculture"},
+
+{"name": "Forge Tech I",
+"uniqueTo": "Ventus",
+"replaces": "Barracks",
+"cost": 75,
+"maintenance": 1,
+"uniques": ["[+4 Production, +4 Culture]","Destroyed when the city is captured"]
+
+    "requiredTech": "Bronze Working"},
+
+{"name": "Forge Tech II",
+"uniqueTo": "Ventus",
+"replaces": "Armory",
+"cost": 160,
+"maintenance": 2,
+"uniques": ["[+8 Production, +8 Culture]","Destroyed when the city is captured"]
+
+    "requiredTech": "Steel"},
+
+{"name": "Forge Tech III",
+"uniqueTo": "Ventus",
+"replaces": "Military Academy",
+"cost": 300,
+"maintenance": 4,
+"uniques": ["[+12 Production, +12 Culture]","Destroyed when the city is captured"]
+
+    "requiredTech": "Military Science"},
 
 {"name": "Work Life",
 "uniqueTo": "Ventus",
@@ -358,21 +384,39 @@
 
     "requiredTech": "Philosophy"},
     
-{"name": "Factechy",
+{"name": "Factechy I",
 "uniqueTo": "Ventus",
 "replaces": "Colosseum",
-"cost": 300,
-"maintenance": 3,
-"uniques": ["[+10 Production, +10 Culture]","Destroyed when the city is captured"]
+"cost": 100,
+"maintenance": 1,
+"uniques": ["[+10 Production]","Destroyed when the city is captured"]
 
     "requiredTech": "Construction"},
+
+{"name": "Factechy II",
+"uniqueTo": "Ventus",
+"replaces": "Theatre",
+"cost": 200,
+"maintenance": 2,
+"uniques": ["[+20 Production]","Destroyed when the city is captured"]
+
+    "requiredTech": "Printing Press"},
+
+{"name": "Factechy III",
+"uniqueTo": "Ventus",
+"replaces": "Stadium",
+"cost": 500,
+"maintenance": 5,
+"uniques": ["[+50 Production]","Destroyed when the city is captured"]
+
+    "requiredTech": "Refrigeration"},
 
 {"name": "Truthful",
 "uniqueTo": "Ventus",
 "replaces": "Heroic Epic",
 "cost": 1500,
 "isNationalWonder": true,
-"uniques": ["[+20 Culture]","[+10 Science,+20 Culture] [in all cities]"]
+"uniques": ["[+20 Culture]","[+10 Science, +20 Culture] [in all cities]"]
 
     "requiredTech": "Writing"},
     
