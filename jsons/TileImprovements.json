@@ -53,7 +53,7 @@
       "[+12 Gold, +20 Happiness] <in [Luxury resource] tiles> <after discovering [Economics]>",
       "[+24 Gold, +40 Happiness] <in [Luxury resource] tiles> <after discovering [Electricity]>",
       "Does not need removal of [All]",
-      "Improves [Luxury] resource in this tile <after discovering [Currency]",
+      "Improves [Luxury] resource in this tile",
       "Improves [Strategic] resource in this tile",
       "Unpillagable"]
   }
