@@ -19,22 +19,22 @@
 "uniques": ["Founds a new city <by consuming this unit>",
 "Ignores terrain cost"]},
 
-{"name": "Villager","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Work Boats",
+{"name": "Villager","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Worker",
 "movement": 10,
-"cost": 25,
+"cost": 100,
 "uniques": ["Can instantly construct a [The Village] improvement <by consuming this unit>",
 "Can instantly construct a [Road] improvement <for [0] movement>",
 "Ignores terrain cost",
 "May travel on Water tiles without embarking <after discovering [Sailing]>",
 "Can pass through impassable tiles"]},
 
-{"name": "Improver","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Worker",
+{"name": "Fleg","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Work Boats",
 "movement": 10,
-"cost": 1000,
+"cost": 5000,
 "uniques": ["Can instantly construct a [The Village] improvement <for [10] movement>",
 "Can instantly construct a [Road] improvement <for [0] movement>",
 "Ignores terrain cost",
-"May travel on Water tiles without embarking <after discovering [Sailing]>",
+"May travel on Water tiles without embarking",
 "Can pass through impassable tiles"]},
 
 
