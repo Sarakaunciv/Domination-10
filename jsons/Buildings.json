@@ -414,29 +414,28 @@
 {"name": "Truthful",
 "uniqueTo": "Ventus",
 "replaces": "Heroic Epic",
-"cost": 1500,
+"cost": 1000,
 "isNationalWonder": true,
-"uniques": ["[+20 Culture]","[+10 Science, +20 Culture] [in all cities]"]
+"uniques": ["[+25 Culture] [in all cities]"]
 
     "requiredTech": "Writing"},
     
 {"name": "Truth",
 "uniqueTo": "Ventus",
 "replaces": "National Epic",
-"cost": 5000,
+"cost": 4000,
 "requiredBuilding": "Truthful",
 "isNationalWonder": true,
-"uniques": ["[+80 Culture]","[+30 Science, +80 Culture] [in all cities]"]
+"uniques": ["+100 Culture] [in all cities]"]
 
     "requiredTech": "Education"},
     
 {"name": "Smith Tech",
 "uniqueTo": "Ventus",
 "replaces": "Circus Maximus",
-"cost": 2000,
+"cost": 500,
 "isNationalWonder": true,
-"uniques": ["[+10 Production]","[+10 Production, +40 Culture] [in all cities]",
-"[+100]% [Production] [in all cities]"]
+"uniques": ["[+50 Production]","[+10 Production, +25 Culture] [in all cities]"]
 
     "requiredTech": "Engineering"},
 
