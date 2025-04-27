@@ -426,7 +426,7 @@
 "cost": 4000,
 "requiredBuilding": "Truthful",
 "isNationalWonder": true,
-"uniques": ["+100 Culture] [in all cities]"]
+"uniques": ["[+100 Culture] [in all cities]"]
 
     "requiredTech": "Education"},
     
