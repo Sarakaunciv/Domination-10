@@ -1,8 +1,8 @@
 [
         {
                 "name": "God",
-		"baseHappiness": 20,
-		"extraHappinessPerLuxury": 5,
+		"baseHappiness": 10,
+		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 10,
@@ -156,11 +156,11 @@
         {
                 "name": "Free",
 		"baseHappiness": 10,
-		"extraHappinessPerLuxury": 10,
+		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
-		"unitSupplyBase": 100,
-		"unitSupplyPerCity": 10,
+		"unitSupplyBase": 1000,
+		"unitSupplyPerCity": 1000,
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
@@ -169,7 +169,7 @@
 		"playerBonusStartingUnits": [],
 		"aiDifficultyLevel": "Prince",
 		"aiCityGrowthModifier": 0.1,
-		"aiUnitCostModifier": 0.05,
+		"aiUnitCostModifier": 0.1,
 		"aiBuildingCostModifier": 0.1,
 		"aiWonderCostModifier": 0.1,
 		"aiBuildingMaintenanceModifier": 0.25,
@@ -197,7 +197,7 @@
 			"Iron Working"],
 		"aiMajorCivBonusStartingUnits": ["Worker","Worker","Worker","Worker"],
 		"aiCityStateBonusStartingUnits": ["Worker","Worker"],
-		"aiUnhappinessModifier": 0.1,
+		"aiUnhappinessModifier": 0,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 50
