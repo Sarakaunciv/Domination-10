@@ -5,7 +5,7 @@
     "techRequired": "Agriculture",
     "uniqueTo": "Ventus",
     "turnsToBuild": 0,
-    "Production": 1,
+    "production": 1,
     "food": 1,
     "uniques": ["[+1 Food] <after discovering [Chemistry]>",
       "[+1 Food] <after discovering [Education]>",
