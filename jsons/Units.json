@@ -25,7 +25,7 @@
 "uniques": ["Can instantly construct a [The Village] improvement <by consuming this unit>",
 "Can instantly construct a [Road] improvement <for [0] movement>",
 "Ignores terrain cost",
-"May travel on Water tiles without embarking <after discovering [Agriculture]>",
+"May travel on Water tiles without embarking <after discovering [Sailing]>",
 "Can pass through impassable tiles"]},
 
 {"name": "Improver","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Worker",
@@ -34,7 +34,7 @@
 "uniques": ["Can instantly construct a [The Village] improvement <for [10] movement>",
 "Can instantly construct a [Road] improvement <for [0] movement>",
 "Ignores terrain cost",
-"May travel on Water tiles without embarking <after discovering [Agriculture]>",
+"May travel on Water tiles without embarking <after discovering [Sailing]>",
 "Can pass through impassable tiles"]},
 
 
