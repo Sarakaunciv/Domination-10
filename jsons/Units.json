@@ -29,12 +29,10 @@
 {"name": "Improver","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Worker",
 "movement": 10,
 "cost": 100,
-"uniques": ["Can build [Land] improvements on tiles",
-"Can instantly construct a [Grand Farm] improvement <for [10] movement>",
+"uniques": ["Can instantly construct a [Grand Farm] improvement <for [10] movement>",
 "Can instantly construct a [Deep Mine] improvement <for [10] movement>",
 "Can instantly construct a [Trader Mission] improvement <for [10] movement>",
 "Can instantly construct a [Road] improvement <for [0] movement>",
-"Can instantly construct a [Railroad] improvement <for [0] movement>",
 "Ignores terrain cost",
 "Can pass through impassable tiles"]},
 
