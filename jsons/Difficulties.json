@@ -2,11 +2,11 @@
         {
                 "name": "God",
 		"baseHappiness": 10,
-		"extraHappinessPerLuxury": 0,
+		"extraHappinessPerLuxury": -4,
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
-		"unitSupplyBase": 10,
-		"unitSupplyPerCity": 4,
+		"unitSupplyBase": 1000,
+		"unitSupplyPerCity": 1000,
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 0,
@@ -156,7 +156,7 @@
         {
                 "name": "Free",
 		"baseHappiness": 10,
-		"extraHappinessPerLuxury": 0,
+		"extraHappinessPerLuxury": -4,
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 1000,
