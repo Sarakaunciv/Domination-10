@@ -443,8 +443,7 @@
 "uniqueTo": "Ventus",
 "cost": 0,
 "maintenance": 0,
-"uniques": ["[5] free [THE GRAND ABYSS] units appear",
-"Free [Target] appears",
+"uniques": ["[6] free [THE GRAND ABYSS] units appear",
 "Destroyed when the city is captured"]
 
     "requiredTech": "Agriculture"
