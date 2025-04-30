@@ -55,7 +55,7 @@ UnitIcons/True Infantry
   index: -1
 UnitIcons/Beyond Infantry
   rotate: false
-  xy: 513, 513
+  xy: 1, 1
   size: 255, 255
   orig: 255, 255
   offset: 0, 0
@@ -410,9 +410,23 @@ UnitIcons/THE GRAND ABYSS
   orig: 255, 255
   offset: 0, 0
   index: -1
-UnitIcons/Target
+UnitIcons/Death Army
   rotate: false
-  xy: 1025, 1025
+  xy: 513, 513
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+UnitIcons/Death Plane
+  rotate: false
+  xy: 513, 513
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+UnitIcons/Death Missile
+  rotate: false
+  xy: 513, 513
   size: 255, 255
   orig: 255, 255
   offset: 0, 0
