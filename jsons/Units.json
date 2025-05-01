@@ -876,7 +876,8 @@
 "Ignores terrain cost",
 "May travel on Water tiles without embarking <after discovering [Sailing]>",
 "Can pass through impassable tiles",
-"Can build [Road] improvements on tiles"]},
+"Can build [Repair] improvements on tiles",
+"Can build [Repair] improvements at a [+100]% rate"]},
 
 {"name": "Fleg","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Work Boats",
 "movement": 10,
