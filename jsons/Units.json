@@ -554,7 +554,7 @@
 "requiredTech": "Rocketry",
 "uniques": ["[4] additional attacks per turn",
 "[100]% chance to intercept air attacks",
-"[+100]% Damage when intercepting",
+"[+400]% Damage when intercepting",
 "[+400]% Strength <vs [Air] units>",
 "[+100]% Strength <vs [Helicopter] units>",
 "[-75]% Strength <vs cities> <when attacking>",
