@@ -215,9 +215,9 @@
 {"name": "Horse Hut",
 "uniqueTo": "Ventus",
 "replaces": "Stable",
-"cost": 100,
+"cost": 250,
 "maintenance": 0,
-"uniques": ["Provides [5] [Horses]",
+"uniques": ["[+5 Production]","Provides [2] [Horses]",
 "Destroyed when the city is captured"]
 
     "requiredTech": "Animal Husbandry"},
@@ -225,9 +225,9 @@
 {"name": "Iron Workshop",
 "uniqueTo": "Ventus",
 "replaces": "Forge",
-"cost": 150,
+"cost": 500,
 "maintenance": 1,
-"uniques": ["Provides [5] [Iron]",
+"uniques": ["[+10 Production]","Provides [2] [Iron]",
 "Destroyed when the city is captured"]
 
     "requiredTech": "Iron Working"},
@@ -235,9 +235,9 @@
 {"name": "Coalmill",
 "uniqueTo": "Ventus",
 "replaces": "Windmill",
-"cost": 250,
+"cost": 1000,
 "maintenance": 2,
-"uniques": ["Provides [5] [Coal]",
+"uniques": ["[+20 Production]","Provides [2] [Coal]",
 "Destroyed when the city is captured"]
 
     "requiredTech": "Industrialization"},
@@ -245,9 +245,9 @@
 {"name": "Oil Miner",
 "uniqueTo": "Ventus",
 "replaces": "Hydro Plant",
-"cost": 350,
+"cost": 1250,
 "maintenance": 3,
-"uniques": ["Provides [5] [Oil]",
+"uniques": ["[+25 Production]","Provides [2] [Oil]",
 "Destroyed when the city is captured"]
 
     "requiredTech": "Biology"},
@@ -255,9 +255,9 @@
 {"name": "Aluminum Center",
 "uniqueTo": "Ventus",
 "replaces": "Recycling Center",
-"cost": 700,
+"cost": 2000,
 "maintenance": 5,
-"uniques": ["Provides [5] [Aluminum]",
+"uniques": ["[+40 Production]","Provides [2] [Aluminum]",
 "Destroyed when the city is captured"]
 
     "requiredTech": "Electricity"},
@@ -265,10 +265,9 @@
 {"name": "Uranium Mine",
 "uniqueTo": "Ventus",
 "replaces": "Nuclear Plant",
-"cost": 1200,
+"cost": 4000,
 "maintenance": 10,
-"uniques": ["Provides [5] [Uranium]",
-"[+5 Production]",
+"uniques": ["[+80 Production]","Provides [2] [Uranium]",
 "[+15]% [Production]",
 "Destroyed when the city is captured"]
 
