@@ -3,9 +3,11 @@
     "name": "Armored",
     "movementType": "Land",
     "uniques": ["[+50]% Strength <when defending>",
+      "[-50]% Strength <when defending> <vs [Armored] units>",
+      "[-50]% Strength <when defending> <vs [Helicopter] units>",
       "[-50]% Strength <when defending> <vs [Anti-Tank Gun] units>",
       "[-50]% Strength <when defending> <vs [Armor Hole] units>",
-      "[-50]% Strength <when defending> <vs [Helicopter] units>"]
+]
   },
   {
     "name": "Civilian",
