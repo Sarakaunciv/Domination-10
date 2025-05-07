@@ -916,6 +916,7 @@
 {"name": "Grand General","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Great General",
 "uniques": ["Empire enters a [10]-turn Golden Age <by consuming this unit>",
 "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+"May enter foreign tiles without open borders",
 "Ignores terrain cost"],
 "movement": 10,
 "cost": 1000},
