@@ -329,6 +329,7 @@
         "obsoleteTech": "Combined Arms",
 "requiredResource": "Horses",
 "uniques": ["[+50]% Strength <vs [Mounted] units>",
+"[+50]% Strength <when attacking>",
 "[12] additional attacks per turn",
 "Can move after attacking",
 "Ignores Zone of Control"],
