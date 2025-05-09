@@ -569,6 +569,14 @@
 "isNationalWonder": true,
 "uniques": ["[+20]% [Production] [in all cities]","Destroyed when the city is captured"]
     "requiredTech": "Machinery"},
+    
+    {"name": "Cultrise",
+"uniqueTo": "Ventus",
+"replaces": "Hermitage",
+"cost": 155,
+"isNationalWonder": true,
+"uniques": ["[+100]% [Culture] [in all cities]","Destroyed when the city is captured"]
+    "requiredTech": "Architecture"},
 
 {"name": "THE GRAND ABYSS Cheat",
 "uniqueTo": "Ventus",
