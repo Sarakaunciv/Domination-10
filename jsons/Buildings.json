@@ -215,7 +215,7 @@
 {"name": "Horse Hut",
 "uniqueTo": "Ventus",
 "replaces": "Stable",
-"cost": 250,
+"cost": 125,
 "maintenance": 0,
 "uniques": ["[+5 Production]","Provides [2] [Horses]",
 "Destroyed when the city is captured"]
@@ -225,7 +225,7 @@
 {"name": "Iron Workshop",
 "uniqueTo": "Ventus",
 "replaces": "Forge",
-"cost": 500,
+"cost": 250,
 "maintenance": 1,
 "uniques": ["[+10 Production]","Provides [2] [Iron]",
 "Destroyed when the city is captured"]
@@ -235,7 +235,7 @@
 {"name": "Coalmill",
 "uniqueTo": "Ventus",
 "replaces": "Windmill",
-"cost": 1000,
+"cost": 500,
 "maintenance": 2,
 "uniques": ["[+20 Production]","Provides [2] [Coal]",
 "Destroyed when the city is captured"]
@@ -245,7 +245,7 @@
 {"name": "Oil Miner",
 "uniqueTo": "Ventus",
 "replaces": "Hydro Plant",
-"cost": 1250,
+"cost": 625,
 "maintenance": 3,
 "uniques": ["[+25 Production]","Provides [2] [Oil]",
 "Destroyed when the city is captured"]
@@ -255,7 +255,7 @@
 {"name": "Aluminum Center",
 "uniqueTo": "Ventus",
 "replaces": "Recycling Center",
-"cost": 2000,
+"cost": 1000,
 "maintenance": 5,
 "uniques": ["[+40 Production]","Provides [2] [Aluminum]",
 "Destroyed when the city is captured"]
@@ -265,7 +265,7 @@
 {"name": "Uranium Mine",
 "uniqueTo": "Ventus",
 "replaces": "Nuclear Plant",
-"cost": 4000,
+"cost": 2000,
 "maintenance": 10,
 "uniques": ["[+80 Production]","Provides [2] [Uranium]",
 "[+15]% [Production]",
@@ -333,7 +333,7 @@
 "uniqueTo": "Ventus",
 "cost": 40,
 "maintenance": 1,
-"uniques": ["[+5 Food, +2 Production]","Destroyed when the city is captured"]
+"uniques": ["[+6 Food, +2 Production]","Destroyed when the city is captured"]
 
     "requiredTech": "Agriculture"},
 
@@ -364,22 +364,31 @@
 
     "requiredTech": "Military Science"},
 
-{"name": "Work Life",
+{"name": "Forging Tech",
+"uniqueTo": "Ventus",
+"replaces": "Heroic Epic",
+"cost": 155,
+"isNationalWonder": true,
+"uniques": ["[+10]% [Production] [in all cities]","Destroyed when the city is captured"]
+
+    "requiredTech": "Iron Working"},
+
+{"name": "True Life",
 "uniqueTo": "Ventus",
 "replaces": "Shrine",
 "cost": 40,
 "maintenance": 1,
-"uniques": ["[+2 Production, +2 Culture]","Destroyed when the city is captured"]
+"uniques": ["[+10]% [Science]","Destroyed when the city is captured"]
 
     "requiredTech": "Pottery"},
 
-{"name": "Work Place",
+{"name": "True Place",
 "uniqueTo": "Ventus",
 "replaces": "Temple",
 "cost": 100,
-"requiredBuilding": "Work Life",
+"requiredBuilding": "True Life",
 "maintenance": 2,
-"uniques": ["[+4 Production, +4 Culture]","Destroyed when the city is captured"]
+"uniques": ["[+10]% [Science]","Destroyed when the city is captured"]
 
     "requiredTech": "Philosophy"},
     
@@ -409,34 +418,142 @@
 "uniques": ["[+50 Production]","Destroyed when the city is captured"]
 
     "requiredTech": "Refrigeration"},
-
-{"name": "Truthful",
-"uniqueTo": "Ventus",
-"replaces": "Heroic Epic",
-"cost": 1000,
-"isNationalWonder": true,
-"uniques": ["[+25 Culture] [in all cities]"]
-
-    "requiredTech": "Writing"},
     
-{"name": "Truth",
-"uniqueTo": "Ventus",
-"replaces": "National Epic",
-"cost": 4000,
-"requiredBuilding": "Truthful",
-"isNationalWonder": true,
-"uniques": ["[+100 Culture] [in all cities]"]
-
-    "requiredTech": "Education"},
-    
-{"name": "Smith Tech",
+{"name": "Fact Smith",
 "uniqueTo": "Ventus",
 "replaces": "Circus Maximus",
-"cost": 500,
+"cost": 155,
 "isNationalWonder": true,
-"uniques": ["[+50 Production]","[+10 Production, +25 Culture] [in all cities]"]
+"uniques": ["[+20 Production, +5 Culture] [in all cities]","Destroyed when the city is captured"]
 
-    "requiredTech": "Engineering"},
+    "requiredTech": "Horseback Riding"},
+    
+    {"name": "Stain I",
+"uniqueTo": "Ventus",
+"replaces": "Monument",
+"cost": 40,
+"isNationalWonder": true,
+"uniques": ["[+2 Culture] [in all cities]","Destroyed when the city is captured"]},
+    
+    {"name": "Stain II",
+"uniqueTo": "Ventus",
+"replaces": "Amphitheater",
+"cost": 100,
+"requiredBuilding": "Stain I",
+"isNationalWonder": true,
+"uniques": ["[+3 Culture] [in all cities]","Destroyed when the city is captured"]
+
+    "requiredTech": "Drama and Poetry"},
+
+    {"name": "Stain III",
+"uniqueTo": "Ventus",
+"replaces": "Opera House",
+"cost": 200,
+"requiredBuilding": "Stain II",
+"isNationalWonder": true,
+"uniques": ["[+4 Culture] [in all cities]","Destroyed when the city is captured"]
+
+    "requiredTech": "Acoustics"},
+
+    {"name": "Stain IV",
+"uniqueTo": "Ventus",
+"replaces": "Museum",
+"cost": 300,
+"requiredBuilding": "Stain III",
+"isNationalWonder": true,
+"uniques": ["[+5 Culture] [in all cities]","Destroyed when the city is captured"]
+
+    "requiredTech": "Archaeology"},
+
+    {"name": "Stain V",
+"uniqueTo": "Ventus",
+"replaces": "Broadcast Tower",
+"cost": 500,
+"requiredBuilding": "Stain IV",
+"isNationalWonder": true,
+"uniques": ["[+100]% [Culture] [in all cities]","Destroyed when the city is captured"]
+
+    "requiredTech": "Radio"},
+
+    {"name": "Stainless",
+"uniqueTo": "Ventus",
+"replaces": "National Epic",
+"cost": 155,
+"requiredBuilding": "Truthful",
+"isNationalWonder": true,
+"uniques": ["[+10 Science, +10 Culture] [in all cities]","Destroyed when the city is captured"]
+
+    "requiredTech": "Drama and Poetry"},
+ 
+    {"name": "Rant 1",
+"uniqueTo": "Ventus",
+"replaces": "Circus",
+"cost": 75,
+"uniques": ["[+6 Science, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Trapping"},
+ 
+    {"name": "Rant 2",
+"uniqueTo": "Ventus",
+"replaces": "Courthouse",
+"cost": 100,
+"uniques": ["[+8 Production, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Trapping"},
+ 
+    {"name": "Rant 3",
+"uniqueTo": "Ventus",
+"replaces": "Garden",
+"cost": 120,
+"uniques": ["[+9 Culture, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Theology"},
+ 
+    {"name": "Rant 4",
+"uniqueTo": "Ventus",
+"replaces": "Harbor",
+"cost": 120,
+"uniques": ["[+12 Production, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Compass"},
+ 
+    {"name": "Rant 5",
+"uniqueTo": "Ventus",
+"replaces": "Hospital",
+"cost": 360,
+"uniques": ["[+10 Food, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Biology"},
+ 
+    {"name": "Rant 6",
+"uniqueTo": "Ventus",
+"replaces": "Seaport",
+"cost": 250,
+"uniques": ["[+16 Production, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Navigation"},
+ 
+    {"name": "Rant 7",
+"uniqueTo": "Ventus",
+"replaces": "Solar Plant",
+"cost": 500,
+"uniques": ["[+35 Production, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Ecology"},
+ 
+    {"name": "Rant 8",
+"uniqueTo": "Ventus",
+"replaces": "Spaceship Factory",
+"cost": 360,
+"uniques": ["[+25 Production, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Robotics"},
+ 
+    {"name": "Rant 9",
+"uniqueTo": "Ventus",
+"replaces": "Stone Works",
+"cost": 75,
+"uniques": ["[+8 Science, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Calendar"},
+ 
+    {"name": "Rant 10",
+"uniqueTo": "Ventus",
+"replaces": "Water Mill",
+"cost": 75,
+"uniques": ["[+7 Science, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "The Wheel"},
 
 {"name": "THE GRAND ABYSS Cheat",
 "uniqueTo": "Ventus",
