@@ -479,7 +479,6 @@
 "uniqueTo": "Ventus",
 "replaces": "National Epic",
 "cost": 155,
-"requiredBuilding": "Truthful",
 "isNationalWonder": true,
 "uniques": ["[+10 Science, +10 Culture] [in all cities]","Destroyed when the city is captured"]
 
