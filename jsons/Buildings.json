@@ -496,7 +496,7 @@
 "replaces": "Courthouse",
 "cost": 100,
 "uniques": ["[+8 Production, +1 Gold]","Destroyed when the city is captured"]
-    "requiredTech": "Trapping"},
+    "requiredTech": "Mathematics"},
  
     {"name": "Rant 3",
 "uniqueTo": "Ventus",
