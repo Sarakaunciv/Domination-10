@@ -553,6 +553,14 @@
 "cost": 75,
 "uniques": ["[+7 Science, +1 Gold]","Destroyed when the city is captured"]
     "requiredTech": "The Wheel"},
+    
+    {"name": "Prize",
+"uniqueTo": "Ventus",
+"replaces": "National Treasury",
+"cost": 155,
+"isNationalWonder": true,
+"uniques": ["[+25]% [Gold] [in all cities]","Destroyed when the city is captured"]
+    "requiredTech": "The Wheel"},
 
 {"name": "THE GRAND ABYSS Cheat",
 "uniqueTo": "Ventus",
