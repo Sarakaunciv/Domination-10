@@ -9,7 +9,8 @@
 "uniques": ["May upgrade to [Spearman] through ruins-like effects",
 "[3] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Swordsman",
 "attackSound": "nonmetalhit"},
 
@@ -22,7 +23,8 @@
         "obsoleteTech": "Steel",
 "uniques": ["[4] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Longswordsman",
 "attackSound": "metalhit"},
 
@@ -35,7 +37,8 @@
 "upgradesTo": "Musketman",
 "uniques": ["[5] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "requiredResource": "Iron",
 "attackSound": "metalhit"},
 
@@ -47,7 +50,8 @@
         "obsoleteTech": "Rifling",
 "uniques": ["[7] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Rifleman",
 "attackSound": "shot"},
 
@@ -59,7 +63,8 @@
 "obsoleteTech": "Replaceable Parts",
 "uniques": ["[9] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Great War Infantry",
 "attackSound": "shot"},
 
@@ -69,7 +74,8 @@
 "cost": 640,
 "uniques": ["[12] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "requiredTech": "Replaceable Parts",
 "obsoleteTech": "Plastics",
 "upgradesTo": "Infantry",
@@ -81,7 +87,8 @@
 "cost": 750,
 "uniques": ["[14] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "requiredTech": "Plastics",
 "obsoleteTech": "Mobile Tactics",
 "upgradesTo": "Mechanized Infantry",
@@ -97,7 +104,8 @@
 "uniques": ["[-25]% Strength <vs cities> <when attacking>",
 "[3] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Composite Bowman",
 "attackSound": "arrow"},
 
@@ -112,7 +120,8 @@
 "uniques": ["[-25]% Strength <vs cities> <when attacking>",
 "[4] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Crossbowman",
 "attackSound": "arrow"},
 
@@ -124,7 +133,8 @@
 "uniques": ["[-25]% Strength <vs cities> <when attacking>",
 "[4] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "cost": 240,
 "requiredTech": "Machinery",
         "obsoleteTech": "Industrialization",
@@ -140,7 +150,8 @@
 "uniques": ["[-25]% Strength <vs cities> <when attacking>",
 "[4] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "requiredTech": "Industrialization",
         "obsoleteTech": "Ballistics",
 "upgradesTo": "Machine Gun",
@@ -155,7 +166,8 @@
 "uniques": ["[-25]% Strength <vs cities> <when attacking>",
 "[4] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "requiredTech": "Ballistics",
         "obsoleteTech": "Mobile Tactics",
 "upgradesTo": "Mechanized Infantry",
@@ -168,7 +180,8 @@
 "uniques": ["[24] additional attacks per turn",
 "Ignores terrain cost",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "requiredTech": "Mobile Tactics",
 "attackSound": "shot"},
 
@@ -182,7 +195,8 @@
 "[20] additional attacks per turn",
 "Ignores terrain cost",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
         "obsoleteTech": "Mobile Tactics",
 "upgradesTo": "Mechanized Infantry",
 "attackSound": "shot"},
@@ -199,7 +213,8 @@
 "[+40]% Strength <when defending>",
 "Ignores terrain cost",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
         "obsoleteTech": "Mobile Tactics",
 "upgradesTo": "Mechanized Infantry",
 "attackSound": "shot"},
@@ -220,7 +235,8 @@
 "[+2] Sight",
 "[3] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "throw"},
 
 {"name": "The Great Lob","unitType": "Siege","replaces": "Trebuchet","uniqueTo": "Ventus",
@@ -238,7 +254,8 @@
 "[+4] Sight",
 "[4] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "throw"},
 
 {"name": "Metal Boulder","unitType": "Siege","replaces": "Cannon","uniqueTo": "Ventus",
@@ -256,7 +273,8 @@
 "[+1] Sight",
 "[4] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "artillery"},
 
 {"name": "Large Advance Cannon","unitType": "Siege","replaces": "Artillery","uniqueTo": "Ventus",
@@ -274,7 +292,8 @@
 "[+2] Sight",
 "[4] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "artillery"},
 
 {"name": "Explosive Flying Cannon","unitType": "Siege","replaces": "Rocket Artillery","uniqueTo": "Ventus",
@@ -291,7 +310,8 @@
 "[4] additional attacks per turn",
 "Ignores terrain cost",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "artillery"},
 
 
@@ -305,7 +325,8 @@
 "uniques": ["[+50]% Strength <vs [Mounted] units>",
 "[5] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "nonmetalhit"},
 
 {"name": "Spiker","replaces": "Pikeman","uniqueTo": "Ventus","unitType": "Sword",
@@ -317,7 +338,8 @@
 "uniques": ["[+50]% Strength <vs [Mounted] units>",
 "[7] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Lancer",
 "attackSound": "nonmetalhit"},
 
@@ -332,7 +354,8 @@
 "[+50]% Strength <when attacking>",
 "[12] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Anti-Tank Gun",
 "attackSound": "metalhit"},
 
@@ -345,7 +368,8 @@
 "uniques": ["[+100]% Strength <vs [Armored] units>",
 "[12] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Helicopter Gunship",
 "attackSound": "artillery"},
 
@@ -365,7 +389,8 @@
 "May travel on Water tiles without embarking",
 "May enter foreign tiles without open borders",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "shot"},
 
 
@@ -383,7 +408,8 @@
 "[-75]% Strength <vs cities> <when attacking>",
 "[4] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "arrow"},
 
 {"name": "Strong Horse","unitType": "Mounted","uniqueTo": "Ventus","replaces": "Horseman",
@@ -399,7 +425,8 @@
 "[-83]% Strength <vs cities> <when attacking>",
 "[10] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "nonmetalhit"},
 
 {"name": "Horse Warrior","replaces": "Knight","uniqueTo": "Ventus","unitType": "Mounted",
@@ -415,7 +442,8 @@
 "[-83]% Strength <vs cities> <when attacking>",
 "[14] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "metalhit"},
 
 {"name": "Horse Spear","unitType": "Mounted","replaces": "Cavalry","uniqueTo": "Ventus",
@@ -431,7 +459,8 @@
 "[-83]% Strength <vs cities> <when attacking>",
 "[14] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "metalhit"},
 
 {"name": "Barricade","unitType": "Armored","replaces": "Landship","uniqueTo": "Ventus",
@@ -446,7 +475,8 @@
 "[14] additional attacks per turn",
 "Ignores terrain cost",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "tankshot"},
 
 {"name": "Thick Tank","unitType": "Armored","replaces": "Tank","uniqueTo": "Ventus",
@@ -461,7 +491,8 @@
 "[16] additional attacks per turn",
 "Ignores terrain cost",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "tankshot"},
 
 {"name": "Armored Armor","unitType": "Armored","replaces": "Modern Armor","uniqueTo": "Ventus",
@@ -476,7 +507,8 @@
 "[19] additional attacks per turn",
 "Ignores terrain cost",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "tankshot"},
 
 {"name": "Titan","unitType": "Armored","replaces": "Giant Death Robot","uniqueTo": "Ventus",
@@ -490,7 +522,8 @@
 "All tiles cost 1 movement",
 "Can move after attacking",
 "Ignores Zone of Control",
-"May travel on Water tiles without embarking"],
+"May travel on Water tiles without embarking",
+"Can move immediately once bought"],
 "attackSound": "tankshot"},
 
 
@@ -502,7 +535,8 @@
         "obsoleteTech": "Flight",
 "uniques": ["Self-destructs when attacking",
 "[+400]% Strength <when attacking>",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "tankshot"},
 
 {"name": "Death Plane","unitType": "Bomber","uniqueTo": "Ventus",
@@ -515,7 +549,8 @@
         "obsoleteTech": "Advanced Ballistics",
 "uniques": ["Consumes [2] [Oil]",
 "Self-destructs when attacking",
-"[+400]% Strength <when attacking>"],
+"[+400]% Strength <when attacking>",
+"Can move immediately once bought"],
 "attackSound": "tankshot"},
 
 {"name": "Death Missile","unitType": "Missile","uniqueTo": "Ventus","replaces": "Guided Missile",
@@ -528,7 +563,8 @@
 "uniques": ["Consumes [4] [Aluminum]",
 "Self-destructs when attacking",
 "[+400]% Strength <when attacking>",
-"Cannot be intercepted"],
+"Cannot be intercepted",
+"Can move immediately once bought"],
 "attackSound": "missile"},
 
 
@@ -549,7 +585,8 @@
 "[2] Air Interception Range",
 "Ignores terrain cost",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Mobile SAM",
 "attackSound": "artillery",
 },
@@ -572,7 +609,8 @@
 "[3] Air Interception Range",
 "Ignores terrain cost",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "artillery"},
 
 
@@ -590,7 +628,8 @@
 "[+150]% Strength <vs [Bomber] units>",
 "[+150]% Strength <vs [Helicopter] units>",
 "[6] extra interceptions may be made per turn",
-"[+3] Air Interception Range"],
+"[+3] Air Interception Range",
+"Can move immediately once bought"],
 "upgradesTo": "Fighter",
 "attackSound": "machinegun"},
 
@@ -608,7 +647,8 @@
 "[+150]% Strength <vs [Bomber] units>",
 "[+150]% Strength <vs [Helicopter] units>",
 "[10] extra interceptions may be made per turn",
-"[+4] Air Interception Range"],
+"[+4] Air Interception Range",
+"Can move immediately once bought"],
 "upgradesTo": "Jet Fighter",
 "attackSound": "machinegun"},
 
@@ -625,7 +665,8 @@
 "[+150]% Strength <vs [Bomber] units>",
 "[+150]% Strength <vs [Helicopter] units>",
 "[30] extra interceptions may be made per turn",
-"[3] Air Interception Range"],
+"[3] Air Interception Range",
+"Can move immediately once bought"],
 "attackSound": "jetgun"},
 
 {"name": "Egg Dropper","unitType": "Bomber","uniqueTo": "Ventus","replaces": "Great War Bomber",
@@ -639,7 +680,8 @@
         "obsoleteTech": "Radar",
 "uniques": ["[+4] Sight",
 "[5] additional attacks per turn",
-"Can see over obstacles"],
+"Can see over obstacles",
+"Can move immediately once bought"],
 "upgradesTo": "Bomber",
 "attackSound": "bombing"},
 
@@ -654,7 +696,8 @@
         "obsoleteTech": "Stealth",
 "uniques": ["[+4] Sight",
 "[10] additional attacks per turn",
-"Can see over obstacles"],
+"Can see over obstacles",
+"Can move immediately once bought"],
 "upgradesTo": "Stealth Bomber",
 "attackSound": "bombing"},
 
@@ -669,7 +712,8 @@
 "uniques": ["[+4] Sight",
 "[20] additional attacks per turn",
 "Can see over obstacles",
-"Cannot be intercepted"],
+"Cannot be intercepted",
+"Can move immediately once bought"],
 "attackSound": "bombing"},
 
 
@@ -680,7 +724,8 @@
 "requiredTech": "Sailing",
         "obsoleteTech": "Astronomy",
 "uniques": ["[4] additional attacks per turn",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Caravel",
 "attackSound": "nonmetalhit"},
 
@@ -693,7 +738,8 @@
 "uniques": ["[+1] Sight",
 "[6] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Ironclad",
 "attackSound": "artillery"},
 
@@ -707,7 +753,8 @@
 "uniques": ["[+2] Sight",
 "[10] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Destroyer",
 "attackSound": "shipguns"},
 
@@ -720,11 +767,9 @@
 "[20] additional attacks per turn",
 "Can see invisible [Submarine] units",
 "[+100]% Strength <vs [Submarine] units>",
-"[100]% chance to intercept air attacks",
-"[4] extra interceptions may be made per turn",
-"[2] Air Interception Range",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "shipguns"},
 
 {"name": "Sea Archer","unitType": "Ranged Water","uniqueTo": "Ventus","replaces": "Galleass",
@@ -739,7 +784,8 @@
 "[-25]% Strength <vs cities> <when attacking>",
 "Can move after attacking",
 "[4] additional attacks per turn",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Frigate",
 "attackSound": "arrow"},
 
@@ -756,7 +802,8 @@
 "[-25]% Strength <vs cities> <when attacking>",
 "[4] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Battleship",
 "attackSound": "artillery"},
 
@@ -773,7 +820,8 @@
 "[-25]% Strength <vs cities> <when attacking>",
 "[4] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Missile Cruiser",
 "attackSound": "shipguns"},
 
@@ -794,7 +842,8 @@
 "[4] extra interceptions may be made per turn",
 "[3] Air Interception Range",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "shipguns"},
 
 {"name": "Floating Plane Field","unitType": "Aircraft Carrier","uniqueTo": "Ventus","replaces": "Carrier",
@@ -805,7 +854,8 @@
 "uniques": ["Consumes [2] [Aluminum]",
 "Can carry [6] [Aircraft] units",
 "Cannot attack",
-"Ignores Zone of Control"]},
+"Ignores Zone of Control",
+"Can move immediately once bought"]},
 
 {"name": "Drowned Metal","unitType": "Submarine","uniqueTo": "Ventus","replaces": "Submarine",
 "movement": 14,
@@ -820,7 +870,8 @@
 "[+75]% Strength <when attacking>",
 "Can only attack [Water] tiles",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Nuclear Submarine",
 "attackSound": "torpedo"},
 
@@ -836,7 +887,8 @@
 "[+75]% Strength <when attacking>",
 "Can only attack [Water] tiles",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "torpedo"},
 
 
@@ -851,7 +903,8 @@
 "[+1] Sight",
 "[8] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "upgradesTo": "Privateer",
 "attackSound": "nonmetalhit"},
 
@@ -869,7 +922,8 @@
 "Can see over obstacles",
 "[14] additional attacks per turn",
 "Can move after attacking",
-"Ignores Zone of Control"],
+"Ignores Zone of Control",
+"Can move immediately once bought"],
 "attackSound": "artillery"},
 
 
@@ -877,7 +931,8 @@
 "movement": 5,
 "cost": 500,
 "uniques": ["Founds a new city <by consuming this unit>",
-"Ignores terrain cost"]},
+"Ignores terrain cost",
+"Can move immediately once bought"]},
 
 {"name": "Villager","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Worker",
 "movement": 10,
@@ -888,7 +943,8 @@
 "May travel on Water tiles without embarking <after discovering [Sailing]>",
 "Can pass through impassable tiles",
 "Can build [Repair] improvements on tiles",
-"Can build [Repair] improvements at a [+100]% rate"]},
+"Can build [Repair] improvements at a [+100]% rate",
+"Can move immediately once bought"]},
 
 {"name": "Fleg","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Work Boats",
 "movement": 10,
@@ -897,7 +953,8 @@
 "Can instantly construct a [Road] improvement <for [0] movement>",
 "Ignores terrain cost",
 "May travel on Water tiles without embarking",
-"Can pass through impassable tiles"]},
+"Can pass through impassable tiles",
+"Can move immediately once bought"]},
 
 {"name": "Grand Scientist","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Great Scientist",
 "uniques": ["Empire enters a [10]-turn Golden Age <by consuming this unit>",
@@ -920,7 +977,8 @@
 "uniques": ["Empire enters a [10]-turn Golden Age <by consuming this unit>",
 "Can instantly construct a [Citadel] improvement <by consuming this unit>",
 "May enter foreign tiles without open borders",
-"Ignores terrain cost"],
+"Ignores terrain cost",
+"Can move immediately once bought"],
 "movement": 10,
 "cost": 1000},
 
