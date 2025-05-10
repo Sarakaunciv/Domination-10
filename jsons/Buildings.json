@@ -215,9 +215,9 @@
 {"name": "Horse Hut",
 "uniqueTo": "Ventus",
 "replaces": "Stable",
-"cost": 125,
+"cost": 1250,
 "maintenance": 0,
-"uniques": ["[+5 Production]","Provides [2] [Horses]",
+"uniques": ["[+50 Production]","Provides [8] [Horses]",
 "Destroyed when the city is captured"]
 
     "requiredTech": "Animal Husbandry"},
@@ -225,9 +225,9 @@
 {"name": "Iron Workshop",
 "uniqueTo": "Ventus",
 "replaces": "Forge",
-"cost": 250,
+"cost": 2500,
 "maintenance": 1,
-"uniques": ["[+10 Production]","Provides [2] [Iron]",
+"uniques": ["[+100 Production]","Provides [12] [Iron]",
 "Destroyed when the city is captured"]
 
     "requiredTech": "Iron Working"},
@@ -235,9 +235,9 @@
 {"name": "Coalmill",
 "uniqueTo": "Ventus",
 "replaces": "Windmill",
-"cost": 500,
+"cost": 5000,
 "maintenance": 2,
-"uniques": ["[+20 Production]","Provides [2] [Coal]",
+"uniques": ["[+200 Production]","Provides [16] [Coal]",
 "Destroyed when the city is captured"]
 
     "requiredTech": "Industrialization"},
@@ -245,9 +245,9 @@
 {"name": "Oil Miner",
 "uniqueTo": "Ventus",
 "replaces": "Hydro Plant",
-"cost": 625,
+"cost": 6250,
 "maintenance": 3,
-"uniques": ["[+25 Production]","Provides [2] [Oil]",
+"uniques": ["[+250 Production]","Provides [20] [Oil]",
 "Destroyed when the city is captured"]
 
     "requiredTech": "Biology"},
@@ -255,9 +255,9 @@
 {"name": "Aluminum Center",
 "uniqueTo": "Ventus",
 "replaces": "Recycling Center",
-"cost": 1000,
+"cost": 10000,
 "maintenance": 5,
-"uniques": ["[+40 Production]","Provides [2] [Aluminum]",
+"uniques": ["[+400 Production]","Provides [24] [Aluminum]",
 "Destroyed when the city is captured"]
 
     "requiredTech": "Electricity"},
@@ -265,9 +265,9 @@
 {"name": "Uranium Mine",
 "uniqueTo": "Ventus",
 "replaces": "Nuclear Plant",
-"cost": 2000,
+"cost": 20000,
 "maintenance": 10,
-"uniques": ["[+80 Production]","Provides [2] [Uranium]",
+"uniques": ["[+800 Production]","Provides [32] [Uranium]",
 "[+15]% [Production]",
 "Destroyed when the city is captured"]
 
@@ -484,81 +484,81 @@
 
     "requiredTech": "Drama and Poetry"},
  
-    {"name": "Rant 1",
+    {"name": "Rant S1",
 "uniqueTo": "Ventus",
 "replaces": "Circus",
 "cost": 75,
 "uniques": ["[+6 Science, +1 Gold]","Destroyed when the city is captured"]
     "requiredTech": "Trapping"},
  
-    {"name": "Rant 2",
-"uniqueTo": "Ventus",
-"replaces": "Courthouse",
-"cost": 100,
-"uniques": ["[+8 Production, +1 Gold]","Destroyed when the city is captured"]
-    "requiredTech": "Mathematics"},
- 
-    {"name": "Rant 3",
-"uniqueTo": "Ventus",
-"replaces": "Garden",
-"cost": 120,
-"uniques": ["[+9 Culture, +1 Gold]","Destroyed when the city is captured"]
-    "requiredTech": "Theology"},
- 
-    {"name": "Rant 4",
-"uniqueTo": "Ventus",
-"replaces": "Harbor",
-"cost": 120,
-"uniques": ["[+12 Production, +1 Gold]","Destroyed when the city is captured"]
-    "requiredTech": "Compass"},
- 
-    {"name": "Rant 5",
-"uniqueTo": "Ventus",
-"replaces": "Hospital",
-"cost": 360,
-"uniques": ["[+10 Food, +1 Gold]","Destroyed when the city is captured"]
-    "requiredTech": "Biology"},
- 
-    {"name": "Rant 6",
-"uniqueTo": "Ventus",
-"replaces": "Seaport",
-"cost": 250,
-"uniques": ["[+16 Production, +1 Gold]","Destroyed when the city is captured"]
-    "requiredTech": "Navigation"},
- 
-    {"name": "Rant 7",
-"uniqueTo": "Ventus",
-"replaces": "Solar Plant",
-"cost": 500,
-"uniques": ["[+35 Production, +1 Gold]","Destroyed when the city is captured"]
-    "requiredTech": "Ecology"},
- 
-    {"name": "Rant 8",
-"uniqueTo": "Ventus",
-"replaces": "Spaceship Factory",
-"cost": 360,
-"uniques": ["[+25 Production, +1 Gold]","Destroyed when the city is captured"]
-    "requiredTech": "Robotics"},
- 
-    {"name": "Rant 9",
+    {"name": "Rant S2",
 "uniqueTo": "Ventus",
 "replaces": "Stone Works",
 "cost": 75,
 "uniques": ["[+8 Science, +1 Gold]","Destroyed when the city is captured"]
     "requiredTech": "Calendar"},
  
-    {"name": "Rant 10",
+    {"name": "Rant S3",
 "uniqueTo": "Ventus",
 "replaces": "Water Mill",
 "cost": 75,
 "uniques": ["[+7 Science, +1 Gold]","Destroyed when the city is captured"]
     "requiredTech": "The Wheel"},
  
-    {"name": "Rant 11",
+    {"name": "Rant P1",
+"uniqueTo": "Ventus",
+"replaces": "Courthouse",
+"cost": 100,
+"uniques": ["[+8 Production, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Mathematics"},
+ 
+    {"name": "Rant P2",
+"uniqueTo": "Ventus",
+"replaces": "Harbor",
+"cost": 120,
+"uniques": ["[+12 Production, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Compass"},
+ 
+    {"name": "Rant P3",
+"uniqueTo": "Ventus",
+"replaces": "Seaport",
+"cost": 250,
+"uniques": ["[+16 Production, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Navigation"},
+ 
+    {"name": "Rant P4",
+"uniqueTo": "Ventus",
+"replaces": "Solar Plant",
+"cost": 500,
+"uniques": ["[+35 Production, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Ecology"},
+ 
+    {"name": "Rant P5",
+"uniqueTo": "Ventus",
+"replaces": "Spaceship Factory",
+"cost": 360,
+"uniques": ["[+25 Production, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Robotics"},
+ 
+    {"name": "Rant C",
+"uniqueTo": "Ventus",
+"replaces": "Garden",
+"cost": 120,
+"uniques": ["[+9 Culture, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Theology"},
+ 
+    {"name": "Rant F",
+"uniqueTo": "Ventus",
+"replaces": "Hospital",
+"cost": 360,
+"uniques": ["[+10 Food, +1 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Biology"},
+ 
+    {"name": "Rant G",
 "uniqueTo": "Ventus",
 "replaces": "Mint",
 "cost": 100,
-"uniques": ["[+20 Gold]","Destroyed when the city is captured"]
+"uniques": ["[+50 Gold]","Destroyed when the city is captured"]
     "requiredTech": "Currency"},
     
     {"name": "Prize",
