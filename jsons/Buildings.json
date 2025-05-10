@@ -553,6 +553,13 @@
 "cost": 75,
 "uniques": ["[+7 Science, +1 Gold]","Destroyed when the city is captured"]
     "requiredTech": "The Wheel"},
+ 
+    {"name": "Rant 11",
+"uniqueTo": "Ventus",
+"replaces": "Mint",
+"cost": 100,
+"uniques": ["[+20 Gold]","Destroyed when the city is captured"]
+    "requiredTech": "Currency"},
     
     {"name": "Prize",
 "uniqueTo": "Ventus",
