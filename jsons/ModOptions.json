@@ -6,6 +6,9 @@
       "Disable religion"
     ],
     constants:{
-minimumWarDuration: 3
+maxXPfromBarbarians: 10000,
+minimumWarDuration: 5,
+cityExpandRange: 3,
+minimalCityDistanceOnDifferentContinents: 3
     }
 }
