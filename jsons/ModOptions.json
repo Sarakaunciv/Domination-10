@@ -2,8 +2,7 @@
     isBaseRuleset: false,
     uniques:[
       "Allow raze capital",
-      "Allow raze holy city",
-      "Disable religion"
+      "Allow raze holy city"
     ],
     constants:{
 maxXPfromBarbarians: 10000,
