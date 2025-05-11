@@ -1017,9 +1017,7 @@
 "cost": 330},
 
 {"name": "Grand General","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Great General",
-"uniques": ["[+15]% Strength bonus for [Military] units within [3] tiles",
-"[+15]% Strength bonus for [Military] units within [2] tiles",
-"[+15]% Strength bonus for [Military] units within [1] tiles",
+"uniques": ["[+50]% Strength bonus for [Military] units within [3] tiles",
 "All adjacent units heal [35] HP when healing",
 "Can instantly construct a [Citadel] improvement <for [5] movement>",
 "Can instantly construct a [Fort] improvement <for [0] movement>",
@@ -1028,7 +1026,7 @@
 "Ignores terrain cost",
 "Can be purchased for [5000] [Faith] [in all cities]",
 "Can move immediately once bought"],
-"movement": 15,
+"movement": 5,
 "cost": 5000},
 
 {"name": "Tiny Blast","unitType": "Atomic Bomber","uniqueTo": "Ventus",
