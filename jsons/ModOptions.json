@@ -3,9 +3,7 @@
     uniques:[
       "Allow raze capital",
       "Allow raze holy city",
-      "Disable religion",
-      "Diplomatic relationships cannot change",
-      "Can trade civilization introductions for [1000] Gold",
+      "Disable religion"
     ],
     constants:{
 minimumWarDuration: 3
