@@ -7,8 +7,10 @@
     constants:{
 maxXPfromBarbarians: 10000,
 minimumWarDuration: 5,
-cityExpandRange: 3,
-minimalCityDistanceOnDifferentContinents: 3
+cityExpandRange: 2,
+cityWorkRange: 1,
+minimalCityDistance: 2,
+minimalCityDistanceOnDifferentContinents: 2
 pantheonBase: 100000000
     }
 }
