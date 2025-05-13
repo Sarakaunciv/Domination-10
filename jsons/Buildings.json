@@ -320,8 +320,8 @@
 {"name": "Fortified Anti-Nuclear Shelter",
 "uniqueTo": "Ventus",
 "replaces": "Bomb Shelter",
-"cityHealth": 1000,
-"cost": 5000,
+"cityHealth": 200,
+"cost": 600,
 "maintenance": 0,
 "uniques": ["Population loss from nuclear attacks [-100]% [in this city]",
 "Damage to garrison from nuclear attacks [-100]% [in this city]",
@@ -369,7 +369,7 @@
 "replaces": "Heroic Epic",
 "cost": 155,
 "isNationalWonder": true,
-"uniques": ["[+10]% [Production] [in all cities]","Destroyed when the city is captured"]
+"uniques": ["[+10 Production, +10 Culture]",,"[+20]% [Production] [in all cities]","Destroyed when the city is captured"]
 
     "requiredTech": "Iron Working"},
 
@@ -378,7 +378,7 @@
 "replaces": "Shrine",
 "cost": 40,
 "maintenance": 1,
-"uniques": ["[+10]% [Science]","Destroyed when the city is captured"]
+"uniques": ["[+5 Science]","[+15]% [Science]","Destroyed when the city is captured"]
 
     "requiredTech": "Pottery"},
 
@@ -388,7 +388,7 @@
 "cost": 100,
 "requiredBuilding": "True Life",
 "maintenance": 2,
-"uniques": ["[+10]% [Science]","Destroyed when the city is captured"]
+"uniques": ["[+10 Science]","[+20]% [Science]","Destroyed when the city is captured"]
 
     "requiredTech": "Philosophy"},
     
@@ -558,7 +558,7 @@
 "uniqueTo": "Ventus",
 "replaces": "Mint",
 "cost": 100,
-"uniques": ["[+50 Gold]","Destroyed when the city is captured"]
+"uniques": ["[+100 Gold]","Destroyed when the city is captured"]
     "requiredTech": "Currency"},
     
     {"name": "Prize",
@@ -566,7 +566,7 @@
 "replaces": "National Treasury",
 "cost": 155,
 "isNationalWonder": true,
-"uniques": ["[+25]% [Gold] [in all cities]","Destroyed when the city is captured"]
+"uniques": ["[+5 Gold]","[+25]% [Gold] [in all cities]","Destroyed when the city is captured"]
     "requiredTech": "Guilds"},
     
     {"name": "Wrize",
@@ -574,7 +574,7 @@
 "replaces": "Ironworks",
 "cost": 155,
 "isNationalWonder": true,
-"uniques": ["[+20]% [Production] [in all cities]","Destroyed when the city is captured"]
+"uniques": ["[+15 Production]","[+20]% [Production] [in all cities]","Destroyed when the city is captured"]
     "requiredTech": "Machinery"},
     
     {"name": "Cultrise",
@@ -582,7 +582,7 @@
 "replaces": "Hermitage",
 "cost": 155,
 "isNationalWonder": true,
-"uniques": ["[+100]% [Culture] [in all cities]","Destroyed when the city is captured"]
+"uniques": ["[+10 Culture]","[+100]% [Culture] [in all cities]","Destroyed when the city is captured"]
     "requiredTech": "Architecture"},
 
 {"name": "THE GRAND ABYSS Cheat",
