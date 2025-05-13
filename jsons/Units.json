@@ -1,5 +1,9 @@
 [{"name": "Stealth Bomber","unitType": "Bomber","movement": 1,"strength": 100,"rangedStrength": 100,"range": 20,"cost": 425,"requiredResource": "Aluminum","requiredTech": "Stealth","uniques": ["[+4] Sight","Can see over obstacles","Damage taken from interception reduced by [95]%","Cannot be carried by [Carrier] units"],"attackSound": "bombing"},
-
+{"name": "Helicopter Gunship","unitType": "Helicopter","movement": 6,"strength": 60,"cost": 425,"requiredTech": "Computers","requiredResource": "Aluminum",
+		"uniques": ["[+100]% Strength <vs [Armored] units>","No defensive terrain bonus","Can move after attacking","All tiles cost 1 movement","Ignores Zone of Control","Unable to capture cities","Never appears as a Barbarian unit",
+                        "May travel on Water tiles without embarking","Eliminates combat penalty for attacking over a river","Eliminates combat penalty for attacking across a coast"],
+		"attackSound": "machinegun"
+	},
 
 {"name": "Great Warrior","unitType": "Sword","uniqueTo": "Ventus","replaces": "Warrior",
 "movement": 3,
@@ -224,7 +228,7 @@
 "strength": 130,
 "cost": 800,
 "requiredTech": "Pharmaceuticals",
-"uniques": ["May travel on Water tiles without embarking",
+"uniques": ["May travel on Water tiles without embarking","Eliminates combat penalty for attacking over a river","Eliminates combat penalty for attacking across a coast",
 "Double movement in [Water]",
 "[This Unit] gains the [Amphibious] promotion",
 "[+1] Sight",
@@ -409,12 +413,11 @@
 "uniques": ["Consumes [2] [Aluminum]",
 "[+100]% Strength <vs [Armored] units>",
 "No defensive terrain bonus",
-"[This Unit] gains the [Amphibious] promotion",
 "All tiles cost 1 movement",
 "[29] additional attacks per turn",
 "[+4] Sight",
 "Can see over obstacles",
-"May travel on Water tiles without embarking",
+"May travel on Water tiles without embarking","Eliminates combat penalty for attacking over a river","Eliminates combat penalty for attacking across a coast",
 "May enter foreign tiles without open borders",
 "Can move after attacking",
 "Ignores Zone of Control",
