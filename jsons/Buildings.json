@@ -166,7 +166,7 @@
 "replaces": "Heroic Epic",
 "cost": 155,
 "isNationalWonder": true,
-"uniques": ["[+10 Production, +10 Culture]",,"[+20]% [Production] [in all cities]","Destroyed when the city is captured"],
+"uniques": ["[+10 Production, +10 Culture]","[+20]% [Production] [in all cities]","Destroyed when the city is captured"],
     "requiredTech": "Iron Working"},
 
 {"name": "True Life",
