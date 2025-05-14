@@ -546,7 +546,7 @@
 "attackSound": "tankshot"},
 
 {"name": "Titan","unitType": "Armored","replaces": "Giant Death Robot","uniqueTo": "Ventus",
-"movement": 10,
+"movement": 8,
 "strength": 300,
 "cost": 1600,
 "requiredTech": "Nuclear Fusion",
@@ -556,7 +556,8 @@
 "Can move after attacking",
 "Ignores Zone of Control",
 "Can be purchased for [4500] [Faith] [in all cities]",
-"May travel on Water tiles without embarking","Eliminates combat penalty for attacking across a coast",
+"May travel on Water tiles without embarking",
+"Eliminates combat penalty for attacking across a coast",
 "Can move immediately once bought"],
 "attackSound": "tankshot"},
 
