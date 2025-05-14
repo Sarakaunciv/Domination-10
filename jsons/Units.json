@@ -560,7 +560,7 @@
 "Can move after attacking",
 "Ignores Zone of Control",
 "Can be purchased for [4500] [Faith] [in all cities]",
-"May travel on Water tiles without embarking",
+"May travel on Water tiles without embarking","Eliminates combat penalty for attacking across a coast",
 "Can move immediately once bought"],
 "attackSound": "tankshot"},
 
@@ -574,7 +574,7 @@
 "uniques": ["Self-destructs when attacking",
 "[+400]% Strength <when attacking>",
 "Ignores Zone of Control",
-"Can be purchased for [700] [Faith] [in all cities]",
+"Can be purchased for [700] [Faith] [in all cities]","Eliminates combat penalty for attacking over a river","Eliminates combat penalty for attacking across a coast",
 "Can move immediately once bought"],
 "attackSound": "tankshot"},
 
