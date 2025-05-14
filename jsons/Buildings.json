@@ -1,8 +1,8 @@
 
 [
 {
-"name": "Cheat Lock","cost": 0,"uniques": ["Destroyed when the city is captured","[+2 Production]","Only available <in cities without a [Cheat Powder]>"]},
-{"name": "Cheat Key","cost": 0,"requiredBuilding": "Cheat Lock","uniques": ["Destroyed when the city is captured"]},
+"name": "Cheat Lock","cost": 0,"uniques": ["[+25 Production]","Provides [50] [Horses]","Provides [50] [Iron]","Provides [50] [Coal]","Provides [50] [Oil]","Provides [50] [Aluminum]","Provides [50] [Uranium]","Only available <in cities without a [Cheat Powder]>","Destroyed when the city is captured"]},
+{"name": "Cheat Key","cost": 0,"requiredBuilding": "Cheat Lock","uniques": ["[+100 Gold]","Destroyed when the city is captured"]},
 {"name": "Cheat Powder","cost": 0,"requiredBuilding": "Cheat Key","uniques": ["Destroyed when the city is captured","Only available <in cities without a [Cheat Lock]>"]},
 {"name": "Cheat Builder","cost": 0,"requiredBuilding": "Cheat Powder","uniques": ["Provides a [Cheat Powder] in your first [100] cities for free","Unsellable","Limited to [1] per Civilization","Destroyed when the city is captured"]},
 
@@ -229,7 +229,6 @@
 "uniqueTo": "Ventus",
 "replaces": "Amphitheater",
 "cost": 100,
-"requiredBuilding": "Stain I",
 "isNationalWonder": true,
 "uniques": ["[+3 Culture] [in all cities]","Destroyed when the city is captured"],
     "requiredTech": "Drama and Poetry"},
@@ -238,7 +237,6 @@
 "uniqueTo": "Ventus",
 "replaces": "Opera House",
 "cost": 200,
-"requiredBuilding": "Stain II",
 "isNationalWonder": true,
 "uniques": ["[+4 Culture] [in all cities]","Destroyed when the city is captured"],
     "requiredTech": "Acoustics"},
@@ -247,7 +245,6 @@
 "uniqueTo": "Ventus",
 "replaces": "Museum",
 "cost": 300,
-"requiredBuilding": "Stain III",
 "isNationalWonder": true,
 "uniques": ["[+5 Culture] [in all cities]","Destroyed when the city is captured"],
     "requiredTech": "Archaeology"},
@@ -256,7 +253,6 @@
 "uniqueTo": "Ventus",
 "replaces": "Broadcast Tower",
 "cost": 500,
-"requiredBuilding": "Stain IV",
 "isNationalWonder": true,
 "uniques": ["[+100]% [Culture] [in all cities]","Destroyed when the city is captured"],
     "requiredTech": "Radio"},
@@ -301,7 +297,7 @@
 "uniqueTo": "Ventus",
 "replaces": "Harbor",
 "cost": 120,
-"uniques": ["[+12 Production, +1 Gold]","Destroyed when the city is captured"],
+"uniques": ["[+12 Production, +1 Gold]","Connects trade routes over water","Destroyed when the city is captured"],
     "requiredTech": "Compass"},
  
     {"name": "Rant P3",
