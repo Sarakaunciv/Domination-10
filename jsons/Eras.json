@@ -213,8 +213,7 @@
         "Opera House","Bank","Theatre","Seaport",
         "Museum","Public School","Factory","Military Academy","Hospital","Stock Exchange",
         "Stadium","Broadcast Tower","Research Lab",
-        "Medical Lab",
-        "EXP Cheat"],
+        "Medical Lab"],
         "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus",
             "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus",
             "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame",
@@ -226,7 +225,7 @@
         "startPercent": 0,
         "citySound": "cityFuture",
         "iconRGB": [76, 176, 81],
-        "uniques": ["Can build [All] improvements at a [+900]% rate","May not generate great prophet equivalents naturally",
+        "uniques": ["Provides a [EXP Cheat] in your first [1] cities for free","Can build [All] improvements at a [+900]% rate","May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
             "Every major Civilization gains a spy once a civilization enters this era"
         ]
