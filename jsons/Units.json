@@ -1,8 +1,8 @@
-[{"name": "Helicopter Gunship","unitType": "Helicopter","movement": 6,"strength": 60,"cost": 425,"requiredTech": "Computers","requiredResource": "Aluminum","uniques": ["[+100]% Strength <vs [Armored] units>","No defensive terrain bonus","Can move after attacking","All tiles cost 1 movement","Ignores Zone of Control","Unable to capture cities","Never appears as a Barbarian unit","May travel on Water tiles without embarking","Eliminates combat penalty for attacking over a river","Eliminates combat penalty for attacking across a coast"],"attackSound": "machinegun"},
+[{"name": "Destroyer","unitType": "Melee Water","movement": 6,"strength": 55,"interceptRange": 2,"cost": 375,"requiredTech": "Combustion","upgradesTo": "Missile Cruiser","uniques": ["Can see invisible [Submarine] units","[40]% chance to intercept air attacks","[+25]% Strength <when defending>","[+100]% Strength <vs [Submarine] units>"],"attackSound": "shipguns"},
+{"name": "Helicopter Gunship","unitType": "Helicopter","movement": 6,"strength": 60,"cost": 425,"requiredTech": "Computers","requiredResource": "Aluminum","uniques": ["[+100]% Strength <vs [Armored] units>","No defensive terrain bonus","Can move after attacking","Ignores terrain cost","Ignores Zone of Control","Unable to capture cities","Never appears as a Barbarian unit","May travel on Water tiles without embarking","Eliminates combat penalty for attacking over a river","Eliminates combat penalty for attacking across a coast"],"attackSound": "machinegun"},
 {"name": "Giant Death Robot","unitType": "Armored","movement": 5,"strength": 150,"cost": 425,"requiredTech": "Nuclear Fusion","requiredResource": "Uranium","uniques": ["Can move after attacking","No defensive terrain bonus","May travel on Water tiles without embarking","Eliminates combat penalty for attacking across a coast","Can pass through impassable tiles","Never appears as a Barbarian unit"],"attackSound": "gdrAttack"},
-{"name": "Stealth Bomber","unitType": "Bomber","movement": 1,"strength": 100,"rangedStrength": 100,"range": 20,"cost": 425,"requiredResource": "Aluminum","requiredTech": "Stealth","uniques": ["[+4] Sight","Can see over obstacles","Damage taken from interception reduced by [95]%","Cannot be carried by [Carrier] units"],"attackSound": "bombing"},
-
-
+{"name": "Stealth Bomber","unitType": "Bomber","movement": 1,"strength": 100,"rangedStrength": 100,"range": 20,"cost": 425,"requiredResource": "Aluminum","requiredTech": "Stealth","uniques": ["[+4] Sight","Can see over obstacles","Damage taken from interception reduced by [95]%"],"attackSound": "bombing"},
+        
 {"name": "Great Warrior","unitType": "Sword","uniqueTo": "Ventus","replaces": "Warrior",
 "movement": 3,
 "strength": 16,
@@ -401,7 +401,7 @@
 "Can be purchased for [1300] [Faith] [in all cities]",
 "Can move immediately once bought"],
 "upgradesTo": "Helicopter Gunship",
-"attackSound": "artillery"},
+"attackSound": "shot"},
 
 {"name": "Floating Flame","unitType": "Helicopter","replaces": "Helicopter Gunship","uniqueTo": "Ventus",
 "movement": 10,
@@ -411,7 +411,7 @@
 "uniques": ["Consumes [2] [Aluminum]",
 "[+100]% Strength <vs [Armored] units>",
 "No defensive terrain bonus",
-"All tiles cost 1 movement",
+"Ignores terrain cost",
 "[29] additional attacks per turn",
 "[+4] Sight",
 "Can see over obstacles",
@@ -803,6 +803,7 @@
 "[29] additional attacks per turn",
 "Can see invisible [Submarine] units",
 "[+100]% Strength <vs [Submarine] units>",
+"[+25]% Strength <when defending>",
 "Can move after attacking",
 "Ignores Zone of Control",
 "Can be purchased for [1500] [Faith] [in all cities]",
