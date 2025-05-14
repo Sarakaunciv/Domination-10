@@ -11,7 +11,7 @@
 {"name": "Production Cheat","cost": 0,"requiredBuilding": "Cheat Powder","uniques": ["[+10000 Production] [in this city]","Destroyed when the city is captured"]},
 {"name": "Happiness Cheat","cost": 0,"requiredBuilding": "Cheat Powder","uniques": ["[+10000 Happiness] [in this city]","Destroyed when the city is captured"]},
 {"name": "EXP Cheat","cost": 0,"requiredBuilding": "Cheat Powder","uniques": ["New [Military] units start with [36000] XP [in all cities]","Limited to [1] per Civilization","Destroyed when the city is captured"]},
-{"name": "EXP N","cost": 0,"requiredBuilding": "EXP Cheat","uniques": ["New [Military] units start with [-36000] XP [in all cities]","Limited to [1] per Civilization","Destroyed when the city is captured"]},
+{"name": "EXP N","cost": 0,"requiredBuilding": "Cheat Powder","uniques": ["New [Military] units start with [-36000] XP [in all cities]","Limited to [1] per Civilization","Destroyed when the city is captured"]},
 {"name": "Experience Cheat","cost": 0,"requiredBuilding": "Cheat Powder","uniques": ["[+9900]% XP gained from combat","Limited to [1] per Civilization","Destroyed when the city is captured"]},
 
 {"name": "Tech Cheat","cost": 0,"requiredBuilding": "Cheat Powder",
