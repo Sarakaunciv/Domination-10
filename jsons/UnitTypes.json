@@ -35,6 +35,14 @@
       "Invisible to non-adjacent units",
       "Can see invisible [Submarine] units"]
   },
+{
+"name": "Helicopter",
+"movementType": "Land",
+"uniques": ["[+100]% Strength <vs [Armored] units>","No defensive terrain bonus","Can move after attacking","Ignores Zone of Control",
+	"Ignores terrain cost","Can see over obstacles",
+	"May travel on Water tiles without embarking","Eliminates combat penalty for attacking over a river","Eliminates combat penalty for attacking across a coast",
+	"Can pass through impassable tiles"]
+},
   {
     "name": "Civilian",
     "movementType": "Land",
