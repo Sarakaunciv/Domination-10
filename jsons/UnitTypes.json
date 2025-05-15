@@ -7,7 +7,8 @@
       "[-50]% Strength <when defending> <vs [Helicopter] units>",
       "[-50]% Strength <when defending> <vs [Anti-Tank Gun] units>",
       "[-50]% Strength <when defending> <vs [Armor Hole] units>",
-      "Eliminates combat penalty for attacking over a river","Ignores terrain cost"
+      "Eliminates combat penalty for attacking over a river","Ignores terrain cost",
+			"No defensive terrain penalty"
 ]
   },
   {
