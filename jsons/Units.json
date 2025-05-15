@@ -1,5 +1,5 @@
 [{"name": "Destroyer","unitType": "Melee Water","movement": 6,"strength": 55,"interceptRange": 2,"cost": 375,"requiredTech": "Combustion","upgradesTo": "Missile Cruiser","uniques": ["Can see invisible [Submarine] units","[40]% chance to intercept air attacks","[+25]% Strength <when defending>","[+100]% Strength <vs [Submarine] units>"],"attackSound": "shipguns"},
-{"name": "Helicopter Gunship","unitType": "Helicopter","movement": 6,"strength": 60,"cost": 425,"requiredTech": "Computers","requiredResource": "Aluminum","uniques": ["Never appears as a Barbarian unit"],"attackSound": "machinegun"},
+{"name": "Helicopter Gunship","unitType": "Helicopter","movement": 6,"strength": 60,"cost": 425,"requiredTech": "Computers","requiredResource": "Aluminum","uniques": ["[+2] Sight","Never appears as a Barbarian unit"],"attackSound": "machinegun"},
 {"name": "Giant Death Robot","unitType": "Armored","movement": 5,"strength": 150,"cost": 425,"requiredTech": "Nuclear Fusion","requiredResource": "Uranium","uniques": ["Can move after attacking","No defensive terrain bonus","May travel on Water tiles without embarking","Eliminates combat penalty for attacking across a coast","Can pass through impassable tiles","Never appears as a Barbarian unit"],"attackSound": "gdrAttack"},
 {"name": "Stealth Bomber","unitType": "Bomber","movement": 1,"strength": 100,"rangedStrength": 100,"range": 20,"cost": 425,"requiredResource": "Aluminum","requiredTech": "Stealth","uniques": ["[+4] Sight","Can see over obstacles","Damage taken from interception reduced by [95]%"],"attackSound": "bombing"},
         
@@ -412,6 +412,8 @@
 "[29] additional attacks per turn",
 "[+4] Sight",
 "May enter foreign tiles without open borders",
+"Can move after attacking",
+"Ignores Zone of Control",
 "Can be purchased for [1560] [Faith] [in all cities]",
 "Can move immediately once bought"],
 "attackSound": "shot"},
