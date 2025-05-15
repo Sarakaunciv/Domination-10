@@ -556,7 +556,7 @@
 "Can move after attacking",
 "Ignores Zone of Control",
 "Can be purchased for [4500] [Faith] [in all cities]",
-"May travel on Water tiles without embarking",
+"May travel on Water tiles without embarking","Can pass through impassable tiles",
 "Eliminates combat penalty for attacking across a coast",
 "Can move immediately once bought"],
 "attackSound": "tankshot"},
