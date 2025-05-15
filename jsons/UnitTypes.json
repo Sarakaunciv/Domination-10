@@ -30,6 +30,7 @@
     "name": "Submarine",
     "movementType": "Water",
     "uniques": ["[-50]% Strength <vs cities> <when attacking>",
+      "[-500]% Strength <vs [Helicopter] units>",
       "Can enter ice tiles",
       "Invisible to non-adjacent units",
       "Can see invisible [Submarine] units"]
