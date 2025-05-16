@@ -333,8 +333,22 @@
 "uniqueTo": "Ventus",
 "replaces": "Hospital",
 "cost": 360,
-"uniques": ["[+10 Food, +1 Gold]","Destroyed when the city is captured"],
+"uniques": ["[+50 Food, +1 Gold]","Destroyed when the city is captured"],
     "requiredTech": "Biology"},
+    
+    {"name": "AQD",
+"uniqueTo": "Ventus",
+"replaces": "Aqueduct",
+"cost": 100,
+"uniques": ["[100]% Food is carried over after population increases [in this city]","Destroyed when the city is captured"],
+    "requiredTech": "Engineering"},
+    
+    {"name": "Haspitality",
+"uniqueTo": "Ventus",
+"replaces": "Medical Lab",
+"cost": 2500,
+"uniques": ["[15] HP when healing","Destroyed when the city is captured"],
+    "requiredTech": "Pharmaceuticals"},
  
     {"name": "Rant G",
 "uniqueTo": "Ventus",
