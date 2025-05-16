@@ -3,7 +3,7 @@
 {"name": "Giant Death Robot","unitType": "Armored","movement": 5,"strength": 150,"cost": 425,"requiredTech": "Nuclear Fusion","requiredResource": "Uranium","uniques": ["Can move after attacking","No defensive terrain bonus","May travel on Water tiles without embarking","Eliminates combat penalty for attacking across a coast","Can pass through impassable tiles","Never appears as a Barbarian unit"],"attackSound": "gdrAttack"},
 {"name": "Stealth Bomber","unitType": "Bomber","movement": 1,"strength": 100,"rangedStrength": 100,"range": 20,"cost": 425,"requiredResource": "Aluminum","requiredTech": "Stealth","uniques": ["[+4] Sight","Can see over obstacles","Damage taken from interception reduced by [95]%"],"attackSound": "bombing"},
         
-{"name": "The Greatest Blade","unitType": "Sword","uniqueTo": "Ventus","replaces": "Samurai",
+{"name": "The Greatest Blade","unitType": "Sword","uniqueTo": "Ventus","replaces": "Longswordsman",
 "movement": 9,
 "strength": 500,
 "uniques": ["[29] additional attacks per turn",
