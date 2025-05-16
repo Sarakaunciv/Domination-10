@@ -18,9 +18,9 @@ UnitIcons/Blade
   orig: 255, 255
   offset: 0, 0
   index: -1
-UnitIcons/Silver Sharpener
+UnitIcons/The Greatest Blade
   rotate: false
-  xy: 1, 1
+  xy: 769, 257
   size: 255, 255
   orig: 255, 255
   offset: 0, 0
@@ -427,13 +427,6 @@ UnitIcons/Death Plane
 UnitIcons/Death Missile
   rotate: false
   xy: 513, 513
-  size: 255, 255
-  orig: 255, 255
-  offset: 0, 0
-  index: -1
-UnitIcons/The Greatest Blade
-  rotate: false
-  xy: 769, 257
   size: 255, 255
   orig: 255, 255
   offset: 0, 0
