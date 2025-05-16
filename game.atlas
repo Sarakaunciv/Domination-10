@@ -4,6 +4,13 @@ size: 1280, 1280
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+UnitIcons/The Greatest Blade
+  rotate: false
+  xy: 768, 256
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
 UnitIcons/Great Warrior
   rotate: false
   xy: 0, 0
@@ -502,7 +509,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Units/The Greatest Blade
   rotate: false
-  xy: 480, 480
+  xy: 480, 0
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
