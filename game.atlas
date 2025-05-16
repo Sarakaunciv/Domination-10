@@ -431,6 +431,13 @@ UnitIcons/Death Missile
   orig: 255, 255
   offset: 0, 0
   index: -1
+UnitIcons/The Greatest Blade
+  rotate: false
+  xy: 769, 257
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
 UnitIcons/Air Roof
   rotate: false
   xy: 1025, 1025
