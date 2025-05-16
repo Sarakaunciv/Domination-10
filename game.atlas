@@ -18,7 +18,7 @@ UnitIcons/Blade
   orig: 255, 255
   offset: 0, 0
   index: -1
-UnitIcons/The Greatest Blade
+UnitIcons/Silver Sharpener
   rotate: false
   xy: 769, 257
   size: 255, 255
@@ -492,5 +492,18 @@ NationIcons/Ventus
   xy: 769, 513
   size: 255, 255
   orig: 255, 255
+  offset: 0, 0
+  index: -1
+
+gameT.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Units/The Greatest Blade
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
