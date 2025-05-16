@@ -13,8 +13,7 @@
 "Can move after attacking",
 "Ignores Zone of Control",
 "Can be purchased for [10000] [Faith] [in all cities]",
-"Can move immediately once bought"],
-"upgradesTo": "Longswordsman",
+"Unbuildable","Can move immediately once bought"],
 "attackSound": "metalhit"},
 
 {"name": "Great Warrior","unitType": "Sword","uniqueTo": "Ventus","replaces": "Warrior",
