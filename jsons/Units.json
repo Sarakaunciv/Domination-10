@@ -564,7 +564,7 @@
 "Ignores terrain cost",
 "Can move after attacking",
 "Ignores Zone of Control",
-"Can be purchased for [10000] [Faith] [in all cities]",
+"Can be purchased for [50000] [Faith] [in all cities]",
 "Unbuildable","Can move immediately once bought"],
 "attackSound": "metalhit"},
 
