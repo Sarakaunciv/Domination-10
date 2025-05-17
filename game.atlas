@@ -521,7 +521,7 @@ TileSets/FantasyHex/Units/Great Warrior
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/The Blade
+TileSets/FantasyHex/Units/Blade
   rotate: false
   xy: 32, 0
   size: 32, 32
