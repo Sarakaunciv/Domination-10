@@ -17,8 +17,8 @@
 		"hateHello": "You mortal",
 		"tradeRequest": "We want to trade.Just a fair trade.",
 
-		"outerColor": [128,0,0],
-		"innerColor": [64,0,0],
+		"outerColor": [160,80,80],
+		"innerColor": [0,0,0],
 		"uniqueName": "The Great Ventus",
 		"uniqueText": "Raze100 Cult200 Kill5G Military"
 		"uniques": ["Cities are razed [100] times as fast",
