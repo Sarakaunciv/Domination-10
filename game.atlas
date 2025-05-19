@@ -752,7 +752,7 @@ TileSets/FantasyHex/Units/Metal Boulder
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Large Advanced Cannon
+TileSets/FantasyHex/Units/Large Advance Cannon
   rotate: false
   xy: 96, 64
   size: 32, 32
