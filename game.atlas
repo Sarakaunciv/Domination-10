@@ -1,16 +1,9 @@
 
 game.png
-size: 1280, 1280
+size: 4096, 4096
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/The Greatest Blade
-  rotate: false
-  xy: 768, 256
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
 UnitIcons/Great Warrior
   rotate: false
   xy: 0, 0
@@ -20,243 +13,355 @@ UnitIcons/Great Warrior
   index: -1
 UnitIcons/Blade
   rotate: false
-  xy: 0, 0
+  xy: 256, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Silver Sharpener
   rotate: false
-  xy: 0, 0
+  xy: 512, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Round Bullet
   rotate: false
-  xy: 0, 0
+  xy: 768, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/The Gun
   rotate: false
-  xy: 0, 0
+  xy: 1024, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Star Marked Infantry
   rotate: false
-  xy: 0, 0
+  xy: 1280, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/True Infantry
   rotate: false
-  xy: 0, 0
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Beyond Infantry
-  rotate: false
-  xy: 0, 0
+  xy: 1536, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/The Sharp Archer
   rotate: false
-  xy: 256, 0
+  xy: 1792, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Crafted Long Bow
   rotate: false
-  xy: 256, 0
+  xy: 2048, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Hard Crossbow
   rotate: false
-  xy: 256, 0
+  xy: 2304, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Sharp Shooter
   rotate: false
-  xy: 256, 0
+  xy: 2560, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Long Ranged Shooter
   rotate: false
-  xy: 256, 0
+  xy: 2816, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-UnitIcons/Fast Horse Arrow
+UnitIcons/Beyond Infantry
   rotate: false
-  xy: 512, 0
+  xy: 3072, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-UnitIcons/Strong Horse
+UnitIcons/Grand Marine
   rotate: false
-  xy: 512, 0
+  xy: 3328, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-UnitIcons/Horse Warrior
+UnitIcons/Para Teleporter
   rotate: false
-  xy: 512, 0
+  xy: 3584, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-UnitIcons/Horse Spear
+UnitIcons/The Greatest Blade
   rotate: false
-  xy: 512, 0
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Barricade
-  rotate: false
-  xy: 512, 0
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Thick Tank
-  rotate: false
-  xy: 512, 0
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Armored Armor
-  rotate: false
-  xy: 512, 0
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Titan
-  rotate: false
-  xy: 512, 0
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Massive Catapult
-  rotate: false
-  xy: 768, 0
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/The Great Lob
-  rotate: false
-  xy: 768, 0
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Metal Boulder
-  rotate: false
-  xy: 768, 0
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Large Advance Cannon
-  rotate: false
-  xy: 768, 0
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Explosive Flying Cannon
-  rotate: false
-  xy: 768, 0
+  xy: 3840, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Counter Pierce
   rotate: false
-  xy: 1024, 0
+  xy: 0, 256
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Spiker
   rotate: false
-  xy: 1024, 0
+  xy: 256, 256
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Pass The Star
   rotate: false
-  xy: 1024, 0
+  xy: 512, 256
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Armor Hole
   rotate: false
-  xy: 1024, 0
+  xy: 768, 256
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Floating Flame
   rotate: false
-  xy: 1024, 0
+  xy: 1024, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Fast Horse Arrow
+  rotate: false
+  xy: 1280, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Strong Horse
+  rotate: false
+  xy: 1536, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Horse Warrior
+  rotate: false
+  xy: 1792, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Horse Spear
+  rotate: false
+  xy: 2048, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Barricade
+  rotate: false
+  xy: 2304, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Thick Tank
+  rotate: false
+  xy: 2560, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Armor
+  rotate: false
+  xy: 2816, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Titan
+  rotate: false
+  xy: 3072, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Eye
+  rotate: false
+  xy: 3328, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Great Pirate
+  rotate: false
+  xy: 3584, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Death Army
+  rotate: false
+  xy: 3840, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Massive Catapult
+  rotate: false
+  xy: 0, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/The Great Lob
+  rotate: false
+  xy: 256, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Metal Boulder
+  rotate: false
+  xy: 512, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Large Advance Cannon
+  rotate: false
+  xy: 768, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Explosive Flying Cannon
+  rotate: false
+  xy: 1024, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Villager
+  rotate: false
+  xy: 1280, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Fleg
+  rotate: false
+  xy: 1536, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Set
+  rotate: false
+  xy: 1792, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Grand General
+  rotate: false
+  xy: 2048, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Air Roof
+  rotate: false
+  xy: 2304, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Anti-Air Field
+  rotate: false
+  xy: 2560, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Third Wing
+  rotate: false
+  xy: 2816, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Black Wing
+  rotate: false
+  xy: 3072, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Lightning
+  rotate: false
+  xy: 3328, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Death Plane
+  rotate: false
+  xy: 3584, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Death Missile
+  rotate: false
+  xy: 3840, 512
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Battle Raft
   rotate: false
-  xy: 0, 256
+  xy: 0, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/War Boat
   rotate: false
-  xy: 0, 256
+  xy: 256, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Metal Ship
   rotate: false
-  xy: 0, 256
+  xy: 512, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Rotten Sea
-  rotate: false
-  xy: 0, 256
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Great Pirate
   rotate: false
   xy: 768, 768
   size: 256, 256
@@ -265,238 +370,161 @@ UnitIcons/Great Pirate
   index: -1
 UnitIcons/Sea Archer
   rotate: false
-  xy: 256, 256
+  xy: 1024, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Sea Cannon
   rotate: false
-  xy: 256, 256
+  xy: 1280, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Sea Dominator
   rotate: false
-  xy: 256, 256
+  xy: 1536, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Grand Battle Ship
   rotate: false
-  xy: 256, 256
+  xy: 1792, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Drowned Metal
   rotate: false
-  xy: 512, 256
+  xy: 2048, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Drowned Rotten Steel
   rotate: false
-  xy: 512, 256
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Third Wing
-  rotate: false
-  xy: 0, 512
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Black Wing
-  rotate: false
-  xy: 0, 512
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Lightning
-  rotate: false
-  xy: 0, 512
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Egg Dropper
-  rotate: false
-  xy: 256, 512
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Large Bomber
-  rotate: false
-  xy: 256, 512
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Dangerous Rain Fall
-  rotate: false
-  xy: 256, 512
+  xy: 2304, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Floating Plane Field
   rotate: false
-  xy: 768, 1024
+  xy: 2560, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-UnitIcons/Grand Marine
+UnitIcons/Egg Dropper
   rotate: false
-  xy: 1024, 256
+  xy: 2816, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-UnitIcons/Para Teleporter
+UnitIcons/Large Bomber
   rotate: false
-  xy: 1024, 512
+  xy: 3072, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-UnitIcons/Eye
+UnitIcons/Dangerous Rain Fall
   rotate: false
-  xy: 1024, 768
+  xy: 3328, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-UnitIcons/Tiny Blast
+NationIcons/Ventus
   rotate: false
-  xy: 0, 768
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Small Blast
-  rotate: false
-  xy: 256, 768
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Low Blast
-  rotate: false
-  xy: 512, 768
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/ABYSS
-  rotate: false
-  xy: 0, 1024
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/GREAT ABYSS
-  rotate: false
-  xy: 256, 1024
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/THE GRAND ABYSS
-  rotate: false
-  xy: 512, 1024
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Death Army
-  rotate: false
-  xy: 512, 512
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Death Plane
-  rotate: false
-  xy: 512, 512
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Death Missile
-  rotate: false
-  xy: 512, 512
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Air Roof
-  rotate: false
-  xy: 1024, 1024
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitIcons/Anti-Air Field
-  rotate: false
-  xy: 1024, 1024
+  xy: 3584, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/Great Wall of Ventus
   rotate: false
-  xy: 768, 512
+  xy: 3840, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/Grand Castle of Ventus
   rotate: false
-  xy: 768, 512
+  xy: 3840, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/Defense of Ventus
   rotate: false
-  xy: 768, 512
+  xy: 3840, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/Shield of Ventus
   rotate: false
-  xy: 768, 512
+  xy: 3840, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/Fortified Anti-Nuclear Shelter
   rotate: false
-  xy: 768, 512
+  xy: 3840, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 ImprovementIcons/The Village
   rotate: false
-  xy: 768, 512
+  xy: 3840, 768
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-NationIcons/Ventus
-  rotate: false 
-  xy: 768, 512
+UnitIcons/Tiny Blast
+  rotate: false
+  xy: 0, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Small Blast
+  rotate: false
+  xy: 256, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Low Blast
+  rotate: false
+  xy: 512, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/ABYSS
+  rotate: false
+  xy: 768, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/GREAT ABYSS
+  rotate: false
+  xy: 1024, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/THE GRAND ABYSS
+  rotate: false
+  xy: 1280, 1024
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -790,6 +818,20 @@ TileSets/FantasyHex/Units/Set
 TileSets/FantasyHex/Units/Grand General
   rotate: false
   xy: 256, 64
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Air Roof
+  rotate: false
+  xy: 288, 64
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Air Field
+  rotate: false
+  xy: 320, 64
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
