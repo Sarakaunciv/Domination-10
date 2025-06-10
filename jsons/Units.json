@@ -560,7 +560,7 @@
 "Can move immediately once bought"],
 "attackSound": "tankshot"},
 
-{"name": "Reen","unitType": "Armored","replaces": "Giant Death Robot","uniqueTo": "Ventus",
+{"name": "Reen","unitType": "Armored","uniqueTo": "Ventus",
 "movement": 9,
 "strength": 450,
 "cost": 20000,
