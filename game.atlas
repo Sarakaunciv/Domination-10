@@ -109,13 +109,6 @@ UnitIcons/Para Teleporter
   orig: 256, 256
   offset: 0, 0
   index: -1
-UnitIcons/The Greatest Blade
-  rotate: false
-  xy: 3840, 0
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
 UnitIcons/Counter Pierce
   rotate: false
   xy: 0, 256
@@ -203,6 +196,13 @@ UnitIcons/Armored Armor
 UnitIcons/Titan
   rotate: false
   xy: 3072, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Reen
+  rotate: false
+  xy: 3840, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -640,13 +640,6 @@ TileSets/FantasyHex/Units/Para Teleporter
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/The Greatest Blade
-  rotate: false
-  xy: 480, 0
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Units/Counter Pierce
   rotate: false
   xy: 0, 32
@@ -734,6 +727,13 @@ TileSets/FantasyHex/Units/Armored Armor
 TileSets/FantasyHex/Units/Titan
   rotate: false
   xy: 384, 32
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Reen
+  rotate: false
+  xy: 480, 0
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
