@@ -974,7 +974,6 @@
 "Ignores Zone of Control",
 "Can be purchased for [120] [Faith] [in all cities]",
 "Can move immediately once bought"],
-"upgradesTo": "Privateer",
 "attackSound": "nonmetalhit"},
 
 {"name": "Great Pirate","unitType": "Scout","uniqueTo": "Ventus","replaces": "Privateer",
