@@ -346,7 +346,8 @@
     {"name": "Haspitality",
 "uniqueTo": "Ventus",
 "replaces": "Medical Lab",
-"cost": 2500,
+"cost": 50000,
+"isNationalWonder": true,
 "uniques": ["[15] HP when healing","Destroyed when the city is captured"],
     "requiredTech": "Pharmaceuticals"},
  
