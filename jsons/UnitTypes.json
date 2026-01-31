@@ -8,23 +8,26 @@
       "[-50]% Strength <when defending> <vs [Anti-Tank Gun] units>",
       "[-50]% Strength <when defending> <vs [Armor Hole] units>",
       "Eliminates combat penalty for attacking over a river","Ignores terrain cost",
-			"No defensive terrain penalty"
-]
+      "No defensive terrain penalty",
+        "Can move immediately once bought"]
   },
   {
     "name": "Archery",
     "movementType": "Land",
-    "uniques": ["[-50]% Strength <vs cities> <when attacking>"]
+    "uniques": ["[-50]% Strength <vs cities> <when attacking>",
+        "Can move immediately once bought"]
   },
   {
     "name": "Ranged Gunpowder",
     "movementType": "Land",
-    "uniques": ["[-50]% Strength <vs cities> <when attacking>"]
+    "uniques": ["[-50]% Strength <vs cities> <when attacking>",
+        "Can move immediately once bought"]
   },
   {
     "name": "Ranged Water",
     "movementType": "Water",
-    "uniques": ["[-50]% Strength <vs cities> <when attacking>"]
+    "uniques": ["[-50]% Strength <vs cities> <when attacking>",
+        "Can move immediately once bought"]
   },
   {
     "name": "Submarine",
@@ -33,7 +36,8 @@
       "[-900]% Strength <vs [Helicopter] units> <when attacking>",
       "Can enter ice tiles",
       "Invisible to non-adjacent units",
-      "Can see invisible [Submarine] units"]
+      "Can see invisible [Submarine] units",
+        "Can move immediately once bought"]
   },
 {
 "name": "Helicopter",
@@ -42,11 +46,124 @@
 	"No defensive terrain bonus","Can move after attacking","Ignores Zone of Control",
 	"Ignores terrain cost","Can see over obstacles",
 	"May travel on Water tiles without embarking","Eliminates combat penalty for attacking over a river","Eliminates combat penalty for attacking across a coast",
-	"Can pass through impassable tiles"]
+	"Can pass through impassable tiles",
+        "Can move immediately once bought"]
 },
   {
     "name": "Civilian",
     "movementType": "Land",
     "uniques": ["Uncapturable"]
-  }
+  },
+    {
+        "name": "Sword",
+        "movementType": "Land",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "Gunpowder",
+        "movementType": "Land",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "Scout",
+        "movementType": "Land",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "Mounted",
+        "movementType": "Land",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "Siege",
+        "movementType": "Land",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "Civilian Water",
+        "movementType": "Water",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "Melee Water",
+        "movementType": "Water",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "Aircraft Carrier",
+        "movementType": "Water",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "Fighter",
+        "movementType": "Air",
+        "uniques": ["Aircraft", "[+4] Sight", "Can see over obstacles", "Can perform Air Sweep",
+        "Can move immediately once bought"]
+    },
+    {
+        "name": "Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft",
+        "Can move immediately once bought"]
+    },
+    {
+        "name": "Atomic Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft",
+        "Can move immediately once bought"]
+    },
+    {
+        "name": "Missile",
+        "movementType": "Air",
+        "uniques": ["Self-destructs when attacking", "Cannot be intercepted",
+        "Can move immediately once bought"]
+    },
+
+    // Deprecated unit types required for mods without a UnitTypes.json file to work
+
+    {
+        "name": "Melee",
+        "movementType": "Land",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "Ranged",
+        "movementType": "Land",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "Armor",
+        "movementType": "Land",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "WaterCivilian",
+        "movementType": "Water",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "WaterMelee",
+        "movementType": "Water",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "WaterRanged",
+        "movementType": "Water",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "WaterSubmarine",
+        "movementType": "Water",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "WaterAircraftCarrier",
+        "movementType": "Water",
+        "uniques": ["Can move immediately once bought"]
+    },
+    {
+        "name": "AtomicBomber",
+        "movementType": "Air",
+        "uniques": ["Can move immediately once bought"]
+    }
 ]
