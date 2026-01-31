@@ -43,7 +43,7 @@
 			"[All] units gain the [Supply] promotion",
 			"[All] units gain the [March] promotion",
 			"[Military] units gain the [Indirect Fire] promotion",
-			"[+33]% Strength <when below [-10] Happiness>",
+			"[+33]% Strength <when below [-10] [Happiness]>",
 			"[+100]% Strength for cities",
 			"[+25]% Strength <on [Free Industrial Hard] difficulty>","[+50]% Strength for cities <on [Free Industrial Hard] difficulty>",
 			"[+50]% Strength <on [Free Modern Immortal] difficulty>","[+100]% Strength for cities <on [Free Modern Immortal] difficulty>",
@@ -83,4 +83,5 @@
 		"spyNames": ["Spying"]
 	}
 ]
+
 
