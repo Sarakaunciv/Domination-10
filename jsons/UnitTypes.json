@@ -3,7 +3,6 @@
     "name": "Armored",
     "movementType": "Land",
     "uniques": ["[+50]% Strength <when defending>",
-      "[-50]% Strength <when defending> <when [Embarked]>",
       "[-50]% Strength <when defending> <vs [Armored] units>",
       "[-50]% Strength <when defending> <vs [Helicopter] units>",
       "[-50]% Strength <when defending> <vs [Anti-Tank Gun] units>",
