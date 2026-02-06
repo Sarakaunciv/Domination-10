@@ -46,6 +46,11 @@
 			"[5] HP when healing <in [Friendly Land] tiles>",
 			"[1] Movement point cost to disembark",
 			"[1] Movement point cost to embark",
+			"[1] Movement <when [Embarked]> <after discovering [Compass]>",
+			"[1] Movement <when [Embarked]> <after discovering [Navigation]>",
+			"[1] Movement <when [Embarked]> <after discovering [Steam Power]>",
+			"[1] Movement <when [Embarked]> <after discovering [Combustion]>",
+			"[1] Movement <when [Embarked]> <after discovering [Robotics]>",
 			"[All] units gain the [Supply] promotion",
 			"[All] units gain the [March] promotion",
 			"[Military] units gain the [Indirect Fire] promotion",
@@ -90,6 +95,7 @@
 		"spyNames": ["Spying"]
 	}
 ]
+
 
 
 
