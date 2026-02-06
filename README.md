@@ -19,20 +19,20 @@ Difficulty
   
 -Free
 
- -Medieval Easy
-  -10× difficulty of Deity, AI start at Medieval Era
+ --Medieval Easy
+  ---10× difficulty of Deity, AI start at Medieval Era
   
- -Renaissance Normal
+ --Renaissance Normal
  
- -Industrial Hard
+ --Industrial Hard
  
- -Modern Immortal
+ --Modern Immortal
  
- -Atomic Death
+ --Atomic Death
  
 Speed
 -Lng
-  -Normal speed, disable religen
+  --Normal speed, disable religen
 
 
 Have fun.
