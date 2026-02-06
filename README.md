@@ -11,6 +11,8 @@ Nations
   -90% Buildings replaced
    -buff buildings and national wonders
   -Improvement "The Village"
+
+WARNING: if AI got these 2 nations they will have access to cheats
   
 Difficulty
 
