@@ -202,7 +202,7 @@
 "strength": 130,
 "cost": 750,
 "requiredTech": "Radar",
-"uniques": ["May Paradrop up to [8] tiles from inside friendly territory",
+"uniques": ["May Paradrop to [Land] tiles up to [8] tiles away",
 "[+20]% Strength <when attacking>",
 "[29] additional attacks per turn",
 "Can move after attacking",
