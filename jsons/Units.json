@@ -783,6 +783,7 @@
 "[+100]% Strength <vs [Air] units>",
 "[+100]% Strength <vs [Helicopter] units>",
 "[+25]% Strength <when defending>",
+"[2] Movement <after discovering [Robotics]>",
 "Can move after attacking",
 "Ignores Zone of Control",
 "Can be purchased for [1500] [Faith] [in all cities]"],
@@ -873,6 +874,7 @@
 "Can carry [6] [Aircraft] units",
 "Cannot attack",
 "[-25] HP when healing",
+"[3] Movement <after discovering [Robotics]>",
 "Ignores Zone of Control",
 "Can be purchased for [2000] [Faith] [in all cities]"]},
 
@@ -905,6 +907,7 @@
 "[-25]% Strength <vs cities> <when attacking>",
 "[+75]% Strength <when attacking>",
 "Can only attack [Water] tiles",
+"[2] Movement <after discovering [Robotics]>",
 "Can move after attacking",
 "Ignores Zone of Control",
 "Can be purchased for [1700] [Faith] [in all cities]"],
