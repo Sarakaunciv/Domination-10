@@ -2,25 +2,25 @@
 
 Nations
 
-- Regulor (nothing here. no buff, no bias)
+1. Regulor (nothing here. no buff, no bias)
 
-- Ventus
-  - All units replaced
-   - 2× power, unique ability
-   - Some new units and Nuke
-  - 90% Buildings replaced
-   - buff buildings and national wonders
-  - Improvement "The Village"
+2. Ventus
+   - All units replaced
+   - - 2× power, unique ability
+   - - Some new units and Nuke
+   - 90% Buildings replaced
+   - - buff buildings and national wonders
+   - Improvement "The Village"
 
 WARNING: if AI got these 2 nations they will have access to cheats
 
   
 Difficulty
 
-- God
+1. God
   - 1000× difficulty of Deity. AI start at Future Era
   
-- Free
+2.Free
 
  - Medieval Easy
    - 10× difficulty of Deity, AI start at Medieval Era
@@ -36,8 +36,8 @@ Difficulty
  
 Speed
 - Lng
-  -- Normal speed, disable religen
-  -- 5 peace duration
+  - - Normal speed, disable religen
+  - - 5 peace duration
 
 
 Era
