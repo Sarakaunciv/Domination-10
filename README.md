@@ -2,7 +2,7 @@
 
 Nations
 
-1. Regulor (nothing here. no buff, no bias)
+1. Regulor Raze×100(nothing else. no buff, no bias)
 
 2. Ventus
 - All units replaced
@@ -12,7 +12,7 @@ Nations
   - buff buildings and national wonders
 - Improvement "The Village"
 
-WARNING: if AI got these 2 nations they will have access to cheats
+WARNING: if AI got Ventus they will become Unstoppable
 
   
 Difficulty
