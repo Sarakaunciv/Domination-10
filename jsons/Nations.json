@@ -54,6 +54,7 @@
 			"[+25]% Strength <on [Free Industrial Hard] difficulty>","[+50]% Strength for cities <on [Free Industrial Hard] difficulty>",
 			"[+50]% Strength <on [Free Modern Immortal] difficulty>","[+100]% Strength for cities <on [Free Modern Immortal] difficulty>",
 			"[+100]% Strength <on [Free Atomic Death] difficulty>","[+200]% Strength for cities <on [Free Atomic Death] difficulty>",
+			"[+300]% Strength <on [God] difficulty>","[+600]% Strength for cities <on [God] difficulty>",
 			"Each city founded increases Science cost of Technologies [+100]% less than normal",
 			"Provides a [Walls] in your first [1] cities for free",
 			"Provides a [Cheat Powder] in your first [1] cities for free"],
@@ -90,6 +91,7 @@
 		"spyNames": ["Spying"]
 	}
 ]
+
 
 
 
