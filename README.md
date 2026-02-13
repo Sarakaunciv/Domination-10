@@ -21,8 +21,7 @@ Difficulty
   - 1000× difficulty of Deity. AI start at Future Era
   
 2.Free
-
-- Medieval Easy
+ - Medieval Easy
    - 10× difficulty of Deity, AI start at Medieval Era
   
  - Renaissance Normal
