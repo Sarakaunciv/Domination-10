@@ -20,6 +20,8 @@
 "Can be purchased for [160] [Faith] [in all cities]"],
 "upgradesTo": "Swordsman",
 "attackSound": "nonmetalhit"},
+{"name": "Great Warrior Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 1200,"range": 50,
+"obsoleteTech": "Iron Working","uniques": ["[19] free [Great Warrior] units appear","Can be purchased for [2400] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Blade","unitType": "Sword","uniqueTo": "Ventus","replaces": "Swordsman",
 "movement": 3,
@@ -34,6 +36,9 @@
 "Can be purchased for [280] [Faith] [in all cities]"],
 "upgradesTo": "Longswordsman",
 "attackSound": "metalhit"},
+{"name": "Blade Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 2250,"range": 50,
+"requiredTech": "Iron Working",
+"obsoleteTech": "Steel","uniques": ["[19] free [Blade] units appear","Can be purchased for [4200] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Silver Sharpener","replaces": "Longswordsman","uniqueTo": "Ventus","unitType": "Sword",
 "movement": 3,
@@ -48,6 +53,9 @@
 "Can be purchased for [420] [Faith] [in all cities]"],
 "requiredResource": "Iron",
 "attackSound": "metalhit"},
+{"name": "Silver Sharpener Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 3600,"range": 50,
+"requiredTech": "Steel",
+"obsoleteTech": "Gunpowder","uniques": ["[19] free [Silver Sharpener] units appear","Can be purchased for [6300] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Round Bullet","unitType": "Gunpowder","replaces": "Musketman","uniqueTo": "Ventus",
 "movement": 3,
@@ -61,6 +69,9 @@
 "Can be purchased for [480] [Faith] [in all cities]"],
 "upgradesTo": "Rifleman",
 "attackSound": "shot"},
+{"name": "Round Bullet Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 4500,"range": 50,
+"requiredTech": "Gunpowder",
+"obsoleteTech": "Rifling","uniques": ["[19] free [Round Bullet] units appear","Can be purchased for [7200] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "The Gun","unitType": "Gunpowder","replaces": "Rifleman","uniqueTo": "Ventus",
 "movement": 3,
@@ -74,6 +85,9 @@
 "Can be purchased for [680] [Faith] [in all cities]"],
 "upgradesTo": "Great War Infantry",
 "attackSound": "shot"},
+{"name": "The Gun Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 6750,"range": 50,
+"requiredTech": "Rifling",
+"obsoleteTech": "Replaceable Parts","uniques": ["[19] free [The Gun] units appear","Can be purchased for [10200] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Star Marked Infantry","unitType": "Gunpowder","replaces": "Great War Infantry","uniqueTo": "Ventus",
 "movement": 3,
@@ -87,6 +101,9 @@
 "obsoleteTech": "Plastics",
 "upgradesTo": "Infantry",
 "attackSound": "shot"},
+{"name": "Star Marked Infantry Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 9600,"range": 50,
+"requiredTech": "Replaceable Parts",
+"obsoleteTech": "Plastics","uniques": ["[19] free [Star Marked Infantry] units appear","Can be purchased for [15000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "True Infantry","unitType": "Gunpowder","replaces": "Infantry","uniqueTo": "Ventus",
 "movement": 3,
@@ -100,6 +117,9 @@
 "obsoleteTech": "Mobile Tactics",
 "upgradesTo": "Mechanized Infantry",
 "attackSound": "shot"},
+{"name": "True Infantry Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 11250,"range": 50,
+"requiredTech": "Plastics",
+"obsoleteTech": "Mobile Tactics","uniques": ["[19] free [True Infantry] units appear","Can be purchased for [21000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "The Sharp Archer","unitType": "Archery","uniqueTo": "Ventus","replaces": "Archer",
 "movement": 3,
@@ -115,6 +135,9 @@
 "Can be purchased for [140] [Faith] [in all cities]"],
 "upgradesTo": "Composite Bowman",
 "attackSound": "arrow"},
+{"name": "The Sharp Archer Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 1200,"range": 50,
+"requiredTech": "Archery",
+"obsoleteTech": "Construction","uniques": ["[19] free [The Sharp Archer] units appear","Can be purchased for [2100] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Crafted Long Bow","unitType": "Archery","uniqueTo": "Ventus",
 "movement": 3,
@@ -131,6 +154,9 @@
 "Can be purchased for [220] [Faith] [in all cities]"],
 "upgradesTo": "Crossbowman",
 "attackSound": "arrow"},
+{"name": "Crafted Long Bow Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 2250,"range": 50,
+"requiredTech": "Construction",
+"obsoleteTech": "Machinery","uniques": ["[19] free [Crafted Long Bow] units appear","Can be purchased for [3300] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Hard Crossbow","unitType": "Archery","uniqueTo": "Ventus",
 "movement": 3,
@@ -147,6 +173,9 @@
         "obsoleteTech": "Industrialization",
 "upgradesTo": "Gatling Gun",
 "attackSound": "arrow"},
+{"name": "Hard Crossbow Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 3600,"range": 50,
+"requiredTech": "Machinery",
+"obsoleteTech": "Industrialization","uniques": ["[19] free [Hard Crossbow] units appear","Can be purchased for [5400] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Sharp Shooter","unitType": "Ranged Gunpowder","uniqueTo": "Ventus",
 "movement": 3,
@@ -165,6 +194,9 @@
         "obsoleteTech": "Ballistics",
 "upgradesTo": "Machine Gun",
 "attackSound": "shot"},
+{"name": "Sharp Shooter Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 6750,"range": 50,
+"requiredTech": "Industrialization",
+"obsoleteTech": "Ballistics","uniques": ["[19] free [Sharp Shooter] units appear","Can be purchased for [9000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Long Ranged Shooter","unitType": "Ranged Gunpowder","uniqueTo": "Ventus",
 "movement": 3,
@@ -183,6 +215,9 @@
         "obsoleteTech": "Mobile Tactics",
 "upgradesTo": "Mechanized Infantry",
 "attackSound": "shot"},
+{"name": "Long Ranged Shooter Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 10500,"range": 50,
+"requiredTech": "Ballistics",
+"obsoleteTech": "Mobile Tactics","uniques": ["[19] free [Long Ranged Shooter] units appear","Can be purchased for [18000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Beyond Infantry","unitType": "Gunpowder","replaces": "Mechanized Infantry","uniqueTo": "Ventus",
 "movement": 5,
@@ -195,6 +230,9 @@
 "Can be purchased for [1800] [Faith] [in all cities]"],
 "requiredTech": "Mobile Tactics",
 "attackSound": "shot"},
+{"name": "Beyond Infantry Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 13500,"range": 50,
+"requiredTech": "Mobile Tactics",
+"uniques": ["[19] free [Beyond Infantry] units appear","Can be purchased for [27000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 
 {"name": "Para Teleporter","unitType": "Gunpowder","uniqueTo": "Ventus","replaces": "Paratrooper",
@@ -211,6 +249,9 @@
         "obsoleteTech": "Mobile Tactics",
 "upgradesTo": "Mechanized Infantry",
 "attackSound": "shot"},
+{"name": "Para Teleporter Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 11250,"range": 50,
+"requiredTech": "Radar",
+"obsoleteTech": "Mobile Tactics","uniques": ["[19] free [Para Teleporter] units appear","Can be purchased for [21000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Grand Marine","unitType": "Gunpowder","uniqueTo": "Ventus","replaces": "Marine",
 "movement": 3,
@@ -228,6 +269,9 @@
         "obsoleteTech": "Mobile Tactics",
 "upgradesTo": "Mechanized Infantry",
 "attackSound": "shot"},
+{"name": "Grand Marine Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 12000,"range": 50,
+"requiredTech": "Pharmaceuticals",
+"obsoleteTech": "Mobile Tactics","uniques": ["[19] free [Grand Marine] units appear","Can be purchased for [22500] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 
 {"name": "Massive Catapult","unitType": "Siege","replaces": "Catapult","uniqueTo": "Ventus",
@@ -338,6 +382,9 @@
 "Ignores Zone of Control",
 "Can be purchased for [260] [Faith] [in all cities]"],
 "attackSound": "nonmetalhit"},
+{"name": "Counter Pierce Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 1680,"range": 50,
+"requiredTech": "Bronze Working",
+"obsoleteTech": "Civil Service","uniques": ["[19] free [Counter Pierce] units appear","Can be purchased for [3900] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Spiker","replaces": "Pikeman","uniqueTo": "Ventus","unitType": "Sword",
 "movement": 4,
@@ -352,6 +399,9 @@
 "Can be purchased for [380] [Faith] [in all cities]"],
 "upgradesTo": "Lancer",
 "attackSound": "nonmetalhit"},
+{"name": "Spiker Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 2700,"range": 50,
+"requiredTech": "Civil Service",
+"obsoleteTech": "Metallurgy","uniques": ["[19] free [Spiker] units appear","Can be purchased for [5700] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Pass The Star","unitType": "Mounted","replaces": "Lancer","uniqueTo": "Ventus",
 "movement": 7,
@@ -368,6 +418,9 @@
 "Can be purchased for [700] [Faith] [in all cities]"],
 "upgradesTo": "Anti-Tank Gun",
 "attackSound": "metalhit"},
+{"name": "Pass The Star Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 5550,"range": 50,
+"requiredTech": "Metallurgy",
+"obsoleteTech": "Combined Arms","uniques": ["[19] free [Pass The Star] units appear","Can be purchased for [10500] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Armor Hole","unitType": "Gunpowder","replaces": "Anti-Tank Gun","uniqueTo": "Ventus",
 "movement": 4,
@@ -382,6 +435,9 @@
 "Can be purchased for [1300] [Faith] [in all cities]"],
 "upgradesTo": "Helicopter Gunship",
 "attackSound": "shot"},
+{"name": "Armor Hole Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 9000,"range": 50,
+"requiredTech": "Combined Arms",
+"obsoleteTech": "Computers","uniques": ["[19] free [Armor Hole] units appear","Can be purchased for [19500] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Floating Flame","unitType": "Helicopter","replaces": "Helicopter Gunship","uniqueTo": "Ventus",
 "movement": 10,
@@ -396,6 +452,9 @@
 "Ignores Zone of Control",
 "Can be purchased for [1560] [Faith] [in all cities]"],
 "attackSound": "shot"},
+{"name": "Floating Flame Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 12750,"range": 50,
+"requiredTech": "Computers",
+"uniques": ["[19] free [Floating Flame] units appear","Can be purchased for [23400] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 
 {"name": "Fast Horse Arrow","unitType": "Archery","uniqueTo": "Ventus","replaces": "Chariot Archer",
@@ -415,6 +474,9 @@
 "Ignores Zone of Control",
 "Can be purchased for [240] [Faith] [in all cities]"],
 "attackSound": "arrow"},
+{"name": "Fast Horse Arrow Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 1680,"range": 50,
+"requiredTech": "The Wheel",
+"obsoleteTech": "Chivalry","uniques": ["[19] free [Fast Horse Arrow] units appear","Can be purchased for [3600] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Strong Horse","unitType": "Mounted","uniqueTo": "Ventus","replaces": "Horseman",
 "movement": 6,
@@ -432,6 +494,9 @@
 "Ignores Zone of Control",
 "Can be purchased for [290] [Faith] [in all cities]"],
 "attackSound": "nonmetalhit"},
+{"name": "Strong Horse Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 2250,"range": 50,
+"requiredTech": "Horseback Riding",
+"obsoleteTech": "Chivalry","uniques": ["[19] free [Strong Horse] units appear","Can be purchased for [4350] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Horse Warrior","replaces": "Knight","uniqueTo": "Ventus","unitType": "Mounted",
 "movement": 6,
@@ -449,6 +514,9 @@
 "Ignores Zone of Control",
 "Can be purchased for [480] [Faith] [in all cities]"],
 "attackSound": "metalhit"},
+{"name": "Horse Warrior Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 3600,"range": 50,
+"requiredTech": "Chivalry",
+"obsoleteTech": "Military Science","uniques": ["[19] free [Horse Warrior] units appear","Can be purchased for [7200] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Horse Spear","unitType": "Mounted","replaces": "Cavalry","uniqueTo": "Ventus",
 "movement": 6,
@@ -466,6 +534,9 @@
 "Ignores Zone of Control",
 "Can be purchased for [820] [Faith] [in all cities]"],
 "attackSound": "metalhit"},
+{"name": "Horse Spear Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 6750,"range": 50,
+"requiredTech": "Military Science",
+"obsoleteTech": "Combustion","uniques": ["[19] free [Horse Spear] units appear","Can be purchased for [12300] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Barricade","unitType": "Armored","replaces": "Landship","uniqueTo": "Ventus",
 "movement": 6,
@@ -481,6 +552,9 @@
 "Ignores Zone of Control",
 "Can be purchased for [1560] [Faith] [in all cities]"],
 "attackSound": "tankshot"},
+{"name": "Barricade Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 10500,"range": 50,
+"requiredTech": "Combustion",
+"obsoleteTech": "Combined Arms","uniques": ["[19] free [Barricade] units appear","Can be purchased for [23400] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Thick Tank","unitType": "Armored","replaces": "Tank","uniqueTo": "Ventus",
 "movement": 7,
@@ -496,6 +570,9 @@
 "Ignores Zone of Control",
 "Can be purchased for [1820] [Faith] [in all cities]"],
 "attackSound": "tankshot"},
+{"name": "Thick Tank Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 11250,"range": 50,
+"requiredTech": "Combined Arms",
+"obsoleteTech": "Lasers","uniques": ["[19] free [Thick Tank] units appear","Can be purchased for [27300] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Armored Armor","unitType": "Armored","replaces": "Modern Armor","uniqueTo": "Ventus",
 "movement": 8,
@@ -511,6 +588,9 @@
 "Ignores Zone of Control",
 "Can be purchased for [2600] [Faith] [in all cities]"],
 "attackSound": "tankshot"},
+{"name": "Armored Armor Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 12750,"range": 50,
+"requiredTech": "Lasers",
+"obsoleteTech": "Nuclear Fusion","uniques": ["[19] free [Armored Armor] units appear","Can be purchased for [39000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Titan","unitType": "Armored","replaces": "Giant Death Robot","uniqueTo": "Ventus",
 "movement": 9,
@@ -526,6 +606,9 @@
 "May travel on Water tiles without embarking","Can pass through impassable tiles",
 "Eliminates combat penalty for attacking across a coast"],
 "attackSound": "tankshot"},
+{"name": "Titan Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 24000,"range": 50,
+"requiredTech": "Nuclear Fusion",
+"uniques": ["[19] free [Titan] units appear","Can be purchased for [67500] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Reen","unitType": "Armored","uniqueTo": "Ventus",
 "movement": 13,
@@ -548,6 +631,9 @@
 "May travel on Water tiles without embarking","Can pass through impassable tiles",
 "Eliminates combat penalty for attacking across a coast"],
 "attackSound": "tankshot"},
+{"name": "Reen Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 270000,"range": 50,
+"requiredTech": "Future Tech",
+"uniques": ["[19] free [Reen] units appear","Can be purchased for [225000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Death Army","unitType": "Gunpowder","uniqueTo": "Ventus",
 "movement": 4,
@@ -746,6 +832,9 @@
 "Can be purchased for [200] [Faith] [in all cities]"],
 "upgradesTo": "Caravel",
 "attackSound": "nonmetalhit"},
+{"name": "Battle Raft Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 1350,"range": 50,
+"requiredTech": "Sailing",
+"obsoleteTech": "Astronomy","uniques": ["[19] free [Battle Raft] units appear","Can be purchased for [3000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "War Boat","unitType": "Melee Water","uniqueTo": "Ventus","replaces": "Caravel",
 "movement": 6,
@@ -760,6 +849,9 @@
 "Can be purchased for [400] [Faith] [in all cities]"],
 "upgradesTo": "Ironclad",
 "attackSound": "artillery"},
+{"name": "War Boat Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 3600,"range": 50,
+"requiredTech": "Astronomy",
+"obsoleteTech": "Steam Power","uniques": ["[19] free [War Boat] units appear","Can be purchased for [6000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Metal Ship","unitType": "Melee Water","uniqueTo": "Ventus","replaces": "Ironclad",
 "movement": 5,
@@ -775,6 +867,9 @@
 "Can be purchased for [900] [Faith] [in all cities]"],
 "upgradesTo": "Destroyer",
 "attackSound": "shipguns"},
+{"name": "Metal Ship Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 7500,"range": 50,
+"requiredTech": "Steam Power",
+"obsoleteTech": "Combustion","uniques": ["[19] free [Metal Ship] units appear","Can be purchased for [13500] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Rotten Sea","unitType": "Melee Water","uniqueTo": "Ventus","replaces": "Destroyer",
 "movement": 9,
@@ -793,6 +888,9 @@
 "Ignores Zone of Control",
 "Can be purchased for [1500] [Faith] [in all cities]"],
 "attackSound": "shipguns"},
+{"name": "Rotten Sea Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 11250,"range": 50,
+"requiredTech": "Combustion",
+"uniques": ["[19] free [Rotten Sea] units appear","Can be purchased for [22500] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Sea Archer","unitType": "Ranged Water","uniqueTo": "Ventus","replaces": "Galleass",
 "movement": 5,
@@ -809,6 +907,9 @@
 "Can be purchased for [340] [Faith] [in all cities]"],
 "upgradesTo": "Frigate",
 "attackSound": "arrow"},
+{"name": "Sea Archer Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 3000,"range": 50,
+"requiredTech": "Compass",
+"obsoleteTech": "Navigation","uniques": ["[19] free [Sea Archer] units appear","Can be purchased for [5100] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Sea Cannon","unitType": "Ranged Water","uniqueTo": "Ventus","replaces": "Frigate",
 "movement": 8,
@@ -827,6 +928,9 @@
 "Can be purchased for [560] [Faith] [in all cities]"],
 "upgradesTo": "Battleship",
 "attackSound": "artillery"},
+{"name": "Sea Cannon Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 5550,"range": 50,
+"requiredTech": "Navigation",
+"obsoleteTech": "Electronics","uniques": ["[19] free [Sea Cannon] units appear","Can be purchased for [8400] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Sea Dominator","unitType": "Ranged Water","uniqueTo": "Ventus","replaces": "Battleship",
 "movement": 8,
@@ -845,6 +949,9 @@
 "Can be purchased for [1100] [Faith] [in all cities]"],
 "upgradesTo": "Missile Cruiser",
 "attackSound": "shipguns"},
+{"name": "Sea Dominator Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 11250,"range": 50,
+"requiredTech": "Electronics",
+"obsoleteTech": "Robotics","uniques": ["[19] free [Sea Dominator] units appear","Can be purchased for [16500] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Grand Battle Ship","unitType": "Ranged Water","uniqueTo": "Ventus","replaces": "Missile Cruiser",
 "movement": 11,
@@ -869,6 +976,9 @@
 "Ignores Zone of Control",
 "Can be purchased for [3000] [Faith] [in all cities]"],
 "attackSound": "shipguns"},
+{"name": "Grand Battle Ship Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 12750,"range": 50,
+"requiredTech": "Robotics",
+"uniques": ["[19] free [Grand Battle Ship] units appear","Can be purchased for [45000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Floating Plane Field","unitType": "Aircraft Carrier","uniqueTo": "Ventus","replaces": "Carrier",
 "movement": 8,
@@ -900,6 +1010,9 @@
 "Can be purchased for [1200] [Faith] [in all cities]"],
 "upgradesTo": "Nuclear Submarine",
 "attackSound": "torpedo"},
+{"name": "Drowned Metal Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 9750,"range": 50,
+"requiredTech": "Refrigeration",
+"obsoleteTech": "Telecommunications","uniques": ["[19] free [Drowned Metal] units appear","Can be purchased for [18000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Drowned Rotten Steel","unitType": "Submarine","uniqueTo": "Ventus","replaces": "Nuclear Submarine",
 "movement": 9,
@@ -917,6 +1030,9 @@
 "Ignores Zone of Control",
 "Can be purchased for [1700] [Faith] [in all cities]"],
 "attackSound": "torpedo"},
+{"name": "Drowned Rotten Steel Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"cost": 12750,"range": 50,
+"requiredTech": "Telecommunications",
+"uniques": ["[19] free [Drowned Rotten Steel] units appear","Can be purchased for [25500] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 
 {"name": "Eye","unitType": "Scout","uniqueTo": "Ventus","replaces": "Scout",
