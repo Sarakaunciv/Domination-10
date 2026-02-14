@@ -192,7 +192,6 @@
 "Ignores terrain cost",
 "Can move after attacking",
 "Ignores Zone of Control",
-"[6] free [Beyond Infantry] units appear",
 "Can be purchased for [1800] [Faith] [in all cities]"],
 "requiredTech": "Mobile Tactics",
 "attackSound": "shot"},
