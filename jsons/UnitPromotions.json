@@ -5,5 +5,14 @@
 		"unitTypes": [],
 		"row": 0,
 		"column": 0
+	},
+	{
+		"name": "Fight Evasion",
+		"prerequisites": [],
+		"uniques": ["Damage taken from interception reduced by [98]%", "[+200]% weight to this choice for AI decisions"],
+		"unitTypes": ["Fighter"],
+        "column": 17,
+        "row": 4
 	}
+
 ]
