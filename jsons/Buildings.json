@@ -5,6 +5,8 @@
 {"name": "Military Academy","hurryCostModifier": 0,"maintenance": 1,"requiredBuilding": "Armory","uniques": ["New [Military] units start with [1000] XP [in this city]", "Destroyed when the city is captured"],"requiredTech": "Military Science"},
 {"name": "Brandenburg Gate","culture": 3,"greatPersonPoints": {"Great Scientist": 2},"isWonder": true,"uniques": ["Free [Great General] appears", "New [Military] units start with [1000] XP [in all city]"],"requiredTech": "Military Science","quote": "'Pale Death beats equally at the poor man's gate and at the palaces of kings.' - Horace"},
 
+{"name": "War Improver","cost": 5000,"requiredBuilding": "Cheat Lock","uniques": ["Unbuildable","Remove [War Improver] [in this city]","[+1]% Strength <for [99999] turns>","[+1]% Strength for cities <for [99999] turns>"],"requiredTech": "Future Tech"},
+
 {"name": "Cheat Lock","cost": 0,"uniques": ["[+25 Production]","Provides [50] [Horses]","Provides [50] [Iron]","Provides [50] [Coal]","Provides [50] [Oil]","Provides [50] [Aluminum]","Provides [50] [Uranium]","Only available <in cities without a [Cheat Powder]>","Destroyed when the city is captured"]},
 {"name": "Cheat Key","cost": 0,"requiredBuilding": "Cheat Lock","uniques": ["[+100 Gold]","Destroyed when the city is captured"]},
 {"name": "Cheat Powder","cost": 0,"requiredBuilding": "Cheat Key","uniques": ["Destroyed when the city is captured","Only available <in cities without a [Cheat Lock]>"]},
