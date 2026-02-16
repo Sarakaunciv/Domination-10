@@ -11,8 +11,8 @@
 		"prerequisites": [],
 		"uniques": ["Damage taken from interception reduced by [99]%", "[+200]% weight to this choice for AI decisions"],
 		"unitTypes": ["Fighter"],
-        "column": 17,
-        "row": 4
+        "column": 20,
+        "row": 3
 	}
 
 ]
