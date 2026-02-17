@@ -33,6 +33,17 @@
 "Discover [Telecommunications]","Discover [Mobile Tactics]","Discover [Advanced Ballistics]","Discover [Satellites]","Discover [Robotics]","Discover [Lasers]","Discover [Globalization]","Discover [Particle Physics]","Discover [Nuclear Fusion]","Discover [Nanotechnology]","Discover [Stealth]",
 "Discover [Future Tech]"]},
 
+    {"name": "Ventus Awakening",
+"uniqueTo": "Ventus",
+"cost": 500,
+"maintenance": 0,
+"uniques": [
+			"[Faith] cost of purchasing [Military] units [-25]% <on [Free Industrial Hard] difficulty>",
+			"[Faith] cost of purchasing [Military] units [-50]% <on [Free Modern Immortal] difficulty>",
+			"[Faith] cost of purchasing [Military] units [-75]% <on [Free Atomic Death] difficulty>",
+			"[Faith] cost of purchasing [Military] units [-92]% <on [God] difficulty>",
+"Destroyed when the city is captured"]},
+
 {"name": "Horse Hut",
 "uniqueTo": "Ventus",
 "replaces": "Stable",
