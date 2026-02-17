@@ -232,7 +232,8 @@
 "replaces": "Monument",
 "cost": 40,
 "isNationalWonder": true,
-"uniques": ["[+2 Culture] [in all cities]","Destroyed when the city is captured"]},
+"uniques": ["[+2 Culture] [in all cities]","Destroyed when the city is captured"],
+    "requiredTech": "Agriculture"},
     
     {"name": "Stain II",
 "uniqueTo": "Ventus",
