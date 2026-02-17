@@ -1,0 +1,11 @@
+[
+    {
+        "name": "discover holy symbols",
+        "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)",
+        "uniques": [
+            "Gain [1000] [Faith]",
+            "Play [choir] sound"
+        ],
+		"color": "#CDDDF4"
+    }
+]
