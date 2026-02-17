@@ -13,6 +13,14 @@
 		"unitTypes": ["Fighter"],
         "column": 20,
         "row": 3
+	},
+	{
+		"name": "Chain Lightning",
+		"prerequisites": [],
+		"uniques": ["Ignores terrain cost","[This Unit] gains [2] movement <upon defeating a [All] unit>"],
+		"unitTypes": [],
+        "column": 20,
+        "row": 4
 	}
 
 ]
