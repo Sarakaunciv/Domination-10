@@ -38,7 +38,7 @@
     {"name": "Ventus Awakening",
 "uniqueTo": "Ventus",
 "cityStrength": 50,
-"cost": 500,
+"cost": 100,
 "maintenance": 0,
 "uniques": [
 	"[Faith] cost of purchasing [Military] units [-15]% <on [Free Industrial Hard] difficulty>",
