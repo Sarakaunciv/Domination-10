@@ -46,7 +46,9 @@ Era
 Global Uniques
 - embark 1 movement and tech add movement
 - Can move immediately once bought
+- build all improvement at 10 times rate
 - disable religions
+- can not gain spy for episonage
 - Raze anything
 - no xp babarian limits
 - 5 minimum war duration
