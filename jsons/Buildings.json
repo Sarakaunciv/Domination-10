@@ -33,6 +33,8 @@
 "Discover [Telecommunications]","Discover [Mobile Tactics]","Discover [Advanced Ballistics]","Discover [Satellites]","Discover [Robotics]","Discover [Lasers]","Discover [Globalization]","Discover [Particle Physics]","Discover [Nuclear Fusion]","Discover [Nanotechnology]","Discover [Stealth]",
 "Discover [Future Tech]"]},
 
+{"name": "THE GRAND ABYSS Cheat","uniqueTo": "Ventus","cost": 0,"requiredBuilding": "Cheat Powder","maintenance": 0,"uniques": ["[6] free [THE GRAND ABYSS] units appear","Destroyed when the city is captured"],"requiredTech": "Agriculture"}
+
     {"name": "Ventus Awakening",
 "uniqueTo": "Ventus",
 "cityStrength": 50,
@@ -413,13 +415,4 @@
 "isNationalWonder": true,
 "uniques": ["[+10 Culture]","[+100]% [Culture] [in all cities]","Destroyed when the city is captured"],
     "requiredTech": "Architecture"},
-
-{"name": "THE GRAND ABYSS Cheat",
-"uniqueTo": "Ventus",
-"cost": 0,
-"maintenance": 0,
-"uniques": ["[6] free [THE GRAND ABYSS] units appear",
-"Destroyed when the city is captured"],
-    "requiredTech": "Agriculture"
-}
 ]
