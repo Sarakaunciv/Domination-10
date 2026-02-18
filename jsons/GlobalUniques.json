@@ -4,11 +4,17 @@
 	  "Can build [All] improvements at a [+900]% rate",
 	  "[1] Movement point cost to disembark",
 	  "[1] Movement point cost to embark",
+	  "[1] Movement <for [Land] units> <after discovering [The Wheel]>",
+	  "[1] Movement <for [Land] units> <after discovering [Machinery]>",
+	  "[1] Movement <for [Land] units> <after discovering [Industrialization]>",
 	  "[1] Movement <when [Embarked]> <after discovering [Compass]>",
 	  "[1] Movement <when [Embarked]> <after discovering [Navigation]>",
-	  "[1] Movement <when [Embarked]> <after discovering [Steam Power]>",
-	  "[1] Movement <when [Embarked]> <after discovering [Combustion]>",
-	  "[1] Movement <when [Embarked]> <after discovering [Robotics]>"
+	  "[2] Movement <when [Embarked]> <after discovering [Steam Power]>",
+	  "[2] Movement <when [Embarked]> <after discovering [Combustion]>",
+	  "[2] Movement <when [Embarked]> <after discovering [Robotics]>",
+	  "[1] Movement <for [Water] units> <after discovering [Steam Power]>",
+	  "[1] Movement <for [Water] units> <after discovering [Combustion]>",
+	  "[1] Movement <for [Water] units> <after discovering [Robotics]>"
   ],
   "unitUniques": ["Can move immediately once bought"]
 }
