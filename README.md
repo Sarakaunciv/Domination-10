@@ -64,6 +64,7 @@ Resource
 
 promotion
 - disable heal instantly
+- Reduce damage from interception for fighters
 
 
 Units
