@@ -41,10 +41,10 @@
 "cost": 100,
 "maintenance": 0,
 "uniques": [
-	"[Faith] cost of purchasing [Military] units [-15]% <on [Free Industrial Hard] difficulty>",
-	"[Faith] cost of purchasing [Military] units [-35]% <on [Free Modern Immortal] difficulty>",
-	"[Faith] cost of purchasing [Military] units [-60]% <on [Free Atomic Death] difficulty>",
-	"[Faith] cost of purchasing [Military] units [-85]% <on [God] difficulty>",
+	"[Faith] cost of purchasing [Military] units [-25]% <on [Free Industrial Hard] difficulty>",
+	"[Faith] cost of purchasing [Military] units [-50]% <on [Free Modern Immortal] difficulty>",
+	"[Faith] cost of purchasing [Military] units [-75]% <on [Free Atomic Death] difficulty>",
+	"[Faith] cost of purchasing [Military] units [-94]% <on [God] difficulty>",
 	"Only available <in [Capital] cities>","Destroyed when the city is captured"]},
 
 {"name": "Horse Hut",
