@@ -62,7 +62,8 @@ Resource
 - very abundance strategic resource
 
 
-promotion disable heal instantly
+promotion
+- disable heal instantly
 
 
 Units
