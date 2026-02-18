@@ -11,6 +11,7 @@
         "embarkDefense": 8,
         "startPercent": 0,
         "citySound": "cityAncient",
+        "uniques": ["May not generate great prophet equivalents naturally"],
         "iconRGB": [255, 87, 35]
     },
     {
@@ -28,6 +29,7 @@
         "embarkDefense": 14,
         "startPercent": 0,
         "citySound": "cityClassical",
+        "uniques": ["May not generate great prophet equivalents naturally"],
         "iconRGB": [233, 31, 99]
     },
     {
@@ -47,7 +49,7 @@
         "embarkDefense": 18,
         "startPercent": 0,
         "citySound": "cityMedieval",
-        "uniques": ["Can build [All] improvements at a [+25]% rate"],
+        "uniques": ["May not generate great prophet equivalents naturally"]
         "iconRGB": [157, 39, 176]
     },
     {
@@ -69,8 +71,7 @@
         "embarkDefense": 24,
         "startPercent": 0,
         "citySound": "cityRenaissance",
-        "uniques": ["Can build [All] improvements at a [+50]% rate",
-            "Every major Civilization gains a spy once a civilization enters this era"],
+        "uniques": ["May not generate great prophet equivalents naturally"]
         "iconRGB": [104, 58, 183]
     },
     {
@@ -95,11 +96,7 @@
         "startPercent": 0,
         "citySound": "cityIndustrial",
         "iconRGB": [63, 81, 182],
-        "uniques": ["Can build [All] improvements at a [+75]% rate",
-            "May not generate great prophet equivalents naturally",
-            "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
-            "Every major Civilization gains a spy once a civilization enters this era"
-        ]
+        "uniques": ["May not generate great prophet equivalents naturally"]
     },
     {
         "name": "Modern era",
@@ -125,11 +122,7 @@
         "startPercent": 0,
         "citySound": "cityModern",
         "iconRGB": [33, 150, 243],
-        "uniques": ["Can build [All] improvements at a [+100]% rate",
-            "May not generate great prophet equivalents naturally",
-            "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
-            "Every major Civilization gains a spy once a civilization enters this era"
-        ]
+        "uniques": ["May not generate great prophet equivalents naturally"]
     },
     {
         "name": "Atomic era",
@@ -157,11 +150,7 @@
         "startPercent": 0,
         "citySound": "cityAtomic",
         "iconRGB": [0, 150, 136],
-        "uniques": ["Can build [All] improvements at a [+150]% rate",
-            "May not generate great prophet equivalents naturally",
-            "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
-            "Every major Civilization gains a spy once a civilization enters this era"
-        ]
+        "uniques": ["May not generate great prophet equivalents naturally"]
     },
     {
         "name": "Information era",
@@ -191,11 +180,7 @@
         "startPercent": 0,
         "citySound": "cityInformation",
         "iconRGB": [76, 176, 81],
-        "uniques": ["Can build [All] improvements at a [+200]% rate",
-            "May not generate great prophet equivalents naturally",
-            "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
-            "Every major Civilization gains a spy once a civilization enters this era"
-        ]
+        "uniques": ["May not generate great prophet equivalents naturally"]
     },
     {
         "name": "Future era",
@@ -225,9 +210,6 @@
         "startPercent": 0,
         "citySound": "cityFuture",
         "iconRGB": [76, 176, 81],
-        "uniques": ["Can build [All] improvements at a [+900]% rate","May not generate great prophet equivalents naturally",
-            "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
-            "Every major Civilization gains a spy once a civilization enters this era"
-        ]
+        "uniques": ["May not generate great prophet equivalents naturally"]
     }
 ]
