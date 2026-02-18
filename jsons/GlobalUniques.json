@@ -1,13 +1,14 @@
 {
   "name": "GlobalUniques",
   "uniques": [
-			"[1] Movement point cost to disembark",
-			"[1] Movement point cost to embark",
-			"[1] Movement <when [Embarked]> <after discovering [Compass]>",
-			"[1] Movement <when [Embarked]> <after discovering [Navigation]>",
-			"[1] Movement <when [Embarked]> <after discovering [Steam Power]>",
-			"[1] Movement <when [Embarked]> <after discovering [Combustion]>",
-			"[1] Movement <when [Embarked]> <after discovering [Robotics]>"
+	  "Can build [All] improvements at a [+900]% rate",
+	  "[1] Movement point cost to disembark",
+	  "[1] Movement point cost to embark",
+	  "[1] Movement <when [Embarked]> <after discovering [Compass]>",
+	  "[1] Movement <when [Embarked]> <after discovering [Navigation]>",
+	  "[1] Movement <when [Embarked]> <after discovering [Steam Power]>",
+	  "[1] Movement <when [Embarked]> <after discovering [Combustion]>",
+	  "[1] Movement <when [Embarked]> <after discovering [Robotics]>"
   ],
   "unitUniques": ["Can move immediately once bought"]
 }
