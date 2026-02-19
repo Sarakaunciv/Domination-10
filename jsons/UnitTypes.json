@@ -46,7 +46,7 @@
     {
         "name": "Bomber",
         "movementType": "Air",
-        "uniques": ["Aircraft","[-90000]% Strength <vs [Submarine] units> <when attacking>","[-90000]% Strength <vs [Helicopter] units> <when attacking>",]
+        "uniques": ["Aircraft","[-90000]% Strength <vs [Submarine] units> <when attacking>","[-90000]% Strength <vs [Helicopter] units> <when attacking>"]
     },
   {
     "name": "Civilian",
