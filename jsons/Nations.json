@@ -24,7 +24,7 @@
 		RoadCost-62 Culture+100 Faith-100 Exp-100
 		KillCity.gold KillUnit.gold,culture,faith
 		UpgradeCost0 Heal10+5 Embark1Move
-		Promotion.Supply,March,IndirectFire -10happyNoPenalty CityStrength+100
+		Promotion.Supply,March,IndirectFire +125embarkDefense -10happyNoPenalty CityStrength+100
 		'No damage penalty for wounded units''No defensive terrain penalty'
 		CityDifficultyStrength"
 		"uniques": ["Cities are razed [100] times as fast",
@@ -94,6 +94,7 @@
 		"spyNames": ["Spying"]
 	}
 ]
+
 
 
 
