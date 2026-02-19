@@ -849,7 +849,7 @@
 "attackSound": "nonmetalhit"},
 {"name": "Battle Raft Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 1350,"range": 50,
 "requiredTech": "Sailing",
-"obsoleteTech": "Astronomy","uniques": ["[This Unit] is destroyed","[19] free [Battle Raft] units appear","Can be purchased for [3000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
+"obsoleteTech": "Astronomy","uniques": ["[This Unit] is destroyed","[19] free [Battle Raft] units appear","Can be purchased for [3000] [Faith] [in all cities]","Only available <in [Coastal] cities>"],"attackSound": "nonmetalhit"},
 
 {"name": "War Boat","unitType": "Melee Water","uniqueTo": "Ventus","replaces": "Caravel",
 "movement": 6,
@@ -866,7 +866,7 @@
 "attackSound": "artillery"},
 {"name": "War Boat Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 3600,"range": 50,
 "requiredTech": "Astronomy",
-"obsoleteTech": "Steam Power","uniques": ["[This Unit] is destroyed","[19] free [War Boat] units appear","Can be purchased for [6000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
+"obsoleteTech": "Steam Power","uniques": ["[This Unit] is destroyed","[19] free [War Boat] units appear","Can be purchased for [6000] [Faith] [in all cities]","Only available <in [Coastal] cities>"],"attackSound": "nonmetalhit"},
 
 {"name": "Metal Ship","unitType": "Melee Water","uniqueTo": "Ventus","replaces": "Ironclad",
 "movement": 5,
@@ -884,7 +884,7 @@
 "attackSound": "shipguns"},
 {"name": "Metal Ship Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 7500,"range": 50,
 "requiredTech": "Steam Power",
-"obsoleteTech": "Combustion","uniques": ["[This Unit] is destroyed","[19] free [Metal Ship] units appear","Can be purchased for [13500] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
+"obsoleteTech": "Combustion","uniques": ["[This Unit] is destroyed","[19] free [Metal Ship] units appear","Can be purchased for [13500] [Faith] [in all cities]","Only available <in [Coastal] cities>"],"attackSound": "nonmetalhit"},
 
 {"name": "Rotten Sea","unitType": "Melee Water","uniqueTo": "Ventus","replaces": "Destroyer",
 "movement": 9,
@@ -905,7 +905,7 @@
 "attackSound": "shipguns"},
 {"name": "Rotten Sea Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 11250,"range": 50,
 "requiredTech": "Combustion",
-"uniques": ["[This Unit] is destroyed","[19] free [Rotten Sea] units appear","Can be purchased for [22500] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
+"uniques": ["[This Unit] is destroyed","[19] free [Rotten Sea] units appear","Can be purchased for [22500] [Faith] [in all cities]","Only available <in [Coastal] cities>"],"attackSound": "nonmetalhit"},
 
 {"name": "Sea Archer","unitType": "Ranged Water","uniqueTo": "Ventus","replaces": "Galleass",
 "movement": 5,
@@ -924,7 +924,7 @@
 "attackSound": "arrow"},
 {"name": "Sea Archer Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 3000,"range": 50,
 "requiredTech": "Compass",
-"obsoleteTech": "Navigation","uniques": ["[This Unit] is destroyed","[19] free [Sea Archer] units appear","Can be purchased for [5100] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
+"obsoleteTech": "Navigation","uniques": ["[This Unit] is destroyed","[19] free [Sea Archer] units appear","Can be purchased for [5100] [Faith] [in all cities]","Only available <in [Coastal] cities>"],"attackSound": "nonmetalhit"},
 
 {"name": "Sea Cannon","unitType": "Ranged Water","uniqueTo": "Ventus","replaces": "Frigate",
 "movement": 8,
@@ -945,7 +945,7 @@
 "attackSound": "artillery"},
 {"name": "Sea Cannon Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 5550,"range": 50,
 "requiredTech": "Navigation",
-"obsoleteTech": "Electronics","uniques": ["[This Unit] is destroyed","[19] free [Sea Cannon] units appear","Can be purchased for [8400] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
+"obsoleteTech": "Electronics","uniques": ["[This Unit] is destroyed","[19] free [Sea Cannon] units appear","Can be purchased for [8400] [Faith] [in all cities]","Only available <in [Coastal] cities>"],"attackSound": "nonmetalhit"},
 
 {"name": "Sea Dominator","unitType": "Ranged Water","uniqueTo": "Ventus","replaces": "Battleship",
 "movement": 8,
@@ -966,7 +966,7 @@
 "attackSound": "shipguns"},
 {"name": "Sea Dominator Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 11250,"range": 50,
 "requiredTech": "Electronics",
-"obsoleteTech": "Robotics","uniques": ["[This Unit] is destroyed","[19] free [Sea Dominator] units appear","Can be purchased for [16500] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
+"obsoleteTech": "Robotics","uniques": ["[This Unit] is destroyed","[19] free [Sea Dominator] units appear","Can be purchased for [16500] [Faith] [in all cities]","Only available <in [Coastal] cities>"],"attackSound": "nonmetalhit"},
 
 {"name": "Grand Battle Ship","unitType": "Ranged Water","uniqueTo": "Ventus","replaces": "Missile Cruiser",
 "movement": 11,
@@ -993,7 +993,7 @@
 "attackSound": "shipguns"},
 {"name": "Grand Battle Ship Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 12750,"range": 50,
 "requiredTech": "Robotics",
-"uniques": ["[This Unit] is destroyed","[19] free [Grand Battle Ship] units appear","Can be purchased for [45000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
+"uniques": ["[This Unit] is destroyed","[19] free [Grand Battle Ship] units appear","Can be purchased for [45000] [Faith] [in all cities]","Only available <in [Coastal] cities>"],"attackSound": "nonmetalhit"},
 
 {"name": "Floating Plane Field","unitType": "Aircraft Carrier","uniqueTo": "Ventus","replaces": "Carrier",
 "movement": 8,
@@ -1027,7 +1027,7 @@
 "attackSound": "torpedo"},
 {"name": "Drowned Metal Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 9750,"range": 50,
 "requiredTech": "Refrigeration",
-"obsoleteTech": "Telecommunications","uniques": ["[This Unit] is destroyed","[19] free [Drowned Metal] units appear","Can be purchased for [18000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
+"obsoleteTech": "Telecommunications","uniques": ["[This Unit] is destroyed","[19] free [Drowned Metal] units appear","Can be purchased for [18000] [Faith] [in all cities]","Only available <in [Coastal] cities>"],"attackSound": "nonmetalhit"},
 
 {"name": "Drowned Rotten Steel","unitType": "Submarine","uniqueTo": "Ventus","replaces": "Nuclear Submarine",
 "movement": 9,
@@ -1047,7 +1047,7 @@
 "attackSound": "torpedo"},
 {"name": "Drowned Rotten Steel Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 12750,"range": 50,
 "requiredTech": "Telecommunications",
-"uniques": ["[This Unit] is destroyed","[19] free [Drowned Rotten Steel] units appear","Can be purchased for [25500] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
+"uniques": ["[This Unit] is destroyed","[19] free [Drowned Rotten Steel] units appear","Can be purchased for [25500] [Faith] [in all cities]","Only available <in [Coastal] cities>"],"attackSound": "nonmetalhit"},
 
 
 {"name": "Eye","unitType": "Scout","uniqueTo": "Ventus","replaces": "Scout",
@@ -1119,6 +1119,8 @@
 "Unbuildable",
 "Can be purchased for [1000] [Faith] [in all cities]"],
 "movement": 10},
+{"name": "Grand General Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"range": 50,
+"uniques": ["[This Unit] is destroyed","[19] free [Grand General] units appear","Can be purchased for [19000] [Faith] [in all cities]","Unbuildable"],"attackSound": "nonmetalhit"},
 
 {"name": "Tiny Blast","unitType": "Atomic Bomber","uniqueTo": "Ventus",
 "movement": 1,
