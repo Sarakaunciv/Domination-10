@@ -31,7 +31,7 @@
     "uniques": ["[-50]% Strength <vs cities> <when attacking>",
       "[-90000]% Strength <vs [Helicopter] units> <when attacking>",
       "Can enter ice tiles",
-      "Invisible to non-adjacent units",
+      "Invisible to others",
       "Can see invisible [Submarine] units"]
   },
 {
