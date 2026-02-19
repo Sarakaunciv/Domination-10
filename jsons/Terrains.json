@@ -2,13 +2,35 @@
   {
 		"name": "Mountain",
 		"type": "Land",
-		"impassable": true,
-		"defenceBonus": 0.50,
+		"movementCost": 3,
+		"impassable": false,
+		"defenceBonus": 0.75,
 		"RGB": [102, 102, 102],
 		"uniques": ["Rough terrain",
+			"[+25] Strength for cities built on this terrain",
             "Has an elevation of [2] for visibility calculations",
             "Occurs in chains at high elevations",
             "Always Fertility [-2] for Map Generation",
-            "Considered [Undesirable] when determining start locations"]
-	}
+            "Considered [Desirable] when determining start locations"]
+	},
+		{
+		"name": "Oasis",
+		"type": "TerrainFeature",
+		"food": 3,
+		"gold": 1,
+		"movementCost": 1,
+		"occursOn": ["Desert"],
+		"uniques": ["Fresh water", "Rare feature",
+			"Always Fertility [4] for Map Generation",
+			"Considered [Food] when determining start locations",
+			"Considered [Desirable] when determining start locations"],
+        "civilopediaText": [
+            {"text": "Oases provide fresh water to adjacent tiles, allowing farming where it would otherwise not be possible (similar to Rivers and Lakes)."},
+            {"text": "Rivers", "link":"Terrain/River"},
+            {"text": "Lakes", "link":"Terrain/Lakes"},
+            {"text": "Farm", "link":"Improvement/Farm"},
+            {"text": "Civil Service", "link":"Technology/Civil Service"},
+            {"text": "Fertilizer", "link":"Technology/Fertilizer"}
+        ]
+	},
 ]
