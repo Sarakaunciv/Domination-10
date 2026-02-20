@@ -1088,6 +1088,8 @@
 "cost": 90,
 "uniques": ["Founds a new city <by consuming this unit>",
 "Ignores terrain cost"]},
+{"name": "Set Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 720,"range": 50,
+"uniques": ["[This Unit] is destroyed","[8] free [Set] units appear"],"attackSound": "nonmetalhit"},
 
 {"name": "Villager","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Worker",
 "movement": 10,
@@ -1100,7 +1102,9 @@
 "Can pass through impassable tiles",
 "Can build [Repair] improvements on tiles",
 "Can build [Repair] improvements at a [+100]% rate"]},
-
+{"name": "Villager Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 1200,"range": 50,
+"uniques": ["[This Unit] is destroyed","[8] free [Villager] units appear"],"attackSound": "nonmetalhit"},
+        
 {"name": "Fleg","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Work Boats",
 "movement": 10,
 "cost": 1500,
@@ -1110,7 +1114,9 @@
 "Ignores terrain cost",
 "May travel on Water tiles without embarking",
 "Can pass through impassable tiles"]},
-
+{"name": "Fleg Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 900,"range": 50,
+"uniques": ["[This Unit] is destroyed","[8] free [Fleg] units appear"],"attackSound": "nonmetalhit"},
+        
 {"name": "Grand General","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Great General",
 "uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",
 "Can instantly construct a [Citadel] improvement <by consuming this unit>",
