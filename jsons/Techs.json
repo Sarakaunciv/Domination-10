@@ -62,6 +62,14 @@
 				"uniques": [],
 				"quote": "'Those who can't defend, won't survive.' - Butter of Ventus",
                 "civilopediaText": [{"text": "Idea of Ventus"}]
+			},
+			{
+				"name": "Abyss",
+				"row": 9,
+				"prerequisites": ["Future Tech"],
+				"uniques": ["Can be continually researched"],
+				"quote": "'Darkness devours everything.' - Butter of Ventus",
+                "civilopediaText": [{"text": "Idea of Ventus"}]
 			}
 		]
 	},
@@ -78,14 +86,6 @@
 				"prerequisites": ["Teleportation","Force Field","Airblast Sonic Drill","Naval Grand Fotress","Cosmic Plating"],
 				"uniques": [],
 				"quote": "'Those who in my way, must perish.' - Butter of Ventus",
-                "civilopediaText": [{"text": "Idea of Ventus"}]
-			},
-			{
-				"name": "Abyss",
-				"row": 9,
-				"prerequisites": ["Future Tech"],
-				"uniques": [],
-				"quote": "'Darkness devours everything.' - Butter of Ventus",
                 "civilopediaText": [{"text": "Idea of Ventus"}]
 			}
 		]
