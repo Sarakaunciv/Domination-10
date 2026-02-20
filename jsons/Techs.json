@@ -1,0 +1,93 @@
+[
+	{
+		"columnNumber": 17,
+		"era": "Future era",
+		"techCost": 100,
+		"buildingCost": 750,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Future Tech",
+				"row": 5,
+				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
+				"uniques": [],
+				"quote": "'I think we agree, the past is over.' - George W. Bush",
+                "civilopediaText": [{"text": "Who knows what the future holds?"}]
+			}
+		]
+	},
+	{
+		"columnNumber": 18,
+		"era": "Future era",
+		"techCost": 40000,
+		"buildingCost": 750,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Teleportation",
+				"row": 3,
+				"prerequisites": ["Future Tech"],
+				"uniques": [],
+				"quote": "'Those who bound by the law of nature, won't grow stronger.' - Butter of Ventus",
+                "civilopediaText": [{"text": "Idea of Ventus"}]
+			},
+			{
+				"name": "Force Field",
+				"row": 4,
+				"prerequisites": ["Future Tech"],
+				"uniques": [],
+				"quote": "'Those who can't fly, won't be free.' - Butter of Ventus",
+                "civilopediaText": [{"text": "Idea of Ventus"}]
+			},
+			{
+				"name": "Airblast Sonic Drill",
+				"row": 5,
+				"prerequisites": ["Future Tech"],
+				"uniques": [],
+				"quote": "'Those who can't go, won't reach.' - Butter of Ventus",
+                "civilopediaText": [{"text": "Idea of Ventus"}]
+			},
+			{
+				"name": "Naval Grand Fotress",
+				"row": 6,
+				"prerequisites": ["Future Tech"],
+				"uniques": [],
+				"quote": "'Those who can't Float, will sink.' - Butter of Ventus",
+                "civilopediaText": [{"text": "Idea of Ventus"}]
+			},
+			{
+				"name": "Cosmic Plating",
+				"row": 7,
+				"prerequisites": ["Future Tech"],
+				"uniques": [],
+				"quote": "'Those who can't defend, won't survive.' - Butter of Ventus",
+                "civilopediaText": [{"text": "Idea of Ventus"}]
+			}
+		]
+	},
+	{
+		"columnNumber": 19,
+		"era": "Future era",
+		"techCost": 120000,
+		"buildingCost": 750,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Ventus Tech",
+				"row": 5,
+				"prerequisites": ["Teleportation","Force Field","Airblast Sonic Drill","Naval Grand Fotress","Cosmic Plating"],
+				"uniques": [],
+				"quote": "'Those who in my way, must perish.' - Butter of Ventus",
+                "civilopediaText": [{"text": "Idea of Ventus"}]
+			},
+			{
+				"name": "Abyss",
+				"row": 9,
+				"prerequisites": ["Future Tech"],
+				"uniques": [],
+				"quote": "'Darkness devours everything.' - Butter of Ventus",
+                "civilopediaText": [{"text": "Idea of Ventus"}]
+			}
+		]
+	}
+]
