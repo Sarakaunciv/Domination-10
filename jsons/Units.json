@@ -1028,6 +1028,7 @@
 "range": 4,
 "cost": 850,
 "requiredTech": "Telecommunications",
+"obsoleteTech": "Naval Grand Fotress",
 "uniques": ["[4] additional attacks per turn",
 "[-25]% Strength <vs cities> <when attacking>",
 "[+75]% Strength <when attacking>",
@@ -1039,7 +1040,7 @@
 "attackSound": "torpedo"},
 {"name": "Drowned Rotten Steel Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 12750,"range": 50,
 "requiredTech": "Telecommunications",
-"uniques": ["[This Unit] is destroyed","[19] free [Drowned Rotten Steel] units appear","Can be purchased for [25500] [Faith] [in all cities]","Only available <in [Coastal] cities>"],"attackSound": "nonmetalhit"},
+"obsoleteTech": "Naval Grand Fotress","uniques": ["[This Unit] is destroyed","[19] free [Drowned Rotten Steel] units appear","Can be purchased for [25500] [Faith] [in all cities]","Only available <in [Coastal] cities>"],"attackSound": "nonmetalhit"},
 
 {"name": "Teleporting Bomber","unitType": "Gunpowder","uniqueTo": "Ventus",
 "movement": 1,
