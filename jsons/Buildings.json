@@ -336,7 +336,7 @@
 	"Gain a free [Rant P3] [in this city]",
 	"Gain a free [Rant P4] [in this city]",
 	"Gain a free [Rant P5] [in this city]"],
-    "requiredTech": "Philosophy"},
+    "requiredTech": "Robotics"},
  
 {"name": "Mass Farm",
 "uniqueTo": "Ventus",
@@ -379,7 +379,7 @@
 	"Gain a free [AQD] [in this city]",
 	"Gain a free [Rant C] [in this city]",
 	"Gain a free [Rant G] [in this city]"],
-    "requiredTech": "Philosophy"},
+    "requiredTech": "Biology"},
 
 {"name": "Pack Pack","uniqueTo": "Ventus","cost": 5385,"uniques": [
 	"Gain a free [Defense Pack] [in this city]",
@@ -388,7 +388,7 @@
 	"Gain a free [True Pack] [in this city]",
 	"Gain a free [Rant P Pack] [in this city]",
 	"Gain a free [Mix Pack] [in this city]"],
-    "requiredTech": "Philosophy"},
+    "requiredTech": "Robotics"},
 
 {"name": "Fact Smith",
 "uniqueTo": "Ventus",
