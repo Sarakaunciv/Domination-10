@@ -536,6 +536,55 @@ UnitIcons/THE GRAND ABYSS
   orig: 256, 256
   offset: 0, 0
   index: -1
+UnitIcons/Teleporting Bomber
+  rotate: false
+  xy: 1536, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Teleporting Infantry
+  rotate: false
+  xy: 1792, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Barrier
+  rotate: false
+  xy: 2048, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Piercer
+  rotate: false
+  xy: 2304, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Planetary Missile Launcher
+  rotate: false
+  xy: 2560, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Raw Sea
+  rotate: false
+  xy: 2816, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Armored Armor
+  rotate: false
+  xy: 3072, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 
 gameT.png
 size: 2048, 2048
@@ -916,6 +965,48 @@ TileSets/FantasyHex/Units/Drowned Rotten Steel
 TileSets/FantasyHex/Units/Floating Plane Field
   rotate: false
   xy: 320, 96
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Teleporting Infantry
+  rotate: false
+  xy: 352, 64
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Barrier
+  rotate: false
+  xy: 384, 64
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Piercer
+  rotate: false
+  xy: 416, 64
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Planetary Missile Launcher
+  rotate: false
+  xy: 448, 64
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Raw Sea
+  rotate: false
+  xy: 448, 96
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Armored Armored Armor
+  rotate: false
+  xy: 480, 64
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
