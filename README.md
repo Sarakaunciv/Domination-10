@@ -8,6 +8,8 @@ Nations
 - All units replaced
   - 2× power, unique ability
   - Some new units and Nuke
+- New Units and Tech
+  - 'I said that I am the strongest'
 - 90% Buildings replaced
   - buff buildings and national wonders
 - Improvement "The Village"
