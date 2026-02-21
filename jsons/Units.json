@@ -1162,7 +1162,7 @@
 "range": 2,
 "cost": 40000,
 "requiredTech": "High Power",
-"uniques": ["Consumes [16] [Uranium]","[9] additional attacks per turn","Can move after attacking","Ignores Zone of Control","[100]% chance to intercept air attacks","[6] Air Interception Range","[99] extra interceptions may be made per turn","[+3900]% Damage when intercepting","[+100]% Strength <vs [Air] units>","[+100]% Strength <vs [Helicopter] units>",
+"uniques": ["Consumes [16] [Uranium]","[9] additional attacks per turn","Can move after attacking","Ignores Zone of Control","[100]% chance to intercept air attacks","[6] Air Interception Range","[99] extra interceptions may be made per turn","[+4600]% Damage when intercepting","[+100]% Strength <vs [Air] units>","[+100]% Strength <vs [Helicopter] units>",
 "Can be purchased for [40000] [Faith] [in all cities]","May travel on Water tiles without embarking"],
 "attackSound": "shot"},
 {"name": "Barrier High Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 600000,"range": 50,
