@@ -585,6 +585,55 @@ UnitIcons/Armored Armored Armor
   orig: 256, 256
   offset: 0, 0
   index: -1
+UnitIcons/Teleporting Bomber High
+  rotate: false
+  xy: 1536, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Teleporting Infantry High
+  rotate: false
+  xy: 1792, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Barrier High
+  rotate: false
+  xy: 2048, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Piercer High
+  rotate: false
+  xy: 2304, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Planetary Missile Launcher High
+  rotate: false
+  xy: 2560, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Raw Sea High
+  rotate: false
+  xy: 2816, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Armored Armor High
+  rotate: false
+  xy: 3072, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 
 gameT.png
 size: 2048, 2048
@@ -1011,3 +1060,46 @@ TileSets/FantasyHex/Units/Armored Armored Armor
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Teleporting Infantry High
+  rotate: false
+  xy: 352, 128
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Barrier High
+  rotate: false
+  xy: 384, 128
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Piercer High
+  rotate: false
+  xy: 416, 128
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Planetary Missile Launcher High
+  rotate: false
+  xy: 448, 128
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Raw Sea High
+  rotate: false
+  xy: 448, 160
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Armored Armored Armor High
+  rotate: false
+  xy: 480, 128
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
