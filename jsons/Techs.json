@@ -19,7 +19,7 @@
 	{
 		"columnNumber": 18,
 		"era": "Future era",
-		"techCost": 50000,
+		"techCost": 20000,
 		"buildingCost": 750,
 		"wonderCost": 1250,
 		"techs": [
@@ -76,6 +76,23 @@
 	{
 		"columnNumber": 19,
 		"era": "Future era",
+		"techCost": 100000,
+		"buildingCost": 750,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "High Power",
+				"row": 5,
+				"prerequisites": ["Teleportation","Force Field","Airblast Sonic Drill","Naval Grand Fotress","Cosmic Plating"],
+				"uniques": [],
+				"quote": "'Those who can't grow stronger, will obsolete.' - Butter of Ventus",
+                "civilopediaText": [{"text": "Idea of Ventus"}]
+			}
+		]
+	},
+	{
+		"columnNumber": 20,
+		"era": "Future era",
 		"techCost": 200000,
 		"buildingCost": 750,
 		"wonderCost": 1250,
@@ -83,7 +100,7 @@
 			{
 				"name": "Ventus Tech",
 				"row": 5,
-				"prerequisites": ["Teleportation","Force Field","Airblast Sonic Drill","Naval Grand Fotress","Cosmic Plating"],
+				"prerequisites": ["High Power"],
 				"uniques": [],
 				"quote": "'Those who in my way, must perish.' - Butter of Ventus",
                 "civilopediaText": [{"text": "Idea of Ventus"}]
