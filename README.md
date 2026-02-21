@@ -1,5 +1,9 @@
 2 Nations, 0 Pineapples, Cheat buildings,
 
+Future Tech Expand
+- Military More(National Wonder)
+- Ventus Tech
+
 Nations
 
 1. Regulor Raze×100(nothing else. no buff, no bias)
