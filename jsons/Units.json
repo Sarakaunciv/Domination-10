@@ -1319,14 +1319,14 @@
         
 {"name": "Grand General","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Great General",
 "uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",
-"Can instantly construct a [Citadel] improvement <by consuming this unit>",
+"Can instantly construct a [Ventus Citadel] improvement <by consuming this unit>",
 "May enter foreign tiles without open borders","May travel on Water tiles without embarking",
 "Ignores terrain cost",
 "Unbuildable",
-"Can be purchased for [1000] [Faith] [in all cities]"],
+"Can be purchased for [3000] [Faith] [in all cities]"],
 "movement": 10},
 {"name": "Grand General Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"range": 50,
-"uniques": ["[This Unit] is destroyed","[10] free [Grand General] units appear","Can be purchased for [10000] [Faith] [in all cities]","Unbuildable"],"attackSound": "nonmetalhit"},
+"uniques": ["[This Unit] is destroyed","[10] free [Grand General] units appear","Can be purchased for [30000] [Faith] [in all cities]","Unbuildable"],"attackSound": "nonmetalhit"},
 
 {"name": "Tiny Blast","unitType": "Atomic Bomber","uniqueTo": "Ventus",
 "movement": 1,
