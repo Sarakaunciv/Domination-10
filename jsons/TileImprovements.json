@@ -62,6 +62,7 @@
 		"uniques": [
 			"Great Improvement",
 			"Gives a defensive bonus of [-50]%",
+			"Removes removable features when built",
             "Will not be replaced by automated units"
 		]
 	}
