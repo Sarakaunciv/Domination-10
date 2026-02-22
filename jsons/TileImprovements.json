@@ -53,7 +53,8 @@
 			"Can be built just outside your borders",
 			"Gain control over [all] tiles in a [3]-tile radius",
 			"Removes removable features when built",
-            "Will not be replaced by automated units"
+            "Will not be replaced by automated units",
+			"Unpillagable"
 		]
 	},
 	{
@@ -63,7 +64,8 @@
 			"Great Improvement",
 			"Gives a defensive bonus of [-50]%",
 			"Removes removable features when built",
-            "Will not be replaced by automated units"
+            "Will not be replaced by automated units",
+			"Unpillagable"
 		]
 	}
 ]
