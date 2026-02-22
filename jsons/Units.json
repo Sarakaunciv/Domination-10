@@ -1320,6 +1320,7 @@
 {"name": "Grand General","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Great General",
 "uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",
 "Can instantly construct a [Ventus Citadel] improvement <by consuming this unit>",
+"Can instantly construct a [Ventus Trap] improvement <for [0] movement>",
 "May enter foreign tiles without open borders","May travel on Water tiles without embarking",
 "Ignores terrain cost",
 "Unbuildable",
