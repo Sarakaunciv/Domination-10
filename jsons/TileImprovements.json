@@ -55,5 +55,14 @@
 			"Removes removable features when built",
             "Will not be replaced by automated units"
 		]
+	},
+	{
+		"name": "Ventus Trap",
+		"terrainsCanBeBuiltOn": ["Land","Water"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [-50]%",
+            "Will not be replaced by automated units"
+		]
 	}
 ]
