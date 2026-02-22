@@ -53,11 +53,6 @@
 			"[Military] units gain the [Chain Lightning] promotion",
 			"[+125]% Strength <when defending> <when [Embarked]>",
 			"[+33]% Strength <when below [-10] [Happiness]>",
-			"[+100]% Strength for cities",
-			"[+50]% Strength for cities <on [Free Industrial Hard] difficulty>",
-			"[+100]% Strength for cities <on [Free Modern Immortal] difficulty>",
-			"[+200]% Strength for cities <on [Free Atomic Death] difficulty>",
-			"[+800]% Strength for cities <on [God] difficulty>",
 			"Each city founded increases Science cost of Technologies [+100]% less than normal",
 			"Provides a [Walls] in your first [1] cities for free"],
 		"cities": ["Ventapical","Evadel","Tropical","Mintal","Rainaral","Al","Quintel","Marel","Porel","Wanal",
@@ -95,6 +90,7 @@
 		"spyNames": ["Spying"]
 	}
 ]
+
 
 
 
