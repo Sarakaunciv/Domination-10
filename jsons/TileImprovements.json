@@ -44,7 +44,7 @@
       "Unpillagable"]
   },
 	{
-		"name": "Ventus Great Citadel",
+		"name": "Ventus Citadel",
 		"terrainsCanBeBuiltOn": ["Land","Water"],
 		"uniques": [
 			"Great Improvement",
