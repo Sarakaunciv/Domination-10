@@ -494,6 +494,13 @@ ImprovementIcons/The Village
   orig: 256, 256
   offset: 0, 0
   index: -1
+ImprovementIcons/Ventus Citadel
+  rotate: false
+  xy: 3840, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 UnitIcons/Tiny Blast
   rotate: false
   xy: 0, 1024
