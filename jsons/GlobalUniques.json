@@ -7,6 +7,8 @@
 	  "[1] Movement <for [Land] units> <after discovering [The Wheel]>",
 	  "[1] Movement <for [Land] units> <after discovering [Machinery]>",
 	  "[1] Movement <for [Land] units> <after discovering [Industrialization]>",
+	  "[1] Movement <for [Land] units> <after discovering [Replaceable Parts]>",
+	  "[1] Movement <for [Land] units> <after discovering [Computers]>",
 	  "[1] Movement <when [Embarked]> <after discovering [Compass]>",
 	  "[1] Movement <when [Embarked]> <after discovering [Navigation]>",
 	  "[2] Movement <when [Embarked]> <after discovering [Steam Power]>",
