@@ -179,7 +179,7 @@
 	"Gain a free [Defense of Ventus] [in this city]",
 	"Gain a free [Shield of Ventus] [in this city]",
 	"Gain a free [Fortified Anti-Nuclear Shelter] [in this city]"],
-    "requiredTech": "Telecommunications"},
+    "requiredTech": "Ventus Tech"},
    
 {"name": "Forge Tech I",
 "uniqueTo": "Ventus",
