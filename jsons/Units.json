@@ -1314,7 +1314,7 @@
 "Ignores terrain cost",
 "May travel on Water tiles without embarking",
 "Can pass through impassable tiles"]},
-{"name": "Fleg Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 900,"range": 50,
+{"name": "Fleg Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 12000,"range": 50,
 "uniques": ["[This Unit] is destroyed","[8] free [Fleg] units appear"],"attackSound": "nonmetalhit"},
         
 {"name": "Grand General","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Great General",
