@@ -45,6 +45,11 @@
 	"Can pass through impassable tiles"]
 },
     {
+        "name": "Fighter",
+        "movementType": "Air",
+        "uniques": ["Aircraft", "[+4] Sight", "[-90000]% Strength <vs [Submarine] units> <when attacking>","Can see over obstacles", "Can perform Air Sweep"]
+    },
+    {
         "name": "Bomber",
         "movementType": "Air",
         "uniques": ["Aircraft","[-90000]% Strength <vs [Submarine] units> <when attacking>","[-90000]% Strength <vs [Helicopter] units> <when attacking>"]
