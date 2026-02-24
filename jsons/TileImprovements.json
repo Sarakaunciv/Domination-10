@@ -48,7 +48,7 @@
 		"terrainsCanBeBuiltOn": ["Land","Water"],
 		"uniques": [
 			"Great Improvement",
-			"Gives a defensive bonus of [200]%",
+			"Gives a defensive bonus of [200]% <in [Land] tiles>",
 			"Adjacent enemy units ending their turn take [50] damage",
 			"Can be built just outside your borders",
 			"Gain control over [all] tiles in a [3]-tile radius",
