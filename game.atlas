@@ -501,6 +501,20 @@ BuildingIcons/Soul Feeding
   orig: 256, 256
   offset: 0, 0
   index: -1
+BuildingIcons/Working Fallen Warrior
+  rotate: false
+  xy: 3840, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/Thinking Fallen Warrior
+  rotate: false
+  xy: 3840, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 ImprovementIcons/The Village
   rotate: false
   xy: 3840, 768
