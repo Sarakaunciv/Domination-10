@@ -1,11 +1,9 @@
 [
-	{
-		"name": "Heal Instantly",
-		"uniques": [],
-		"unitTypes": [],
-		"row": 0,
-		"column": 0
-	},
+{"name": "Heal Instantly","uniques": [],"unitTypes": [],"row": 0,"column": 0},
+{"name": "Extended Range","prerequisites": ["Accuracy III","Barrage III","Targeting II","Bombardment II", "Wolfpack II"],"uniques": ["[+1] Range"],"unitTypes": [],"column": 3,"row": 3},
+{"name": "Woodsman","prerequisites": ["Shock III","Drill III"],"uniques": ["Double movement in [Forest]","Double movement in [Jungle]"],"unitTypes": [],"column": 6,"row": 5},
+{"name": "Medic","prerequisites": ["Shock I", "Drill I", "Scouting II", "Survivalism II"],"uniques": ["All adjacent units heal [+5] HP when healing", "[-50]% weight to this choice for AI decisions"],"unitTypes": [],"column": 10,"row": 1},
+{"name": "Medic II","prerequisites": ["Medic"],"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "All adjacent units heal [+5] HP when healing"],"unitTypes": [],"column": 10,"row": 2},
 	{
 		"name": "Fight Evasion",
 		"prerequisites": [],
@@ -21,6 +19,46 @@
 		"unitTypes": [],
         "column": 20,
         "row": 4
-	}
+	},
 
+{"name": "Dogfighting I","uniques": ["[+33]% Strength when performing Air Sweep"],"unitTypes": [],"column": 19,"row": 1},
+{"name": "Dogfighting II","prerequisites": ["Dogfighting I"],"uniques": ["[+33]% Strength when performing Air Sweep"],"unitTypes": [],"column": 19,"row": 2},
+{"name": "Dogfighting III","prerequisites": ["Dogfighting II"],"uniques": ["[+34]% Strength when performing Air Sweep"],"unitTypes": [],"column": 19,"row": 3},
+{"name": "Sortie","prerequisites": ["Interception II", "Dogfighting II"],"uniques": ["[1] extra interceptions may be made per turn", "[-100]% weight to this choice for AI decisions"],"unitTypes": [],"column": 21,"row": 2},
+	{
+		"name": "Fighter Intersweep",
+		"prerequisites": [],
+		"uniques": ["[+100]% Strength when performing Air Sweep","[3] extra interceptions may be made per turn"],
+		"unitTypes": ["Helicopter","Mounted","Melee Water","Ranged Water","Armored","Submarine","Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Fighter","Bomber"],
+        "column": 0,
+        "row": 1
+	},
+
+{"name": "Operational Range","prerequisites": ["Interception I", "Dogfighting I", "Siege I", "Bombardment I"],
+"uniques": ["[+10] Range"],
+"unitTypes": ["Fighter","Bomber"],"column": 21,"row": 1},
+
+{"name": "Blitz","prerequisites": ["Shock III","Drill III"],"uniques": ["[1] additional attacks per turn"],"unitTypes": [],"column": 6,"row": 4},
+{"name": "Amphibious","prerequisites": ["Shock I", "Drill I"],"uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast"],"unitTypes": [],"column": 6,"row": 1},
+{"name": "Indirect Fire","prerequisites": ["Accuracy III", "Barrage III", "Bombardment II", "Targeting II"],"uniques": ["Ranged attacks may be performed over obstacles"],"unitTypes": [],"column": 3,"row": 4},
+{"name": "Mobility I","uniques": ["[+1] Movement"],"unitTypes": [],"column": 22,"row": 1},
+{"name": "Mobility II","prerequisites": ["Mobility I"],"uniques": ["[+1] Movement"],"unitTypes": [],"column": 22,"row": 2},
+{"name": "Mobility","prerequisites": ["Shock II","Drill II","Targeting I","Bombardment I","Boarding Party I", "Coastal Raider I", "Wolfpack I"],"uniques": ["[+1] Movement"],"unitTypes": [],"column": 24,"row": 3},
+{"name": "Sentry","prerequisites": ["Accuracy I","Barrage I","Shock II","Drill II","Bombardment I","Targeting I","Boarding Party I","Coastal Raider I"],"uniques": ["[+1] Sight"],"unitTypes": [],"column": 24,"row": 4},
+{"name": "Logistics","prerequisites": ["Accuracy III","Barrage III","Targeting III", "Wolfpack III","Bombardment III", "Coastal Raider III","Boarding Party III","Siege III", "Mobility II", "Anti-Armor II"],"uniques": ["[1] additional attacks per turn", "Can move after attacking"],"unitTypes": [],"column": 24,"row": 5},
+	{
+		"name": "Bunch of Promotion",
+		"prerequisites": [],
+		"uniques": ["[+3] Movement",
+		"[+1] Sight",
+		"[2] additional attacks per turn",
+		"Can move after attacking",
+		"Ranged attacks may be performed over obstacles",
+		"Eliminates combat penalty for attacking over a river",
+		"Eliminates combat penalty for attacking across a coast",
+		"[+200]% weight to this choice for AI decisions"],
+		"unitTypes": ["Helicopter","Mounted","Melee Water","Ranged Water","Armored","Submarine","Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Fighter","Bomber"],
+        "column": 0,
+        "row": 1
+	},
 ]
