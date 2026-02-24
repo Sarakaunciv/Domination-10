@@ -37,16 +37,18 @@
 
 {"name": "THE GRAND ABYSS Cheat","uniqueTo": "Ventus","cost": 0,"requiredBuilding": "Cheat Powder","maintenance": 0,"uniques": ["[6] free [THE GRAND ABYSS] units appear","Destroyed when the city is captured"],"requiredTech": "Agriculture"}
 
+{"name": "Info 3 Cheat","cost": 0,"requiredBuilding": "Cheat Powder","requiredTech": "Satellites","uniques": ["Discover [Globalization]","Discover [Particle Physics]","Discover [Nanotechnology]","Only available <in [Capital] cities>"]},
+	
     {"name": "Ventus Awakening",
 "uniqueTo": "Ventus",
 "cityStrength": 50,
 "cost": 100,
 "maintenance": 0,
 "uniques": [
-	"[Faith] cost of purchasing [All] units [-25]% <on [Free Industrial Hard] difficulty>",
-	"[Faith] cost of purchasing [All] units [-40]% <on [Free Modern Immortal] difficulty>",
-	"[Faith] cost of purchasing [All] units [-60]% <on [Free Atomic Death] difficulty>",
-	"[Faith] cost of purchasing [All] units [-80]% <on [God] difficulty>",
+	"[Faith] cost of purchasing items in cities [-25]% <on [Free Industrial Hard] difficulty>",
+	"[Faith] cost of purchasing items in cities [-40]% <on [Free Modern Immortal] difficulty>",
+	"[Faith] cost of purchasing items in cities [-60]% <on [Free Atomic Death] difficulty>",
+	"[Faith] cost of purchasing items in cities [-90]% <on [God] difficulty>",
 	"Only available <in [Capital] cities>","Destroyed when the city is captured"]},
 	
 {"name": "Soul Feeding",
