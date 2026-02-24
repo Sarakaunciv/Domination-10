@@ -1329,6 +1329,11 @@
 {"name": "Grand General Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"range": 50,
 "uniques": ["[This Unit] is destroyed","[10] free [Grand General] units appear","Can be purchased for [30000] [Faith] [in all cities]","Unbuildable"],"attackSound": "nonmetalhit"},
 
+{"name": "Fallen Warrior","unitType": "Missile","uniqueTo": "Ventus","replaces": "Great Admiral","movement": 1,"strength": 1,"rangedStrength": 1,"range": 50,
+"uniques": ["[This Unit] is destroyed","[10] population [in this city]","Can be purchased for [4000] [Faith] [in all cities]","Unbuildable"],"attackSound": "nonmetalhit"},
+ {"name": "Fallen Warrior Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"range": 50,
+"uniques": ["[This Unit] is destroyed","[100] population [in this city]","Can be purchased for [40000] [Faith] [in all cities]","Unbuildable"],"attackSound": "nonmetalhit"},
+
 {"name": "Tiny Blast","unitType": "Atomic Bomber","uniqueTo": "Ventus",
 "movement": 1,
 "strength": 250,
