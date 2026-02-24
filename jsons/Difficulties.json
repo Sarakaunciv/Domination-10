@@ -1,26 +1,11 @@
 [
         {
-                "name": "God",
-"baseHappiness": 10,
-"extraHappinessPerLuxury": -4,
-"researchCostModifier": 1,
-"unitCostModifier": 1,
-"unitSupplyBase": 1000,
-"unitSupplyPerCity": 1000,
-"buildingCostModifier": 1,
-"policyCostModifier": 1,
-"unhappinessModifier": 0,
-"barbarianBonus": 0,
-"barbarianSpawnDelay": 0,
-"playerBonusStartingUnits": [],
-"aiDifficultyLevel": "Prince",
-"aiCityGrowthModifier": 0,
-"aiUnitCostModifier": 0.1,
-"aiBuildingCostModifier": 0.1,
-"aiWonderCostModifier": 0.1,
-"aiBuildingMaintenanceModifier": 0,
-"aiUnitMaintenanceModifier": 0,
-"aiUnitSupplyModifier": 10,
+"name": "God",
+"baseHappiness": 10,"extraHappinessPerLuxury": -4,"researchCostModifier": 1,"unitCostModifier": 1,
+"unitSupplyBase": 1000,"unitSupplyPerCity": 1000,"buildingCostModifier": 1,"policyCostModifier": 1,
+"unhappinessModifier": 0,"barbarianBonus": 0,"barbarianSpawnDelay": 0,"playerBonusStartingUnits": [],
+"aiDifficultyLevel": "Prince","aiCityGrowthModifier": 0,"aiUnitCostModifier": 0.1,"aiBuildingCostModifier": 0.1,
+"aiWonderCostModifier": 0.1,"aiBuildingMaintenanceModifier": 0,"aiUnitMaintenanceModifier": 0,"aiUnitSupplyModifier": 10,
 "aiFreeTechs": [
 "Pottery","Animal Husbandry","Archery","Mining","Sailing","Calendar","Writing","Trapping","The Wheel","Masonry","Bronze Working",
 "Optics","Horseback Riding","Mathematics","Construction","Philosophy","Drama and Poetry","Currency","Engineering","Iron Working",
@@ -30,13 +15,7 @@
 "Refrigeration","Radio","Replaceable Parts","Flight","Railroads","Plastics","Electronics","Ballistics","Combustion",
 "Pharmaceuticals","Atomic Theory","Radar","Combined Arms","Ecology","Nuclear Fission","Rocketry","Computers",
 "Telecommunications","Mobile Tactics","Advanced Ballistics","Satellites","Robotics","Lasers","Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
-"aiMajorCivBonusStartingUnits": [
-"Worker",
-"Worker",
-"Worker",
-"Worker",
-"Worker",
-"Worker",
+"aiMajorCivBonusStartingUnits": ["Worker","Worker","Worker","Worker","Worker","Worker",
 "Settler","Settler","Settler","Settler","Settler","Settler",
 "Settler","Settler","Settler","Settler","Settler","Settler",
 "Settler","Settler","Settler","Settler","Settler","Settler",
@@ -102,12 +81,12 @@
 
         {
                 "name": "Fair",
-"baseHappiness": 9,
-"extraHappinessPerLuxury": 0,
+"baseHappiness": 10,
+"extraHappinessPerLuxury": -4,
 "researchCostModifier": 1,
 "unitCostModifier": 1,
-"unitSupplyBase": 5,
-"unitSupplyPerCity": 2,
+"unitSupplyBase": 1000,
+"unitSupplyPerCity": 1000,
 "buildingCostModifier": 1,
 "policyCostModifier": 1,
 "unhappinessModifier": 1,
@@ -128,6 +107,6 @@
 "aiUnhappinessModifier": 1,
 "aisExchangeTechs": true,
 "turnBarbariansCanEnterPlayerTiles": 0,
-"clearBarbarianCampReward": 25
+"clearBarbarianCampReward": 50
 }
 ]
