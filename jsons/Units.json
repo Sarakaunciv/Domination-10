@@ -1247,7 +1247,7 @@
 "Eliminates combat penalty for attacking across a coast"],
 "attackSound": "tankshot"},
 {"name": "Reen Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 2000000,"range": 50,
-"requiredTech": "Cosmic Plating",
+"requiredTech": "Ventus Tech",
 "uniques": ["[This Unit] is destroyed","[10] free [Reen] units appear","Can be purchased for [2000000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Eye","unitType": "Scout","uniqueTo": "Ventus","replaces": "Scout",
@@ -1264,6 +1264,8 @@
 "Ignores Zone of Control",
 "Can be purchased for [120] [Faith] [in all cities]"],
 "attackSound": "nonmetalhit"},
+{"name": "Eye Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 500,"range": 50,
+"obsoleteTech": "Navigation","uniques": ["[This Unit] is destroyed","[10] free [Eye] units appear","Can be purchased for [1200] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Great Pirate","unitType": "Scout","uniqueTo": "Ventus","replaces": "Privateer",
 "movement": 8,
@@ -1281,7 +1283,9 @@
 "Ignores Zone of Control",
 "Can be purchased for [600] [Faith] [in all cities]"],
 "attackSound": "artillery"},
-
+{"name": "Great Pirate Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 3000,"range": 50,
+"requiredTech": "Navigation",
+"obsoleteTech": "Computers","uniques": ["[This Unit] is destroyed","[10] free [Great Pirate] units appear","Can be purchased for [6000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Set","unitType": "Civilian","uniqueTo": "Ventus","replaces": "Settler",
 "movement": 5,
