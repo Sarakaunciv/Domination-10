@@ -37,7 +37,7 @@
 
 {"name": "THE GRAND ABYSS Cheat","uniqueTo": "Ventus","cost": 0,"requiredBuilding": "Cheat Powder","maintenance": 0,"uniques": ["[6] free [THE GRAND ABYSS] units appear","Destroyed when the city is captured"],"requiredTech": "Agriculture"}
 
-{"name": "Info 3 Cheat","cost": 0,"requiredBuilding": "Cheat Powder","requiredTech": "Satellites","uniques": ["Discover [Globalization]","Discover [Particle Physics]","Discover [Nanotechnology]","Only available <in [Capital] cities>"]},
+{"name": "Info 3 Cheat","cost": 0,"requiredBuilding": "Cheat Key","requiredTech": "Satellites","uniques": ["Discover [Globalization]","Discover [Particle Physics]","Discover [Nanotechnology]","Only available <in [Capital] cities>"]},
 	
     {"name": "Ventus Awakening",
 "uniqueTo": "Ventus",
@@ -140,6 +140,9 @@
 "maintenance": 0,
 "uniques": ["Destroyed when the city is captured"],
     "requiredTech": "Masonry"},
+{"name": "Wall Repair","uniqueTo": "Ventus","requiredTech": "Masonry","cityHealth": 200,
+"uniques": ["Remove [Wall Repair] [in this city]","Can be purchased for [2500] [Faith] [in all cities]",
+"Only available <before discovering [Agriculture]>","Unbuildable"]},
 
 {"name": "Grand Castle of Ventus",
 "uniqueTo": "Ventus",
@@ -174,7 +177,7 @@
 {"name": "Fortified Anti-Nuclear Shelter",
 "uniqueTo": "Ventus",
 "replaces": "Bomb Shelter",
-"cityHealth": 2000,
+"cityHealth": 200,
 "cost": 8000,
 "maintenance": 0,
 "uniques": ["Population loss from nuclear attacks [-100]% [in this city]",
