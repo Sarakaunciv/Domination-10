@@ -64,7 +64,7 @@
 "uniques": ["[+50 Production]","Provides [8] [Horses]",
 "Destroyed when the city is captured"],
     "requiredTech": "Animal Husbandry"},
-{"name": "Horse Pack","uniqueTo": "Ventus","cost": 20000,"maintenance": 0,
+{"name": "Horse Pack","uniqueTo": "Ventus","cost": 4000,"maintenance": 0,
 "uniques": ["Provides a [Horse Hut] in your first [100] cities for free","Only available <in [Capital] cities>","Destroyed when the city is captured"],
 	"requiredTech": "Animal Husbandry"},
 
@@ -76,7 +76,7 @@
 "uniques": ["[+100 Production]","Provides [12] [Iron]",
 "Destroyed when the city is captured"],
     "requiredTech": "Iron Working"},
-{"name": "Iron Pack","uniqueTo": "Ventus","cost": 40000,"maintenance": 0,
+{"name": "Iron Pack","uniqueTo": "Ventus","cost": 8000,"maintenance": 0,
 "uniques": ["Provides a [Iron Workshop] in your first [100] cities for free","Only available <in [Capital] cities>","Destroyed when the city is captured"],
 	"requiredTech": "Iron Working"},
 	
@@ -88,7 +88,7 @@
 "uniques": ["[+200 Production]","Provides [12] [Coal]",
 "Destroyed when the city is captured"],
     "requiredTech": "Industrialization"},
-{"name": "Coal Pack","uniqueTo": "Ventus","cost": 80000,"maintenance": 0,
+{"name": "Coal Pack","uniqueTo": "Ventus","cost": 16000,"maintenance": 0,
 "uniques": ["Provides a [Coalmill] in your first [100] cities for free","Only available <in [Capital] cities>","Destroyed when the city is captured"],
 	"requiredTech": "Industrialization"},
 
@@ -100,7 +100,7 @@
 "uniques": ["[+250 Production]","Provides [16] [Oil]",
 "Destroyed when the city is captured"],
     "requiredTech": "Biology"},
-{"name": "Oil Pack","uniqueTo": "Ventus","cost": 100000,"maintenance": 0,
+{"name": "Oil Pack","uniqueTo": "Ventus","cost": 20000,"maintenance": 0,
 "uniques": ["Provides a [Oil Miner] in your first [100] cities for free","Only available <in [Capital] cities>","Destroyed when the city is captured"],
 	"requiredTech": "Biology"},
 
@@ -112,7 +112,7 @@
 "uniques": ["[+400 Production]","Provides [24] [Aluminum]",
 "Destroyed when the city is captured"],
     "requiredTech": "Electricity"},
-{"name": "Aluminum Pack","uniqueTo": "Ventus","cost": 160000,"maintenance": 0,
+{"name": "Aluminum Pack","uniqueTo": "Ventus","cost": 32000,"maintenance": 0,
 "uniques": ["Provides a [Aluminum Center] in your first [100] cities for free","Only available <in [Capital] cities>","Destroyed when the city is captured"],
 	"requiredTech": "Electricity"},
 
@@ -125,7 +125,7 @@
 "[+15]% [Production]",
 "Destroyed when the city is captured"],
     "requiredTech": "Nuclear Fission"},
-{"name": "Uranium Pack","uniqueTo": "Ventus","cost": 400000,"maintenance": 0,
+{"name": "Uranium Pack","uniqueTo": "Ventus","cost": 80000,"maintenance": 0,
 "uniques": ["Provides a [Uranium Mine] in your first [100] cities for free","Only available <in [Capital] cities>","Destroyed when the city is captured"],
 	"requiredTech": "Nuclear Fission"},
 
