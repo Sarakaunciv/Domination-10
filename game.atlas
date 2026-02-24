@@ -291,6 +291,13 @@ UnitIcons/Grand General
   orig: 256, 256
   offset: 0, 0
   index: -1
+UnitIcons/Fallen Warrior
+  rotate: false
+  xy: 3840, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 UnitIcons/Air Roof
   rotate: false
   xy: 2304, 512
