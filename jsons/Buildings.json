@@ -43,7 +43,7 @@
 {"name": "Ventus Seal Breaker","uniqueTo": "Ventus","replaces": "Manhattan Project","cost": 0,"isNationalWonder": true,"requiredBuilding": "Cheat Key","uniques": ["Enables nuclear weapon","Destroyed when the city is captured"]}
 {"name": "THE GRAND ABYSS Cheat","uniqueTo": "Ventus","cost": 0,"requiredBuilding": "Cheat Powder","uniques": ["[6] free [THE GRAND ABYSS] units appear","Destroyed when the city is captured"]}
 
-{"name": "Ventus Normal Building Pack","cost": 2500,"requiredTech": "Plastics","uniques": ["Gain a free [Granary] [in this city]","Gain a free [Library] [in this city]","Gain a free [Lighthouse] [in this city]","Gain a free [Market] [in this city]","Gain a free [University] [in this city]","Gain a free [Workshop] [in this city]","Gain a free [Bank] [in this city]","Gain a free [Factory] [in this city]","Gain a free [Public School] [in this city]","Gain a free [Stock Exchange] [in this city]","Gain a free [Research Lab] [in this city]","Destroyed when the city is captured"]},
+{"name": "Ventus Normal Building Pack","uniqueTo": "Ventus","cost": 2500,"requiredTech": "Plastics","uniques": ["Gain a free [Granary] [in this city]","Gain a free [Library] [in this city]","Gain a free [Lighthouse] [in this city]","Gain a free [Market] [in this city]","Gain a free [University] [in this city]","Gain a free [Workshop] [in this city]","Gain a free [Bank] [in this city]","Gain a free [Factory] [in this city]","Gain a free [Public School] [in this city]","Gain a free [Stock Exchange] [in this city]","Gain a free [Research Lab] [in this city]","Destroyed when the city is captured"]},
 
 {"name": "Ventus Awakening",
 "uniqueTo": "Ventus",
