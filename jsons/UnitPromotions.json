@@ -59,6 +59,6 @@
 		"[+200]% weight to this choice for AI decisions"],
 		"unitTypes": ["Helicopter","Mounted","Melee Water","Ranged Water","Armored","Submarine","Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Fighter","Bomber"],
         "column": 0,
-        "row": 1
+        "row": 2
 	},
 ]
