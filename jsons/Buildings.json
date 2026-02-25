@@ -37,7 +37,7 @@
 "Discover [Telecommunications]","Discover [Mobile Tactics]","Discover [Advanced Ballistics]","Discover [Satellites]","Discover [Robotics]","Discover [Lasers]","Discover [Globalization]","Discover [Particle Physics]","Discover [Nuclear Fusion]","Discover [Nanotechnology]","Discover [Stealth]",
 "Discover [Future Tech]"]},
 
-{"name": "1P Cheat","cost": 0,"requiredBuilding": "Cheat Key","uniques": ["[+30 Gold, +60 Science, +60 Production]","Destroyed when the city is captured"]},
+{"name": "1P Cheat","cityStrength": 30,"cost": 0,"requiredBuilding": "Cheat Key","uniques": ["[+30 Gold, +60 Science, +60 Production]","Destroyed when the city is captured"]},
 {"name": "Info 3 Cheat","cost": 0,"requiredBuilding": "Cheat Key","requiredTech": "Satellites","uniques": ["Discover [Globalization]","Discover [Particle Physics]","Discover [Nanotechnology]","Only available <in [Capital] cities>"]},
 
 {"name": "Ventus Seal Breaker","uniqueTo": "Ventus","replaces": "Manhattan Project","cost": 0,"isNationalWonder": true,"requiredBuilding": "Cheat Key","uniques": ["Enables nuclear weapon","Destroyed when the city is captured"]}
