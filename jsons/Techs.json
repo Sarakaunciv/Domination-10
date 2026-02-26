@@ -76,7 +76,7 @@
 	{
 		"columnNumber": 19,
 		"era": "Future era",
-		"techCost": 200000,
+		"techCost": 400000,
 		"buildingCost": 750,
 		"wonderCost": 1250,
 		"techs": [
@@ -93,7 +93,7 @@
 	{
 		"columnNumber": 20,
 		"era": "Future era",
-		"techCost": 400000,
+		"techCost": 800000,
 		"buildingCost": 750,
 		"wonderCost": 1250,
 		"techs": [

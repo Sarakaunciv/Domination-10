@@ -1249,12 +1249,12 @@
 "requiredTech": "Ventus Tech",
 "uniques": ["[This Unit] is destroyed","[10] free [Reen] units appear","Can be purchased for [5000000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
-{"name": "Ventus Future Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 1240000,"range": 50,
+{"name": "Ventus Future Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 1340000,"range": 50,
 "requiredTech": "Ventus Tech",
 "uniques": ["[This Unit] is destroyed",
 "Free [Teleporting Bomber] appears","Free [Teleporting Infantry] appears","Free [Barrier] appears","Free [Piercer] appears","Free [Planetary Missile Launcher] appears","Free [Raw Sea] appears","Free [Armored Armored Armor] appears",
 "Free [Teleporting Bomber High] appears","Free [Teleporting Infantry High] appears","Free [Barrier High] appears","Free [Piercer High] appears","Free [Planetary Missile Launcher High] appears","Free [Raw Sea High] appears","Free [Armored Armored Armor High] appears",
-"Free [Reen] appears","Can be purchased for [1240000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
+"Free [Reen] appears","Can be purchased for [1340000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Eye","unitType": "Scout","uniqueTo": "Ventus","replaces": "Scout",
 "movement": 8,
