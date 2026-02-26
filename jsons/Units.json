@@ -42,7 +42,7 @@
 "strength": 16,
 "cost": 80,
         "obsoleteTech": "Iron Working",
-"uniques": ["May upgrade to [Spearman] through ruins-like effects",
+"uniques": ["May upgrade to [Spearman] through ruins-like effects","[+100]% to Flank Attack bonuses",
 "[29] additional attacks per turn",
 "Can move after attacking",
 "Ignores Zone of Control",
