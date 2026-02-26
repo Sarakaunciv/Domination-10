@@ -329,7 +329,7 @@
 "[+1] Sight",
 "Can move after attacking",
 "Ignores Zone of Control",
-"Can be purchased for [640] [Faith] [in all cities]"],
+"Can be purchased for [1600] [Faith] [in all cities]"],
 "attackSound": "throw"},
 
 {"name": "The Great Lob","unitType": "Siege","replaces": "Trebuchet","uniqueTo": "Ventus",
@@ -347,7 +347,7 @@
 "[+2] Sight",
 "Can move after attacking",
 "Ignores Zone of Control",
-"Can be purchased for [1120] [Faith] [in all cities]"],
+"Can be purchased for [2800] [Faith] [in all cities]"],
 "attackSound": "throw"},
 
 {"name": "Metal Boulder","unitType": "Siege","replaces": "Cannon","uniqueTo": "Ventus",
@@ -365,7 +365,7 @@
 "[+1] Sight",
 "Can move after attacking",
 "Ignores Zone of Control",
-"Can be purchased for [1600] [Faith] [in all cities]"],
+"Can be purchased for [4000] [Faith] [in all cities]"],
 "attackSound": "artillery"},
 
 {"name": "Large Advance Cannon","unitType": "Siege","replaces": "Artillery","uniqueTo": "Ventus",
@@ -383,7 +383,7 @@
 "[+2] Sight",
 "Can move after attacking",
 "Ignores Zone of Control",
-"Can be purchased for [2240] [Faith] [in all cities]"],
+"Can be purchased for [5600] [Faith] [in all cities]"],
 "attackSound": "artillery"},
 
 {"name": "Explosive Flying Cannon","unitType": "Siege","replaces": "Rocket Artillery","uniqueTo": "Ventus",
@@ -401,7 +401,7 @@
 "Ignores terrain cost",
 "Can move after attacking",
 "Ignores Zone of Control",
-"Can be purchased for [4800] [Faith] [in all cities]"],
+"Can be purchased for [12000] [Faith] [in all cities]"],
 "attackSound": "artillery"},
 
 
