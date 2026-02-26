@@ -47,14 +47,14 @@
 
 {"name": "Ventus Awakening",
 "uniqueTo": "Ventus",
-"cityStrength": 50,
+"cityStrength": 150,
 "cost": 100,
-"uniques": [
+"uniques": ["Gain [1200] [Science]",
 	"[Faith] cost of purchasing items in cities [-25]% <on [Free Industrial Hard] difficulty>",
 	"[Faith] cost of purchasing items in cities [-40]% <on [Free Modern Immortal] difficulty>",
-	"[Faith] cost of purchasing items in cities [-60]% <on [Free Atomic Death] difficulty>",
+	"[Faith] cost of purchasing items in cities [-66]% <on [Free Atomic Death] difficulty>",
 	"[Faith] cost of purchasing items in cities [-90]% <on [God] difficulty>",
-	"Only available <in [Capital] cities>","Destroyed when the city is captured"]},
+	"Only available <in [Capital] cities>","Unsellable","Destroyed when the city is captured"]},
 	
 {"name": "Soul Feeding",
 "uniqueTo": "Ventus",
