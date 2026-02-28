@@ -1138,3 +1138,1353 @@ TileSets/FantasyHex/Units/Armored Armored Armor High
   offset: 0, 0
   index: -1
 
+Ngame.png
+size: 400, 400
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Helicopter Gunship 1
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot 1
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine 1
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser 1
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter 1
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber 1
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile 1
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile 1
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship 1
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser 1
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine 1
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot 1
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship 2
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot 2
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine 2
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser 2
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter 2
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber 2
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile 2
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile 2
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship 2
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser 2
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine 2
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot 2
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship 3
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot 3
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine 3
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser 3
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter 3
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber 3
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile 3
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile 3
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship 3
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser 3
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine 3
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot 3
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship 4
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot 4
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine 4
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser 4
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter 4
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber 4
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile 4
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile 4
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship 4
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser 4
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine 4
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot 4
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship 5
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot 5
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine 5
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser 5
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter 5
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber 5
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile 5
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile 5
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship 5
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser 5
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine 5
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot 5
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship 6
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot 6
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine 6
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser 6
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter 6
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber 6
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile 6
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile 6
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship 6
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser 6
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine 6
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot 6
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship 7
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot 7
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine 7
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser 7
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter 7
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber 7
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile 7
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile 7
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship 7
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser 7
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine 7
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot 7
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship 8
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot 8
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine 8
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser 8
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter 8
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber 8
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile 8
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile 8
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship 8
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser 8
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine 8
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot 8
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship 9
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot 9
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine 9
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser 9
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter 9
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber 9
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile 9
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile 9
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship 9
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser 9
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine 9
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot 9
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship a
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot a
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine a
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser a
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter a
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber a
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile a
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile a
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship a
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser a
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine a
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot a
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship b
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot b
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine b
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser b
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter b
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber b
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile b
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile b
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship b
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser b
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine b
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot b
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship c
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot c
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine c
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser c
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter c
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber c
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile c
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile c
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship c
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser c
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine c
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot c
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship d
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot d
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine d
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser d
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter d
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber d
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile d
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile d
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship d
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser d
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine d
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot d
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship e
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot e
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine e
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser e
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter e
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber e
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile e
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile e
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship e
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser e
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine e
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot e
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship f
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot f
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine f
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser f
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter f
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber f
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile f
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile f
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship f
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser f
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine f
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot f
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Helicopter Gunship m
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Death Robot m
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Submarine m
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Cruiser m
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Fighter m
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth Bomber m
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guided Missile m
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nuclear Missile m
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship m
+  rotate: false
+  xy: 0, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missile Cruiser m
+  rotate: false
+  xy: 32, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nuclear Submarine m
+  rotate: false
+  xy: 64, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Giant Death Robot m
+  rotate: false
+  xy: 96, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
