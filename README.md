@@ -62,6 +62,7 @@ Global Uniques
 
 Terrain
 - mountain no 50 damage
+- Oasis road yes
 
 
 Resource
