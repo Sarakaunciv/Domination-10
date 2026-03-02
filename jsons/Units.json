@@ -1421,10 +1421,12 @@
 
 {"name": "Fallen Warrior","unitType": "Missile","uniqueTo": "Ventus","replaces": "Great Admiral","movement": 1,"strength": 1,"rangedStrength": 1,"range": 50,
 "uniques": ["[This Unit] is destroyed","Will not be displayed in Civilopedia","[20] population [in this city]","Can be purchased for [10000] [Faith] [in all cities]","Unbuildable"],"attackSound": "nonmetalhit"},
-{"name": "Fallen Warrior Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"range": 50,
+{"name": "Fallen Warrior 5","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"range": 50,
 "uniques": ["[This Unit] is destroyed","Will not be displayed in Civilopedia","[100] population [in this city]","Can be purchased for [50000] [Faith] [in all cities]","Unbuildable"],"attackSound": "nonmetalhit"},
-{"name": "Fallen Warrior Squad Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"range": 50,
+{"name": "Fallen Warrior 25","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"range": 50,
 "uniques": ["[This Unit] is destroyed","Will not be displayed in Civilopedia","[500] population [in this city]","Can be purchased for [250000] [Faith] [in all cities]","Unbuildable"],"attackSound": "nonmetalhit"},
+{"name": "Fallen Warrior 125","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"range": 50,
+"uniques": ["[This Unit] is destroyed","Will not be displayed in Civilopedia","[2500] population [in this city]","Can be purchased for [1250000] [Faith] [in all cities]","Unbuildable"],"attackSound": "nonmetalhit"},
 
 {"name": "Tiny Blast","unitType": "Atomic Bomber","uniqueTo": "Ventus",
 "movement": 1,

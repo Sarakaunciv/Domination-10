@@ -24,7 +24,7 @@
 		RoadCost-62 Culture+100 Faith-100 Exp-100
 		KillCity.gold,faith KillUnit.gold,culture,faith
 		UpgradeCost0 Heal10+5 Embark1Move
-		Promotion.Supply,March,IndirectFire +125embarkDefense -10happyNoPenalty
+		Promotion.Supply,March,IndirectFire +125embarkDefense +100cityStrength -10happyNoPenalty
 		'No damage penalty for wounded units''No defensive terrain penalty'"
 		"uniques": ["Cities are razed [100] times as fast",
 			"[-62]% maintenance on road & railroads",
@@ -52,7 +52,7 @@
 			"[Military] units gain the [Chain Lightning] promotion",
 			"[+125]% Strength <when defending> <when [Embarked]>",
 			"[+33]% Strength <when below [-10] [Happiness]>",
-			"[+200]% Strength for cities",
+			"[+100]% Strength for cities",
 			"Each city founded increases Science cost of Technologies [+100]% less than normal",
 			"Provides a [Walls] in your first [1] cities for free"],
 		"cities": ["Ventapical","Evadel","Tropical","Mintal","Rainaral","Al","Quintel","Marel","Porel","Wanal",
