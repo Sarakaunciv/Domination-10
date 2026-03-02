@@ -571,7 +571,7 @@
 "[4] additional attacks per turn",
 "Can move after attacking",
 "Ignores Zone of Control",
-"Can be purchased for [240] [Faith] [in all cities]"],
+"Can be purchased for [840] [Faith] [in all cities]"],
 "attackSound": "arrow"},
 {"name": "Fast Horse Arrow Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 1120,"range": 50,
 "requiredTech": "The Wheel",
