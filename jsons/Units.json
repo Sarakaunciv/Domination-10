@@ -571,11 +571,11 @@
 "[4] additional attacks per turn",
 "Can move after attacking",
 "Ignores Zone of Control",
-"Can be purchased for [840] [Faith] [in all cities]"],
+"Can be purchased for [800] [Faith] [in all cities]"],
 "attackSound": "arrow"},
 {"name": "Fast Horse Arrow Squad","unitType": "Missile","uniqueTo": "Ventus","movement": 1,"strength": 1,"rangedStrength": 1,"cost": 1120,"range": 50,
 "requiredTech": "The Wheel",
-"obsoleteTech": "Chivalry","uniques": ["[This Unit] is destroyed","Will not be displayed in Civilopedia","[10] free [Fast Horse Arrow] units appear","Can be purchased for [2400] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
+"obsoleteTech": "Chivalry","uniques": ["[This Unit] is destroyed","Will not be displayed in Civilopedia","[10] free [Fast Horse Arrow] units appear","Can be purchased for [8000] [Faith] [in all cities]"],"attackSound": "nonmetalhit"},
 
 {"name": "Strong Horse","unitType": "Mounted","uniqueTo": "Ventus","replaces": "Horseman",
 "movement": 6,
