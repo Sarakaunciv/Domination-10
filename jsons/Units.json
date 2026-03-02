@@ -568,7 +568,7 @@
 "uniques": ["No defensive terrain bonus",
 "[+100]% Strength <when attacking>",
 "[-75]% Strength <vs cities> <when attacking>",
-"[9] additional attacks per turn",
+"[4] additional attacks per turn",
 "Can move after attacking",
 "Ignores Zone of Control",
 "Can be purchased for [240] [Faith] [in all cities]"],
