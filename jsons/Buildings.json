@@ -37,7 +37,7 @@
 {"name": "Ventus Seal Breaker","uniqueTo": "Ventus","replaces": "Manhattan Project","cost": 0,"isNationalWonder": true,"requiredBuilding": "Cheat Key","uniques": ["Enables nuclear weapon","Destroyed when the city is captured"]}
 {"name": "THE GRAND ABYSS Cheat","uniqueTo": "Ventus","cost": 0,"requiredBuilding": "Cheat Powder","uniques": ["[6] free [THE GRAND ABYSS] units appear","Destroyed when the city is captured"]}
 
-{"name": "Ventus Normal Building Pack","uniqueTo": "Ventus","cost": 2500,"requiredTech": "Plastics","uniques": ["Gain a free [Granary] [in this city]","Gain a free [Library] [in this city]","Gain a free [Lighthouse] [in this city]","Gain a free [Market] [in this city]","Gain a free [University] [in this city]","Gain a free [Workshop] [in this city]","Gain a free [Bank] [in this city]","Gain a free [Factory] [in this city]","Gain a free [Public School] [in this city]","Gain a free [Stock Exchange] [in this city]","Gain a free [Research Lab] [in this city]","Destroyed when the city is captured"]},
+{"name": "Ventus Normal Building Pack","uniqueTo": "Ventus","cost": 2500,"requiredTech": "Plastics","uniques": ["[+1000 Science]","Gain a free [Granary] [in this city]","Gain a free [Library] [in this city]","Gain a free [Lighthouse] [in this city]","Gain a free [Market] [in this city]","Gain a free [University] [in this city]","Gain a free [Workshop] [in this city]","Gain a free [Bank] [in this city]","Gain a free [Factory] [in this city]","Gain a free [Public School] [in this city]","Gain a free [Stock Exchange] [in this city]","Gain a free [Research Lab] [in this city]","Destroyed when the city is captured"]},
 
 {"name": "Ventus Awakening",
 "uniqueTo": "Ventus",
@@ -221,6 +221,7 @@
     "requiredTech": "Military Science"},
     
 {"name": "Forge Pack","uniqueTo": "Ventus","cost": 535,"uniques": [
+	"[+50 Production, +50 Culture]",
 	"Gain a free [Forge Tech I] [in this city]",
 	"Gain a free [Forge Tech II] [in this city]",
 	"Gain a free [Forge Tech III] [in this city]"],
@@ -256,6 +257,7 @@
     "requiredTech": "Refrigeration"},
     
 {"name": "Fact Pack","uniqueTo": "Ventus","cost": 800,"uniques": [
+	"[+250 Production]",
 	"Gain a free [Factechy I] [in this city]",
 	"Gain a free [Factechy II] [in this city]",
 	"Gain a free [Factechy III] [in this city]"],
@@ -298,6 +300,7 @@
     "requiredTech": "Philosophy"},
     
 {"name": "True Pack","uniqueTo": "Ventus","cost": 365,"uniques": [
+	"[+50 Science]",
 	"Gain a free [Rant S1] [in this city]",
 	"Gain a free [Rant S2] [in this city]",
 	"Gain a free [Rant S3] [in this city]",
@@ -341,6 +344,7 @@
     "requiredTech": "Robotics"},
     
 {"name": "Rant P Pack","uniqueTo": "Ventus","cost": 1330,"uniques": [
+	"[+100 Production]",
 	"Gain a free [Rant P1] [in this city]",
 	"Gain a free [Rant P2] [in this city]",
 	"Gain a free [Rant P3] [in this city]",
@@ -383,6 +387,7 @@
     "requiredTech": "Currency"},
 
 {"name": "Mix Pack","uniqueTo": "Ventus","cost": 720,"uniques": [
+	"[+150 Food, +150 Gold, +30 Culture]",
 	"Gain a free [Mass Farm] [in this city]",
 	"Gain a free [Rant F] [in this city]",
 	"Gain a free [AQD] [in this city]",
@@ -391,6 +396,7 @@
     "requiredTech": "Biology"},
 
 {"name": "Pack Pack","uniqueTo": "Ventus","cost": 3750,"uniques": [
+	"[+800 Production, +100 Science, +300 Food, +300 Gold, +160 Culture]",
 	"Gain a free [Forge Pack] [in this city]",
 	"Gain a free [Fact Pack] [in this city]",
 	"Gain a free [True Pack] [in this city]",
