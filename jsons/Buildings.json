@@ -44,10 +44,10 @@
 "cityStrength": 150,
 "cost": 40,
 "uniques": [
-	"Gain [100] [Science] <on [Free Industrial Hard] difficulty>",
-	"Gain [200] [Science] <on [Free Modern Immortal] difficulty>",
-	"Gain [400] [Science] <on [Free Atomic Death] difficulty>",
-	"Gain [1600] [Science] <on [God] difficulty>",
+	"Gain [500] [Faith] <on [Free Industrial Hard] difficulty>",
+	"Gain [1000] [Faith] <on [Free Modern Immortal] difficulty>",
+	"Gain [2000] [Faith] <on [Free Atomic Death] difficulty>",
+	"Gain [8000] [Faith] <on [God] difficulty>",
 	"Only available <in [Capital] cities>","Unsellable","Destroyed when the city is captured"]},
 	
 {"name": "Soul Feeding",
