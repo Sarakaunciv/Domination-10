@@ -133,7 +133,7 @@
 "Destroyed when the city is captured"],
     "requiredTech": "Nuclear Fission"},
 {"name": "Uranium Provide","uniqueTo": "Ventus","cost": 3000000,
-"uniques": ["Provides [36000] [Uranium]","Only available <in [Capital] cities>","Destroyed when the city is captured"],
+"uniques": ["Provides [18000] [Uranium]","Only available <in [Capital] cities>","Destroyed when the city is captured"],
 	"requiredTech": "Nuclear Fission"},
 
 {"name": "Great Wall of Ventus",
