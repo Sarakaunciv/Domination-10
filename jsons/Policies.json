@@ -34,8 +34,8 @@
                 "name": "Oligarchy",
                 "uniques": [
                     "Units in cities cost no Maintenance",
-                    "[+25]% Strength for cities <when attacking> <before the [Future era]>",
-                    "[+50]% Strength <vs cities> <when defending> <before the [Future era]>",
+                    "[+25]% Strength for cities <when attacking> <before discovering [Future Tech]>",
+                    "[+50]% Strength <vs cities> <when defending> <before discovering [Future Tech]>",
                     "[+100]% weight to this choice for AI decisions"
                 ],
                 "row": 1,
@@ -162,7 +162,7 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "[+25]% Strength <for [Melee] units> <when adjacent to a [Melee] unit> <before the [Future era]>"
+                    "[+25]% Strength <for [Melee] units> <when adjacent to a [Melee] unit> <before discovering [Future Tech]>"
                 ],
                 "row": 1,
                 "column": 4
@@ -170,7 +170,7 @@
             {
                 "name": "Military Tradition",
                 "uniques": [
-                    "[+15]% Strength <before the [Future era]>"
+                    "[+15]% Strength <before discovering [Future Tech]>"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,
@@ -179,8 +179,8 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+25]% Strength for cities <when attacking> <before the [Future era]>",
-                    "[+50]% Strength <vs cities> <when defending> <before the [Future era]>",
+                    "[+25]% Strength for cities <when attacking> <before discovering [Future Tech]>",
+                    "[+50]% Strength <vs cities> <when defending> <before discovering [Future Tech]>",
                     "[+100]% weight to this choice for AI decisions"
                 ],
                 "requires": ["Discipline"],
@@ -258,7 +258,7 @@
             },
             {
                 "name": "Protectionism",
-                "uniques": ["[+25]% Strength <when fighting in [Luxury resource] tiles> <before the [Future era]>"],
+                "uniques": ["[+25]% Strength <when fighting in [Luxury resource] tiles> <before discovering [Future Tech]>"],
                 "requires": ["Mercantilism"],
                 "row": 3,
                 "column": 4
@@ -356,8 +356,8 @@
             {
                 "name": "Universal Suffrage",
                 "uniques": [
-                    "[+25]% Strength for cities <when defending> <before the [Future era]>",
-                    "[+50]% Strength <vs cities>  <when attacking> <before the [Future era]>",
+                    "[+25]% Strength for cities <when defending> <before discovering [Future Tech]>",
+                    "[+50]% Strength <vs cities>  <when attacking> <before discovering [Future Tech]>",
                     "[+100]% weight to this choice for AI decisions"
                 ],
                 "row": 1,
@@ -415,7 +415,7 @@
         "policies": [
             {
                 "name": "Populism",
-                "uniques": ["[+40]% Strength <for [Wounded] units> <before the [Future era]>", "[+100]% weight to this choice for AI decisions"],
+                "uniques": ["[+40]% Strength <for [Wounded] units> <before discovering [Future Tech]>", "[+100]% weight to this choice for AI decisions"],
                 "row": 1,
                 "column": 2
             },
@@ -456,7 +456,7 @@
             {
                 "name": "Autocracy Complete",
                 "uniques": [
-                    "[+40]% Strength <when attacking> <for [Military] units> <before the [Future era]>"
+                    "[+40]% Strength <when attacking> <for [Military] units> <before discovering [Future Tech]>"
                 ]
             }
         ]
@@ -494,7 +494,7 @@
             {
                 "name": "Nationalism",
                 "uniques": [
-                    "[+25]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <before the [Future era]>"
+                    "[+25]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <before discovering [Future Tech]>"
                 ],
                 "row": 1,
                 "column": 5
