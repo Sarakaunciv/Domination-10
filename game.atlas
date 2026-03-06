@@ -487,6 +487,27 @@ BuildingIcons/Fortified Anti-Nuclear Shelter
   orig: 256, 256
   offset: 0, 0
   index: -1
+BuildingIcons/Cosmic Wall of Ventus
+  rotate: false
+  xy: 3840, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/High Wall of Ventus
+  rotate: false
+  xy: 3840, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/Last Wall of Ventus
+  rotate: false
+  xy: 3840, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 BuildingIcons/Ventus Awakening
   rotate: false
   xy: 3840, 768
