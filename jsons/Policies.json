@@ -3,11 +3,11 @@
         "name": "Tradition",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 5,
-            "Cultural": 5,
-            "Diplomatic": 5,
-            "Domination": 5,
-            "Scientific": 5
+            "Neutral": 6,
+            "Cultural": 6,
+            "Diplomatic": 6,
+            "Domination": 6,
+            "Scientific": 6
         },
         "uniques": [
             "[+10 Culture] [in capital]"
@@ -34,7 +34,9 @@
                 "name": "Oligarchy",
                 "uniques": [
                     "Units in cities cost no Maintenance",
-                    "[+50]% Strength for cities <with a garrison> <when attacking>"
+                    "[+25]% Strength for cities <when attacking>",
+                    "[+50]% Strength <vs cities> <when defending>",
+                    "[+100]% weight to this choice for AI decisions"
                 ],
                 "row": 1,
                 "column": 5
@@ -71,11 +73,11 @@
         "name": "Liberty",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 5,
-            "Cultural": 5,
-            "Diplomatic": 5,
-            "Domination": 5,
-            "Scientific": 5
+            "Neutral": 4,
+            "Cultural": 4,
+            "Diplomatic": 4,
+            "Domination": 4,
+            "Scientific": 4
         },
         "uniques": ["[+4 Culture] [in all cities]"],
         "policies": [
@@ -177,7 +179,9 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+50]% Strength for cities <with a garrison>"
+                    "[+25]% Strength for cities <when attacking>",
+                    "[+50]% Strength <vs cities> <when defending>",
+                    "[+100]% weight to this choice for AI decisions"
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
@@ -271,11 +275,11 @@
         "name": "Rationalism",
         "era": "Renaissance era",
         "priorities": {
-            "Neutral": 5,
-            "Cultural": 5,
-            "Diplomatic": 5,
-            "Domination": 5,
-            "Scientific": 5
+            "Neutral": 4,
+            "Cultural": 4,
+            "Diplomatic": 4,
+            "Domination": 4,
+            "Scientific": 4
         },
         "uniques": [
             "[+25]% [Science] <while the empire is happy>"
@@ -351,7 +355,11 @@
             },
             {
                 "name": "Universal Suffrage",
-                "uniques": ["[+50]% Strength for cities <when defending>","[+100]% weight to this choice for AI decisions"],
+                "uniques": [
+                    "[+25]% Strength for cities <when defending>",
+                    "[+50]% Strength <vs cities>  <when attacking>",
+                    "[+100]% weight to this choice for AI decisions"
+                ],
                 "row": 1,
                 "column": 3
             },
