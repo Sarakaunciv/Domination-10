@@ -23,5 +23,30 @@
         "untilTurn": 80000
       },
     ]
+  },
+  {
+    "name": "Test01",
+    "modifier": 1,
+    "productionCostModifier": 0.1,
+    "goldCostModifier": 1,
+    "scienceCostModifier": 1,
+    "cultureCostModifier": 1,
+    "faithCostModifier": 1,
+    "improvementBuildLengthModifier": 1,
+    "barbarianModifier": 1,
+    "goldGiftModifier": 1,
+    "cityStateTributeScalingInterval": 5,
+    "goldenAgeLengthModifier": 1,
+    "religiousPressureAdjacentCity": 0,
+    "peaceDealDuration": 5,
+    "dealDuration": 30,
+    "startYear": 0,
+    "turns":
+    [
+      {
+        "yearsPerTurn":  1, 
+        "untilTurn": 80000
+      },
+    ]
   }
 ]
