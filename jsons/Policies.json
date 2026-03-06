@@ -10,7 +10,7 @@
             "Scientific": 6
         },
         "uniques": [
-            "[+10 Culture] [in capital]"
+            "[+20 Culture] [in capital]"
         ],
         "policies": [
             {
@@ -25,7 +25,7 @@
             {
                 "name": "Legalism",
                 "uniques": [
-                    "[+2 Culture] [in all cities]"
+                    "[+5 Culture] [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
@@ -79,7 +79,7 @@
             "Domination": 4,
             "Scientific": 4
         },
-        "uniques": ["[+4 Culture] [in all cities]"],
+        "uniques": ["[+10 Culture] [in all cities]"],
         "policies": [
             {
                 "name": "Republic",
@@ -102,7 +102,7 @@
             {
                 "name": "Collective Rule",
                 "uniques": [
-                    "[+4 Culture] [in all cities]"
+                    "[+10 Culture] [in all cities]"
                 ],
                 "requires": ["Republic"],
                 "row": 2,
@@ -328,7 +328,7 @@
             {
                 "name": "Rationalism Complete",
                 "uniques": [
-                    "[5] free random researchable Tech(s) from the [pre-[Future era]]"
+                    "[8] free random researchable Tech(s) from the [pre-[Future era]]"
                 ]
             }
         ]
@@ -390,7 +390,10 @@
             {
                 "name": "Freedom Complete",
                 "uniques": [
-                    "[+100]% Yield from every [All]"
+                    "[+100]% [Gold] [in all cities]",
+                    "[+25]% [Science] [in all cities]",
+                    "[+100]% [Production] [in all cities]",
+                    "[+100]% [Culture] [in all cities]"
                 ]
             }
         ]
