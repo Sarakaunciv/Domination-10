@@ -52,7 +52,7 @@
 "uniqueTo": "Ventus",
 "uniques": ["[-98]% Food consumption by [Population] [in all cities]",
 	"[-98]% Unhappiness from [Population] [in all cities]",
-	"Can be purchased for [50000] [Faith] [in capital]","Only available <in [Capital] cities>","Destroyed when the city is captured","Unbuildable"]},
+	"Can be purchased for [10000] [Faith] [in capital]","Only available <in [Capital] cities>","Destroyed when the city is captured","Unbuildable"]},
 {"name": "Working Fallen Warrior",
 "uniqueTo": "Ventus","requiredBuilding": "Soul Feeding",
 "uniques": ["[+9 Production] per [1] population [in all cities]",
