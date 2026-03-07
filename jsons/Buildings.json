@@ -177,6 +177,10 @@
 "uniques": ["Will not be displayed in Civilopedia","Provides [900000] [Uranium]","Only available <in [Capital] cities>","Destroyed when the city is captured"],
 	"requiredTech": "Nuclear Fission"},
 
+{"name": "Ventus Repair 0","uniqueTo": "Ventus","requiredBuilding": "Great Wall of Ventus","cityHealth": 600,
+"uniques": ["Will not be displayed in Civilopedia","Remove [Ventus Repair 0] [in this city]","Can be purchased for [650] [Faith] [in all cities]",
+"Only available <before discovering [Masonry]>","Unbuildable"]},
+
 {"name": "Great Wall of Ventus",
 "uniqueTo": "Ventus",
 "replaces": "Walls",
