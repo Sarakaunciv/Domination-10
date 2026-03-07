@@ -46,25 +46,29 @@
   },
 	{
 		"name": "Ventus Citadel",
-		"terrainsCanBeBuiltOn": ["Land","Water"],
+		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 			"Great Improvement",
-			"Gives a defensive bonus of [200]% <in [Land] tiles>",
+			"Gives a defensive bonus of [200]% <for [Ventus] Civilizations>",
+			"Gives a defensive bonus of [-50]% <for [Hostile] Civilizations>",
 			"Adjacent enemy units ending their turn take [49] damage",
 			"Can be built just outside your borders",
-			"Gain control over [all] tiles in a [3]-tile radius",
-			"Removes removable features when built",
+			"Gain control over [all] tiles in a [1]-tile radius",
+			"Does not need removal of [Forest]",
+			"Does not need removal of [Jungle]",
             "Will not be replaced by automated units",
 			"Unpillagable"
 		]
 	},
 	{
-		"name": "Ventus Trap",
+		"name": "Ventus Taritori",
 		"terrainsCanBeBuiltOn": ["Land","Water"],
 		"uniques": [
-			"Great Improvement","Can be built outside your borders",
-			"Gives a defensive bonus of [-50]%",
-			"Removes removable features when built",
+			"Great Improvement",
+			"Can be built just outside your borders",
+			"Gain control over [all] tiles in a [4]-tile radius",
+			"Does not need removal of [Forest]",
+			"Does not need removal of [Jungle]",
             "Will not be replaced by automated units",
 			"Unpillagable"
 		]
