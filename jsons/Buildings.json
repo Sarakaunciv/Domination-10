@@ -304,14 +304,6 @@
 	"Gain a free [Forge Tech III] [in this city]"],
     "requiredTech": "Military Science"},
 
-{"name": "Forging Tech",
-"uniqueTo": "Ventus",
-"replaces": "Heroic Epic",
-"cost": 155,
-"isNationalWonder": true,
-"uniques": ["[+10 Production, +10 Culture]","[+20]% [Production] [in all cities]","Destroyed when the city is captured"],
-    "requiredTech": "Iron Working"},
-
 {"name": "Factechy I",
 "uniqueTo": "Ventus",
 "replaces": "Colosseum",
@@ -540,6 +532,27 @@
     "Destroyed when the city is captured"],
     "requiredTech": "Currency"},
     
+{"name": "N Military College",
+"uniqueTo": "Ventus",
+"replaces": "National College",
+"cost": 155,
+"uniques": ["[+50]% [Science] [in all cities]","Only available <in [Capital] cities>","Destroyed when the city is captured"],
+    "requiredTech": "Horseback Riding"},
+
+{"name": "N Ventus University",
+"uniqueTo": "Ventus",
+"replaces": "Oxford University",
+"cost": 1550,
+"uniques": ["[+50 Science] [in all cities]","[4] free random researchable Tech(s) from the [pre-[Future era]]","Only available <in [Capital] cities>","Destroyed when the city is captured"],
+    "requiredTech": "Horseback Riding"},
+
+{"name": "N Forging Tech",
+"uniqueTo": "Ventus",
+"replaces": "Heroic Epic",
+"cost": 155,
+"uniques": ["[+10 Production, +10 Culture]","[+20]% [Production] [in all cities]","Only available <in [Capital] cities>","Destroyed when the city is captured"],
+    "requiredTech": "Iron Working"},
+
 {"name": "N Fact Smith",
 "uniqueTo": "Ventus",
 "replaces": "Circus Maximus",
