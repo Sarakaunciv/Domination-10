@@ -481,14 +481,6 @@
 	"Gain a free [Mix Pack] [in this city]"],
     "requiredTech": "Robotics"},
 
-{"name": "Fact Smith",
-"uniqueTo": "Ventus",
-"replaces": "Circus Maximus",
-"cost": 155,
-"isNationalWonder": true,
-"uniques": ["[+20 Production, +5 Culture] [in all cities]","Destroyed when the city is captured"],
-    "requiredTech": "Horseback Riding"},
-    
     {"name": "Stain I",
 "uniqueTo": "Ventus",
 "replaces": "Monument",
@@ -548,6 +540,13 @@
     "Destroyed when the city is captured"],
     "requiredTech": "Currency"},
     
+{"name": "N Fact Smith",
+"uniqueTo": "Ventus",
+"replaces": "Circus Maximus",
+"cost": 155,
+"uniques": ["[+20 Production, +5 Culture] [in all cities]","Only available <in [Capital] cities>","Destroyed when the city is captured"],
+    "requiredTech": "Horseback Riding"},
+
     {"name": "N Prize",
 "uniqueTo": "Ventus",
 "replaces": "National Treasury",
