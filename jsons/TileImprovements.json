@@ -50,7 +50,7 @@
 		"uniques": [
 			"Great Improvement",
 			"Gives a defensive bonus of [200]% <for [Ventus] Civilizations>",
-			"Gives a defensive bonus of [-80]% <in [tileFilter] tiles>",
+			"Gives a defensive bonus of [-80]%",
 			"Gives a defensive bonus of [-25]% <in [Rough terrain] tiles>",
 			"Gives a defensive bonus of [-50]% <in [Mountain] tiles>",
 			"Adjacent enemy units ending their turn take [49] damage",
