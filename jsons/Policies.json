@@ -211,7 +211,7 @@
 {"name": "Organized Religion","uniques": ["[+10 Gold] [in all cities]"],"row": 1,"column": 2},
 {"name": "Mandate Of Heaven","uniques": ["[+10 Gold] [in all cities]"],"row": 1,"column": 5},
 {"name": "Theocracy","uniques": ["[+10 Gold] [in all cities]"],"requires": ["Organized Religion"],"row": 2,"column": 1},
-{"name": "Reformation","uniques": ["[+10 Gold] [in all cities]","requires": ["Organized Religion"],"row": 2,"column": 3},
+{"name": "Reformation","uniques": ["[+10 Gold] [in all cities]"],"requires": ["Organized Religion"],"row": 2,"column": 3},
 {"name": "Free Religion","uniques": ["[+10 Gold] [in all cities]"],"requires": ["Mandate Of Heaven", "Reformation"],"row": 3,"column": 4},
 {"name": "Piety Complete","uniques": ["[+40 Gold] [in all cities]"]}]},
 
@@ -223,7 +223,7 @@
 {"name": "Scholasticism","uniques": ["[+10 Gold] [in all cities]","Allied City-States provide [Science] equal to [100]% of what they produce for themselves"],"requires": ["Philantropy"],"row": 2,"column": 2},
 {"name": "Cultural Diplomacy","uniques": ["[+10 Gold] [in all cities]","Gifts of Gold to City-States generate [200]% more Influence"],"requires": ["Scholasticism"],"row": 3,"column": 2},
 {"name": "Educated Elite","requires": ["Scholasticism", "Aesthetics"],"uniques": ["[+10 Gold] [in all cities]","Resting point for Influence with City-States is increased by [30]"],"row": 3,"column": 4},
-{"name": "Patronage Complete","uniques": ["[+40 Gold] [in all cities]","[-25]% City-State Influence degradation",]}]},
+{"name": "Patronage Complete","uniques": ["[+40 Gold] [in all cities]","[-25]% City-State Influence degradation"]}]},
     {
         "name": "Commerce",
         "era": "Medieval era",
