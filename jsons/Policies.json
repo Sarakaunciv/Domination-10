@@ -369,7 +369,7 @@
             {
                 "name": "Civil Society",
                 "uniques": [
-                    "[+10 Culture] per [1] population [in all cities]"
+                    "[+50]% [Culture] [in all cities]"
                 ],
                 "row": 1,
                 "column": 5
@@ -413,7 +413,7 @@
         },
         "uniques": [
             "[-100]% maintenance costs <for [All] units>",
-            "Upon capturing a city, receive [25] times its [Culture] production as [Culture] immediately"
+            "Upon capturing a city, receive [5] times its [Culture] production as [Culture] immediately"
         ],
         "policies": [
             {

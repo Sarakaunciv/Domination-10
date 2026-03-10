@@ -67,7 +67,7 @@
 				"name": "Abyss",
 				"row": 9,
 				"prerequisites": ["Future Tech"],
-				"uniques": ["Can be continually researched"],
+				"uniques": [],
 				"quote": "'Darkness devours everything.' - Butter of Ventus",
                 "civilopediaText": [{"text": "Idea of Ventus"}]
 			}
@@ -103,6 +103,14 @@
 				"prerequisites": ["High Power"],
 				"uniques": [],
 				"quote": "'Those who in my way, must perish.' - Butter of Ventus",
+                "civilopediaText": [{"text": "Idea of Ventus"}]
+			},
+			{
+				"name": "Dark Abyss",
+				"row": 9,
+				"prerequisites": ["Abyss"],
+				"uniques": ["Can be continually researched"],
+				"quote": "'No one can escape abyss.' - Butter of Ventus",
                 "civilopediaText": [{"text": "Idea of Ventus"}]
 			}
 		]
