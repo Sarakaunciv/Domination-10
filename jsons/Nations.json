@@ -21,9 +21,9 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "The Great Ventus",
 		"uniqueText": "Raze100 NoNaturalGreatPerson
-		RoadCost-62 Culture+100 Faith-100 Exp-100
+		RoadCost-62 Faith-100 Exp-100
 		KillCity.gold,faith KillUnit.gold,culture,faith
-		UpgradeCost0 Heal10+5 Embark1Move
+		UpgradeCost-100 Heal+10 Embark1Move
 		Promotion.Supply,March,IndirectFire +125embarkDefense +100cityStrength -10happyNoPenalty
 		'No damage penalty for wounded units''No defensive terrain penalty'"
 		"uniques": ["Cities are razed [100] times as fast",
@@ -31,7 +31,6 @@
 			"[Great General] is earned [-100]% faster",
 			"May not generate great prophet equivalents naturally",
 			"[-200]% Great Person generation [in all cities]",
-			"[+100]% [Culture] [in all cities]",
 			"[-100]% [Faith] [in all cities]",
 			"[-100]% XP gained from combat",
 			"Upon capturing a city, receive [100] times its [Production] production as [Faith] immediately",
@@ -43,7 +42,6 @@
 			"No damage penalty for wounded units",
 			"No defensive terrain penalty",
 			"[10] HP when healing",
-			"[5] HP when healing <in [Friendly Land] tiles>",
 			"[1] Movement point cost to disembark",
 			"[1] Movement point cost to embark",
 			"[All] units gain the [Supply] promotion",
