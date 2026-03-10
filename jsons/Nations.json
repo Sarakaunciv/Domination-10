@@ -23,7 +23,7 @@
 		"uniqueText": "Raze100 NoNaturalGreatPerson
 		RoadCost-62 Faith-100 Exp-100
 		KillCity.gold,faith KillUnit.gold,culture,faith
-		UpgradeCost-100 Heal+15 Embark1Move
+		UpgradeCost-100 Heal=35 Embark1Move
 		Promotion.Supply,March,IndirectFire +125embarkDefense +100cityStrength -10happyNoPenalty
 		'No damage penalty for wounded units''No defensive terrain penalty'"
 		"uniques": ["Cities are razed [100] times as fast",
@@ -41,7 +41,8 @@
 			"[-100]% Gold cost of upgrading",
 			"No damage penalty for wounded units",
 			"No defensive terrain penalty",
-			"[15] HP when healing",
+			"[10] HP when healing",
+			"[5] HP when healing <in [Friendly Land] tiles>",
 			"[1] Movement point cost to disembark",
 			"[1] Movement point cost to embark",
 			"[All] units gain the [Supply] promotion",
