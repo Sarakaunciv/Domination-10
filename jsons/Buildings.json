@@ -33,8 +33,8 @@
 {"name": "1P Cheat","cityStrength": 30,"cost": 0,"requiredBuilding": "Cheat Key","uniques": ["[+30 Gold, +60 Science, +60 Production]","Destroyed when the city is captured"]},
 {"name": "Info 3 Cheat","cost": 0,"requiredBuilding": "Cheat Key","requiredTech": "Satellites","uniques": ["Discover [Globalization]","Discover [Particle Physics]","Discover [Nanotechnology]","Only available <in [Capital] cities>"]},
 
-{"name": "Ventus Seal Breaker","uniqueTo": "Ventus","replaces": "Manhattan Project","cost": 0,"isNationalWonder": true,"requiredBuilding": "Cheat Key","uniques": ["Enables nuclear weapon","Destroyed when the city is captured"]}
-{"name": "THE GRAND ABYSS Cheat","uniqueTo": "Ventus","cost": 0,"requiredBuilding": "Cheat Powder","uniques": ["Will not be displayed in Civilopedia","[6] free [THE GRAND ABYSS] units appear","Destroyed when the city is captured"]}
+{"name": "Ventus Seal Breaker","uniqueTo": "Ventus","replaces": "Manhattan Project","cost": 0,"isNationalWonder": true,"requiredBuilding": "Cheat Key","uniques": ["Enables nuclear weapon","Destroyed when the city is captured"]},
+{"name": "THE GRAND ABYSS Cheat","uniqueTo": "Ventus","cost": 0,"requiredBuilding": "Cheat Powder","uniques": ["Will not be displayed in Civilopedia","[6] free [THE GRAND ABYSS] units appear","Destroyed when the city is captured"]},
 
 {"name": "Ventus Normal Building Pack","uniqueTo": "Ventus","cost": 2500,"requiredTech": "Plastics","uniques": ["[+333 Science]","Gain a free [Granary] [in this city]","Gain a free [Library] [in this city]","Gain a free [Lighthouse] [in this city]","Gain a free [Market] [in this city]","Gain a free [University] [in this city]","Gain a free [Workshop] [in this city]","Gain a free [Bank] [in this city]","Gain a free [Factory] [in this city]","Gain a free [Public School] [in this city]","Gain a free [Stock Exchange] [in this city]","Gain a free [Research Lab] [in this city]","Destroyed when the city is captured"]},
 
@@ -591,5 +591,5 @@
 "replaces": "Hermitage",
 "cost": 155,
 "uniques": ["Only available <in [Capital] cities>","[+100 Culture]","[+100]% [Culture] [in all cities]","Destroyed when the city is captured"],
-    "requiredTech": "Architecture"},
+    "requiredTech": "Architecture"}
 ]
